@@ -1,0 +1,1113 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": [
+        {
+            "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+            "createdAt": "2023-03-17T15:14:00+06:00",
+            "updatedAt": "2023-04-13T18:01:04+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "WizzArt AI",
+            "headerText": "Magic Art World",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchat/wizzart.png",
+            "backgroundColor": "#F67255",
+            "description": "WizzArt AI is an AI model trained and published to GoatChat by a Danish Artist. Who trained his dataset on his unique paintings. ",
+            "nickname": "wizzart",
+            "aliveStart": "2023-01-02T00:22:25+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "f81a104e-16c7-48c3-a6ba-fabe7e75f0b1",
+                    "createdAt": "2023-03-17T15:17:15+06:00",
+                    "updatedAt": "2023-03-17T15:17:15+06:00",
+                    "message": "Handsome young male wizard, white wizard shirt with golden trim, white robe moving in the wind, long white hair, fully clothed, perfect face, handsome",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "6f14171b-035e-4707-b721-95e51b83a273",
+                    "createdAt": "2023-03-17T15:17:15+06:00",
+                    "updatedAt": "2023-03-17T15:17:15+06:00",
+                    "message": "Style-Empire, 8k portrait of beautiful young woman with brown hair, intricate, elegant",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "7bda81a9-6ece-48b2-a402-649544c9f4f0",
+                    "createdAt": "2023-03-17T15:17:15+06:00",
+                    "updatedAt": "2023-03-17T15:17:15+06:00",
+                    "message": "Medieval Castle, highly detailed, majestic, sunset, ocean",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 89,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "IMAGE",
+            "isPublic": true,
+            "usersCount": 35034,
+            "messagesCount": 124051,
+            "likesCount": 3152,
+            "tutorialInfo": "",
+            "aiQuote": "Magic Art World",
+            "isTopRated": true,
+            "feedImages": [
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_gsgfwuiesnmucyds.jpeg",
+                    "question": "فتاه جميله وقصيرة قليلاً وعيونها اسيويه وباردة وتحب فرق الكيبوب  وهي حزينه جدا من أهلها وهي لديها فوبيا من مرض يدعه سكته قلبيه لن توفي جدها وهي في عمر 4 سنوات وهي تحب الهدوء والشتاء وهي ليست في المدرسة لن أهلها لم يقبلون أن تكمل دراستها الثانوية واهلها ليس طيبين وهم قاسين القلب وهي فيها مرض الضغط وفيه مرض يدعه فقر دم"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_auuvbglfhetmsrzx.jpeg",
+                    "question": "La portada debe mostrar un castillo abandonado en medio de un oscuro bosque, iluminado por la luz de la luna llena. \n\nEn la entrada del castillo, vemos a la protagonista, una chica de cabello rojo, vestida de brujita sensual, sosteniendo una vela encendida. su expresión es de emoción.\n\nEl fondo de la portada podría tener tonos oscuros y misteriosos para crear la atmósfera adecuada para una comedia romántica con elementos sobrenaturales."
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_xzrmvtzaqtzwuikz.jpeg",
+                    "question": "Castillo medieval, muy detallado, majestuoso, puesta de sol, océano"
+                }
+            ],
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+            "createdAt": "2023-01-27T03:43:24+06:00",
+            "updatedAt": "2023-04-23T18:44:11+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Anime AI",
+            "headerText": "Anime Style AI Art",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_elvxpfptncxqlwjx.jpeg",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+            "backgroundColor": "#E15554",
+            "description": "Anime is hand-drawn and computer-generated animation originating from Japan. Outside of Japan and in English, anime refers specifically to animation produced in Japan. However, in Japan and in Japanese, anime describes all animated works, regardless of style or origin.",
+            "nickname": "animeai",
+            "aliveStart": "2023-01-02T00:22:25+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "1da0d208-8671-413e-94ec-663916fa194b",
+                    "createdAt": "2023-01-27T03:45:22+06:00",
+                    "updatedAt": "2023-01-27T03:45:22+06:00",
+                    "message": "Pirate ship, sailing, daytime",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "aa8f94f6-6da4-46ac-a956-449003645119",
+                    "createdAt": "2023-01-27T03:45:22+06:00",
+                    "updatedAt": "2023-01-27T03:45:22+06:00",
+                    "message": "Girl warrior, white hair, brown eyes, standing in church",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "8f6fa350-8386-4d1c-96f3-3ef7340f832d",
+                    "createdAt": "2023-01-27T03:45:22+06:00",
+                    "updatedAt": "2023-01-27T03:45:22+06:00",
+                    "message": "Village in the mountains, full moon",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 89,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [
+                {
+                    "id": "eebde85e-2d85-415b-a85b-f27861d3480e",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "stability",
+                        "messagesCount": 627,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                    "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
+                },
+                {
+                    "id": "08d95c5e-200a-43c2-82ab-76538288636b",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "painting",
+                        "messagesCount": 3110,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                    "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
+                },
+                {
+                    "id": "d428508e-bf05-402a-be20-fa70fb4baf82",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "image",
+                        "messagesCount": 6295,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                    "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
+                },
+                {
+                    "id": "5e82f756-eeb0-46cb-95a6-f4405d9a37c9",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "art",
+                        "messagesCount": 35662,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                    "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
+                }
+            ],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "IMAGE",
+            "isPublic": true,
+            "usersCount": 91206,
+            "messagesCount": 288049,
+            "likesCount": 6598,
+            "tutorialInfo": "",
+            "aiQuote": "Anime Style AI Art",
+            "isTopRated": true,
+            "feedImages": [
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_kvftfzbzrhlhpdke.jpeg",
+                    "question": "Bateau pirate, voile, jour"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_jbmvinjksuyzovlz.jpeg",
+                    "question": "Inuyasa Sakura"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230709_tcserwtvpuysmbgb.jpeg",
+                    "question": "Chica de pelo Rojo Ojós marrones sexi y guerrera"
+                }
+            ],
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+            "createdAt": "2023-01-24T16:47:19+06:00",
+            "updatedAt": "2023-04-13T18:01:04+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Wallpaper AI",
+            "headerText": "AI Wallpaper Maker",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/wallpaper.png",
+            "backgroundColor": "#2564AE",
+            "description": "Our tool uses AI to generate a unfinite choice of backgrounds from the description you made. It takes a few seconds to generate quality backgrounds.",
+            "nickname": "wallpaperAI",
+            "aliveStart": "2023-01-02T00:22:25+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "9de1d831-959f-4e57-bb5a-3edc3d262466",
+                    "createdAt": "2023-01-26T01:41:05+06:00",
+                    "updatedAt": "2023-01-26T01:41:05+06:00",
+                    "message": "Create a sailing yacht wallpaper for iOS",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "5a240ba9-8be0-427c-a876-cdb806c10c21",
+                    "createdAt": "2023-01-26T01:41:05+06:00",
+                    "updatedAt": "2023-01-26T01:41:05+06:00",
+                    "message": "Create a wallpaper with a red sport car",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "bd5b8397-718e-4887-9c59-4fe04140e796",
+                    "createdAt": "2023-01-26T01:41:05+06:00",
+                    "updatedAt": "2023-01-26T01:41:05+06:00",
+                    "message": "Make a space wallpaper for me",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 89,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "IMAGE",
+            "isPublic": true,
+            "usersCount": 112551,
+            "messagesCount": 433929,
+            "likesCount": 7187,
+            "tutorialInfo": "",
+            "aiQuote": "AI Wallpaper Maker",
+            "isTopRated": true,
+            "feedImages": [
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_yishwlqbmftiktly.jpeg",
+                    "question": "Crées un cover CD concernant la fête de la musique. Merci."
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_qozhcvfyupmogizl.jpeg",
+                    "question": "crées un fond d'écran pour Android Samsung A72 concernant la fête de la musique. merci"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_bsoddrafhskmzril.jpeg",
+                    "question": "Stwórz grafikę: wrażliwa kobieta z kwiatami na głowie"
+                }
+            ],
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "c602db9e-5000-45df-a152-fe6745757b29",
+            "createdAt": "2022-12-12T14:50:37+06:00",
+            "updatedAt": "2023-04-13T18:01:04+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Albert Einstein",
+            "headerText": "Chat with Einstein about the Universe",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/thedopeyone.png",
+            "backgroundColor": "#171714",
+            "description": "German-born physicist who developed the special and general theories of relativity and won the Nobel Prize for Physics in 1921 for his explanation of the photoelectric effect",
+            "nickname": "thedopeyone",
+            "aliveStart": "2022-12-12T00:31:11+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "86cadfcd-a489-47dc-8998-95b5a05eac5b",
+                    "createdAt": "2022-12-12T18:21:20+06:00",
+                    "updatedAt": "2022-12-12T18:21:20+06:00",
+                    "message": "Why did you make an atomic bomb?",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "42001a0e-59a5-47f5-9ae8-e204efddaee9",
+                    "createdAt": "2022-12-12T18:21:20+06:00",
+                    "updatedAt": "2022-12-12T18:21:20+06:00",
+                    "message": "Did you support hitler?",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "2e9a8884-07aa-49bc-a798-b702d2752a92",
+                    "createdAt": "2022-12-12T14:50:50+06:00",
+                    "updatedAt": "2022-12-12T14:50:50+06:00",
+                    "message": "Explain your most famous equation please.",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 77,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [
+                {
+                    "id": "4b64c401-c5b3-457c-8827-66e41c1f453b",
+                    "createdAt": "2023-01-17T14:59:28+06:00",
+                    "updatedAt": "2023-01-17T14:59:28+06:00",
+                    "tag": {
+                        "id": "a618f269-2b33-43a5-9479-5854d227332b",
+                        "createdAt": "2023-01-17T00:27:13+06:00",
+                        "updatedAt": "2023-01-17T00:27:13+06:00",
+                        "title": "physics",
+                        "messagesCount": 10846,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "a618f269-2b33-43a5-9479-5854d227332b",
+                    "botId": "c602db9e-5000-45df-a152-fe6745757b29"
+                },
+                {
+                    "id": "7cc8dd47-f643-4b9d-92ce-c640d21a8329",
+                    "createdAt": "2023-01-17T14:59:28+06:00",
+                    "updatedAt": "2023-01-17T14:59:28+06:00",
+                    "tag": {
+                        "id": "c39cb427-9296-45bc-8d48-14c44ac56220",
+                        "createdAt": "2023-01-17T00:27:13+06:00",
+                        "updatedAt": "2023-01-17T00:27:13+06:00",
+                        "title": "science",
+                        "messagesCount": 19192,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "c39cb427-9296-45bc-8d48-14c44ac56220",
+                    "botId": "c602db9e-5000-45df-a152-fe6745757b29"
+                },
+                {
+                    "id": "7d1e2352-fe9c-4bc5-af62-06a47bdc9cc4",
+                    "createdAt": "2023-01-17T14:59:28+06:00",
+                    "updatedAt": "2023-01-17T14:59:28+06:00",
+                    "tag": {
+                        "id": "89c0d2b5-025d-42f9-9a6b-8ff506399180",
+                        "createdAt": "2023-01-17T00:27:13+06:00",
+                        "updatedAt": "2023-01-17T00:27:13+06:00",
+                        "title": "genius",
+                        "messagesCount": 10264,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "89c0d2b5-025d-42f9-9a6b-8ff506399180",
+                    "botId": "c602db9e-5000-45df-a152-fe6745757b29"
+                }
+            ],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "TEXT",
+            "isPublic": true,
+            "usersCount": 80180,
+            "messagesCount": 352283,
+            "likesCount": 4850,
+            "tutorialInfo": "",
+            "aiQuote": "Chat with Einstein about the Universe",
+            "isTopRated": true,
+            "feedImages": null,
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+            "createdAt": "2023-04-16T15:27:32+06:00",
+            "updatedAt": "2023-04-16T15:27:32+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Journey AI",
+            "headerText": "HQ Digital Art",
+            "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+            "coverImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+            "backgroundColor": "#051024",
+            "description": "Journey AI inherits best practicies from Dall-E 2 and Latent diffucion, while introducing some new ideas. As text and image encoder it uses CLIP model and diffusion image prior (mapping) between latent spaces of CLIP modalities. This approach increases the visual performance of the model and unveils new horizons in blending images and text-guided image manipulation.",
+            "nickname": "journeyai",
+            "aliveStart": "2023-02-02T03:08:39+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "a92fdd27-dff9-490b-99d6-267498edd471",
+                    "createdAt": "2023-04-16T15:29:42+06:00",
+                    "updatedAt": "2023-04-16T15:29:42+06:00",
+                    "message": "Sunset in New York",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "73158e7b-3381-4dd2-9cdf-a9b4421f775b",
+                    "createdAt": "2023-04-16T15:29:42+06:00",
+                    "updatedAt": "2023-04-16T15:29:42+06:00",
+                    "message": "Ferrari Supercar",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "eca482fa-17a5-4887-a3d6-fc0e0fe8b5be",
+                    "createdAt": "2023-04-16T15:29:42+06:00",
+                    "updatedAt": "2023-04-16T15:29:42+06:00",
+                    "message": "Albert Einstein",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 60,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "IMAGE",
+            "isPublic": true,
+            "usersCount": 40421,
+            "messagesCount": 60678,
+            "likesCount": 948,
+            "tutorialInfo": "",
+            "aiQuote": "AI Art Journey",
+            "isTopRated": false,
+            "feedImages": [
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_noghgtopfpkykngd.jpeg",
+                    "question": "Albert Einstein"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_bqrmwqtwimitrbgd.jpeg",
+                    "question": "Sekhmet deesse"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230708_vqxgbhuueuvynknt.jpeg",
+                    "question": "la voie lactée vue de la terre"
+                }
+            ],
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+            "createdAt": "2023-01-19T19:21:55+06:00",
+            "updatedAt": "2023-04-13T18:01:04+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Ernest Hemingway",
+            "headerText": "Write a book with Ernest Hemingway",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+            "backgroundColor": "#6E3A1A",
+            "description": "Ernest Hemingway was the greatest American novelist, short-story writer, and journalist. His Ai can help you to write a book or generate short stories",
+            "nickname": "ernest_book",
+            "aliveStart": "2023-01-19T19:13:32+06:00",
+            "aliveEnd": "2023-01-19T19:13:32+06:00",
+            "popularMessages": [
+                {
+                    "id": "18cd0f24-e8b4-41a2-a822-3cce584c3c5b",
+                    "createdAt": "2023-01-19T19:29:45+06:00",
+                    "updatedAt": "2023-01-19T19:29:45+06:00",
+                    "message": "Write professional essay in 200 words about How to reduce carbon emission",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "f49dbf31-f3e3-42d8-ab1f-b600a9229897",
+                    "createdAt": "2023-01-19T19:29:45+06:00",
+                    "updatedAt": "2023-01-19T19:29:45+06:00",
+                    "message": "Write a short story about one romantic day one mars",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "45a6c6c3-051f-4d55-be38-e2d8cf09db45",
+                    "createdAt": "2023-01-19T19:29:45+06:00",
+                    "updatedAt": "2023-01-19T19:29:45+06:00",
+                    "message": "Create an outline for a book about Alien life on the planet XE-A13",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 90,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [
+                {
+                    "id": "e2201791-fc25-4444-bb5b-d64a41f87841",
+                    "createdAt": "2023-01-19T19:31:54+06:00",
+                    "updatedAt": "2023-01-19T19:31:54+06:00",
+                    "tag": {
+                        "id": "f1c9c005-b20c-4cc7-b4ac-8385e239355a",
+                        "createdAt": "2023-01-17T00:27:13+06:00",
+                        "updatedAt": "2023-01-17T00:27:13+06:00",
+                        "title": "writer",
+                        "messagesCount": 71378,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "f1c9c005-b20c-4cc7-b4ac-8385e239355a",
+                    "botId": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789"
+                },
+                {
+                    "id": "4a27604a-4693-424d-970e-3957d23fee2a",
+                    "createdAt": "2023-01-19T19:31:54+06:00",
+                    "updatedAt": "2023-01-19T19:31:54+06:00",
+                    "tag": {
+                        "id": "3654f4f8-602d-4d08-a07e-f44e0208fffd",
+                        "createdAt": "2023-01-17T00:27:13+06:00",
+                        "updatedAt": "2023-01-17T00:27:13+06:00",
+                        "title": "essay",
+                        "messagesCount": 889,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "3654f4f8-602d-4d08-a07e-f44e0208fffd",
+                    "botId": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789"
+                },
+                {
+                    "id": "c8737c1c-ab97-4c95-b5ba-541d5a09a2a0",
+                    "createdAt": "2023-01-19T19:31:54+06:00",
+                    "updatedAt": "2023-01-19T19:31:54+06:00",
+                    "tag": {
+                        "id": "898d7a46-847f-49e4-890e-e2152414b012",
+                        "createdAt": "2023-01-17T00:23:02+06:00",
+                        "updatedAt": "2023-01-17T00:23:02+06:00",
+                        "title": "Assistant",
+                        "messagesCount": 0,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "898d7a46-847f-49e4-890e-e2152414b012",
+                    "botId": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789"
+                }
+            ],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "TEXT",
+            "isPublic": true,
+            "usersCount": 11078,
+            "messagesCount": 40650,
+            "likesCount": 974,
+            "tutorialInfo": "",
+            "aiQuote": "Write a book with Ernest Hemingway",
+            "isTopRated": false,
+            "feedImages": null,
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+            "createdAt": "2023-01-26T03:17:53+06:00",
+            "updatedAt": "2023-04-13T18:01:04+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Johannes Vermeer",
+            "headerText": "Dutch Golden Age Art.",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/vermeer.png",
+            "backgroundColor": "#FCA311",
+            "description": "Johannes Vermeer was a Dutch Baroque Period painter who specialized in domestic interior scenes of middle-class life. During his lifetime, he was a moderately successful provincial genre painter, recognized in Delft and The Hague",
+            "nickname": "sphinxofdelft",
+            "aliveStart": "2023-01-02T00:22:25+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "a071c85c-8fb7-42a5-8d27-98fe0e26e76c",
+                    "createdAt": "2023-01-26T03:20:25+06:00",
+                    "updatedAt": "2023-01-26T03:20:25+06:00",
+                    "message": "Could you paint the pope in Vatican.",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "dda50bac-f028-4617-aa27-5a31eb45d8a5",
+                    "createdAt": "2023-01-26T03:20:25+06:00",
+                    "updatedAt": "2023-01-26T03:20:25+06:00",
+                    "message": "Paint Netherlands hills and a river.",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "11d0b26a-53e9-4e92-b952-b89ebb5fab2e",
+                    "createdAt": "2023-01-26T03:20:25+06:00",
+                    "updatedAt": "2023-01-26T03:20:25+06:00",
+                    "message": "Draw the king of England in his castle",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 77,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [
+                {
+                    "id": "97acd70a-750e-484a-93c6-05275a5f5153",
+                    "createdAt": "2023-01-26T03:33:31+06:00",
+                    "updatedAt": "2023-01-26T03:33:31+06:00",
+                    "tag": {
+                        "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "art",
+                        "messagesCount": 35662,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                    "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
+                },
+                {
+                    "id": "6bf393f6-6480-49ee-8fce-7af57c0cf066",
+                    "createdAt": "2023-01-26T03:33:31+06:00",
+                    "updatedAt": "2023-01-26T03:33:31+06:00",
+                    "tag": {
+                        "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "stability",
+                        "messagesCount": 627,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                    "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
+                },
+                {
+                    "id": "3777498d-4681-4fe1-a401-d7659ede6b2e",
+                    "createdAt": "2023-01-26T03:33:31+06:00",
+                    "updatedAt": "2023-01-26T03:33:31+06:00",
+                    "tag": {
+                        "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "painting",
+                        "messagesCount": 3110,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                    "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
+                },
+                {
+                    "id": "ab6cd00c-c3d6-45bc-a2b1-81be13f1410b",
+                    "createdAt": "2023-01-26T03:33:31+06:00",
+                    "updatedAt": "2023-01-26T03:33:31+06:00",
+                    "tag": {
+                        "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "image",
+                        "messagesCount": 6295,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                    "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
+                }
+            ],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "IMAGE",
+            "isPublic": true,
+            "usersCount": 12895,
+            "messagesCount": 32009,
+            "likesCount": 316,
+            "tutorialInfo": "",
+            "aiQuote": "Dutch Golden Age Art.",
+            "isTopRated": true,
+            "feedImages": [
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+                    "question": "ضابط شرطة قائد ، نزيه، شريف، مجتهد في عمله، شخصية قوي"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+                    "question": "چگونه نودل درست کنم"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+                    "question": "تصویر یک ربات در جنگ جهانی اول را بکش"
+                }
+            ],
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "8553d98b-923f-4b17-a332-5f4cbb6e271f",
+            "createdAt": "2022-12-23T19:39:23+06:00",
+            "updatedAt": "2023-04-13T16:41:03+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Muhammad Ali",
+            "headerText": "Fly like a butterfly: Personal Training Plan",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/ali.png",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thegreatestali.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thegreatestali.png",
+            "backgroundColor": "#2CBFD6",
+            "description": "Muhammad Ali was an American professional boxer and activist. Nicknamed \"The Greatest\", he is regarded as one of the most significant sports figures of the 20th century, and is frequently ranked as the greatest heavyweight boxer of all time.",
+            "nickname": "thegreatest",
+            "aliveStart": "2022-12-12T00:31:11+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "e9ba9d1c-ed2c-450f-9936-87f8bee512ba",
+                    "createdAt": "2022-12-23T19:42:00+06:00",
+                    "updatedAt": "2022-12-23T19:42:00+06:00",
+                    "message": "Who is the greatest boxer of all time?",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "41d327eb-5057-494e-a04a-238a60bc35b2",
+                    "createdAt": "2022-12-23T19:42:00+06:00",
+                    "updatedAt": "2022-12-23T19:42:00+06:00",
+                    "message": "Who your toughest boxing opponent?",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "aa3751f6-4789-4f30-addf-06a2c6377cf8",
+                    "createdAt": "2022-12-23T19:42:00+06:00",
+                    "updatedAt": "2022-12-23T19:42:00+06:00",
+                    "message": "Why did you become muslim?",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 90,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "TEXT",
+            "isPublic": true,
+            "usersCount": 4674,
+            "messagesCount": 9587,
+            "likesCount": 155,
+            "tutorialInfo": "",
+            "aiQuote": "Fly like a butterfly: Personal Training Plan",
+            "isTopRated": false,
+            "feedImages": null,
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+            "createdAt": "2023-01-27T03:31:26+06:00",
+            "updatedAt": "2023-04-13T18:01:04+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Banksy",
+            "headerText": "Modern Street Art",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchat/banksy.png",
+            "backgroundColor": "#2F323A",
+            "description": "Banksy is a pseudonymous England-based street artist, political activist and film director whose real name and identity remain unconfirmed and the subject of speculation",
+            "nickname": "banksy",
+            "aliveStart": "2023-01-02T00:22:25+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "7f7adaae-ccfa-4f00-8140-009dab6b68f0",
+                    "createdAt": "2023-01-27T03:32:57+06:00",
+                    "updatedAt": "2023-01-27T03:32:57+06:00",
+                    "message": "Can you make a graffiti of a cat?",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "a3ee4b71-7035-4080-99ee-386dc08444a8",
+                    "createdAt": "2023-01-27T03:32:57+06:00",
+                    "updatedAt": "2023-01-27T03:32:57+06:00",
+                    "message": "Yacht sailing",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "073fd3df-bb6f-45c8-83ee-c00ac0f9795d",
+                    "createdAt": "2023-01-27T03:32:57+06:00",
+                    "updatedAt": "2023-01-27T03:32:57+06:00",
+                    "message": "Dragon breathing fire",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 77,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [
+                {
+                    "id": "b82a665d-8041-4c9d-848d-fb72ed185281",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "art",
+                        "messagesCount": 35662,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                    "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
+                },
+                {
+                    "id": "e2d2a039-d935-42e1-8254-5734fecd2dd0",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "stability",
+                        "messagesCount": 627,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                    "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
+                },
+                {
+                    "id": "5f527fbe-49d3-436c-965c-03702d51c182",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "image",
+                        "messagesCount": 6295,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                    "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
+                },
+                {
+                    "id": "df4b5716-2985-4fa7-a955-5371fdb18529",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "painting",
+                        "messagesCount": 3110,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                    "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
+                }
+            ],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "IMAGE",
+            "isPublic": true,
+            "usersCount": 19824,
+            "messagesCount": 54830,
+            "likesCount": 671,
+            "tutorialInfo": "",
+            "aiQuote": "Modern Street Art",
+            "isTopRated": true,
+            "feedImages": [
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230717_gmvtfeogokzrszov.jpeg",
+                    "question": "намалюй Стіва з Minecraft"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230718_bsuileuzyijabmxa.jpeg",
+                    "question": "Justified and ancient"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230716_yydpdqwyvxwreycl.jpeg",
+                    "question": "Dragón respirando fuego"
+                }
+            ],
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        },
+        {
+            "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+            "createdAt": "2023-01-26T03:28:39+06:00",
+            "updatedAt": "2023-04-13T18:01:04+06:00",
+            "status": "ACTIVE",
+            "type": "DEFAULT",
+            "name": "Leonardo da Vinci",
+            "headerText": "Leonardo, the Greatest.",
+            "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+            "skyboxImageUrl": null,
+            "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+            "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/davinci.png",
+            "backgroundColor": "#44260A",
+            "description": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect",
+            "nickname": "davinci",
+            "aliveStart": "2023-01-02T00:22:25+06:00",
+            "aliveEnd": "2024-01-14T01:42:23+06:00",
+            "popularMessages": [
+                {
+                    "id": "91bf3458-48b4-478e-889e-2c3e7bbb76d7",
+                    "createdAt": "2023-01-26T03:32:07+06:00",
+                    "updatedAt": "2023-01-26T03:32:07+06:00",
+                    "message": "Paint the roman warrior in the church.",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "f8de8433-a540-443f-beae-99c096ef56df",
+                    "createdAt": "2023-01-26T03:32:07+06:00",
+                    "updatedAt": "2023-01-26T03:32:07+06:00",
+                    "message": "Could you paint the Swiss Alps, mountains.",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                },
+                {
+                    "id": "394d091d-969a-4d9f-bad4-d6fcd59783d3",
+                    "createdAt": "2023-01-26T03:32:07+06:00",
+                    "updatedAt": "2023-01-26T03:32:07+06:00",
+                    "message": "How do you see the entrance to heaven?",
+                    "popularMessageType": "DEFAULT",
+                    "metaData": null
+                }
+            ],
+            "isPremium": false,
+            "priority": 77,
+            "botCharacters": null,
+            "info": "",
+            "botInterests": null,
+            "authorId": null,
+            "botTags": [
+                {
+                    "id": "03a1856f-cc77-44ce-8e0a-d7b7a386b54f",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "art",
+                        "messagesCount": 35662,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
+                    "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
+                },
+                {
+                    "id": "1f87fc53-3485-4408-bcad-f8349612d3af",
+                    "createdAt": "2023-01-27T04:22:55+06:00",
+                    "updatedAt": "2023-01-27T04:22:55+06:00",
+                    "tag": {
+                        "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "painting",
+                        "messagesCount": 3110,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
+                    "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
+                },
+                {
+                    "id": "4d465087-3c41-4b53-9209-9fd689fbd129",
+                    "createdAt": "2023-01-26T03:33:31+06:00",
+                    "updatedAt": "2023-01-26T03:33:31+06:00",
+                    "tag": {
+                        "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "image",
+                        "messagesCount": 6295,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
+                    "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
+                },
+                {
+                    "id": "7093bdeb-d12e-4133-9d4f-74cead2c9958",
+                    "createdAt": "2023-01-26T03:33:31+06:00",
+                    "updatedAt": "2023-01-26T03:33:31+06:00",
+                    "tag": {
+                        "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                        "createdAt": "2023-01-26T01:55:32+06:00",
+                        "updatedAt": "2023-01-26T01:55:32+06:00",
+                        "title": "stability",
+                        "messagesCount": 627,
+                        "isBlacklisted": false
+                    },
+                    "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
+                    "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
+                }
+            ],
+            "botSocials": null,
+            "botFileSources": null,
+            "botFunctionType": "IMAGE",
+            "isPublic": true,
+            "usersCount": 12158,
+            "messagesCount": 35887,
+            "likesCount": 566,
+            "tutorialInfo": "",
+            "aiQuote": "Leonardo, the Greatest.",
+            "isTopRated": true,
+            "feedImages": [
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_hhnghxnxfwispfwq.jpeg",
+                    "question": "كيف ترى مدخل الجنة؟"
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_sxgspfdkenbgohzi.jpeg",
+                    "question": "elaborar un ensayo a través del cuento \"carta a una señorita en París\""
+                },
+                {
+                    "imageUrl": "https://assets.adapt.ws/files/20230719_okqwmbwrkhpfdhqs.jpeg",
+                    "question": "Mach ein Lgbtq Trans bild"
+                }
+            ],
+            "isConfirmed": false,
+            "userIntegrationId": null,
+            "socialAccountLink": "",
+            "socialAccountType": "",
+            "botStoryOption": null,
+            "chats": []
+        }
+    ]
+}
