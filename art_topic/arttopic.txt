@@ -4,125 +4,29 @@
   "data": [
     {
       "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
-      "createdAt": "2023-01-27T03:43:24+06:00",
-      "updatedAt": "2023-04-23T18:44:11+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Anime AI",
       "headerText": "Phong cách Anime AI Art",
       "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
-      "skyboxImageUrl": null,
-      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_elvxpfptncxqlwjx.jpeg",
       "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
       "backgroundColor": "#E15554",
       "description": "Anime là hoạt hình vẽ tay và do máy tính tạo ra có nguồn gốc từ Nhật Bản. Bên ngoài Nhật Bản và trong tiếng Anh, anime đề cập cụ thể đến hoạt hình được sản xuất tại Nhật Bản. Tuy nhiên, ở Nhật Bản và trong tiếng Nhật, anime mô tả tất cả các tác phẩm hoạt hình, bất kể phong cách hay nguồn gốc.",
-      "nickname": "animeai",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "8f6fa350-8386-4d1c-96f3-3ef7340f832d",
-          "createdAt": "2023-01-27T03:45:22+06:00",
-          "updatedAt": "2023-01-27T03:45:22+06:00",
-          "message": "Làng trên núi, trăng tròn",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Làng trên núi, trăng tròn"
         },
         {
-          "id": "aa8f94f6-6da4-46ac-a956-449003645119",
-          "createdAt": "2023-01-27T03:45:22+06:00",
-          "updatedAt": "2023-01-27T03:45:22+06:00",
-          "message": "Cô gái chiến binh, mái tóc trắng, đôi mắt nâu, đứng trong nhà thờ",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Cô gái chiến binh, mái tóc trắng, đôi mắt nâu, đứng trong nhà thờ"
         },
         {
-          "id": "1da0d208-8671-413e-94ec-663916fa194b",
-          "createdAt": "2023-01-27T03:45:22+06:00",
-          "updatedAt": "2023-01-27T03:45:22+06:00",
-          "message": "Tàu cướp biển, thuyền buồm, Ban ngày",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Tàu cướp biển, thuyền buồm, Ban ngày"
         }
       ],
-      "isPremium": false,
-      "priority": 89,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "d428508e-bf05-402a-be20-fa70fb4baf82",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
-        },
-        {
-          "id": "5e82f756-eeb0-46cb-95a6-f4405d9a37c9",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
-        },
-        {
-          "id": "08d95c5e-200a-43c2-82ab-76538288636b",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "painting",
-            "messagesCount": 3100,
-            "isBlacklisted": false
-          },
-          "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-          "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
-        },
-        {
-          "id": "eebde85e-2d85-415b-a85b-f27861d3480e",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "stability",
-            "messagesCount": 627,
-            "isBlacklisted": false
-          },
-          "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-          "botId": "f6599106-d526-41d2-a55d-81c6cf132b6f"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 91769,
       "messagesCount": 289675,
       "likesCount": 6626,
-      "tutorialInfo": "",
       "aiQuote": "Phong cách Anime AI Art",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
@@ -136,74 +40,33 @@
           "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
           "question": "عين او وجه لإنسان ينظر من اعلى السماء نحو الطبيعة الخضراء الجميلة"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
-      "createdAt": "2023-03-17T15:14:00+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "WizzArt AI",
       "headerText": "Thế giới nghệ thuật kỳ diệu",
       "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchat/wizzart.png",
       "backgroundColor": "#F67255",
       "description": "WizzArt AI is an AI model trained and published to GoatChat by a Danish Artist. Who trained his dataset on his unique paintings. ",
-      "nickname": "wizzart",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "7bda81a9-6ece-48b2-a402-649544c9f4f0",
-          "createdAt": "2023-03-17T15:17:15+06:00",
-          "updatedAt": "2023-03-17T15:17:15+06:00",
-          "message": "Lâu đài thời Trung cổ, rất chi tiết, hùng vĩ, hoàng hôn, Đại dương",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Lâu đài thời Trung cổ, rất chi tiết, hùng vĩ, hoàng hôn, Đại dương"
         },
         {
-          "id": "f81a104e-16c7-48c3-a6ba-fabe7e75f0b1",
-          "createdAt": "2023-03-17T15:17:15+06:00",
-          "updatedAt": "2023-03-17T15:17:15+06:00",
-          "message": "Nam phù thủy trẻ đẹp trai, áo phù thủy trắng với viền vàng, áo trắng di chuyển trong gió, mái tóc dài trắng, mặc quần áo đầy đủ, gương mặt hoàn hảo, đẹp trai",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Nam phù thủy trẻ đẹp trai, áo phù thủy trắng với viền vàng, áo trắng di chuyển trong gió, mái tóc dài trắng, mặc quần áo đầy đủ, gương mặt hoàn hảo, đẹp trai"
         },
         {
-          "id": "6f14171b-035e-4707-b721-95e51b83a273",
-          "createdAt": "2023-03-17T15:17:15+06:00",
-          "updatedAt": "2023-03-17T15:17:15+06:00",
-          "message": "Style-Empire, 8k chân dung của người phụ nữ trẻ xinh đẹp với mái tóc nâu, phức tạp, thanh lịch",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Style-Empire, 8k chân dung của người phụ nữ trẻ xinh đẹp với mái tóc nâu, phức tạp, thanh lịch"
         }
       ],
-      "isPremium": false,
-      "priority": 89,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 35174,
       "messagesCount": 124615,
       "likesCount": 3163,
-      "tutorialInfo": "",
       "aiQuote": "Thế giới nghệ thuật kỳ diệu",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
@@ -217,26 +80,14 @@
           "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
           "question": "paint ing of a wizzard"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
-      "createdAt": "2023-01-24T16:47:19+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Wallpaper AI",
       "headerText": "Nhà sản xuất hình nền AI",
       "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/wallpaper.png",
       "backgroundColor": "#2564AE",
       "description": "Công cụ của chúng tôi sử dụng AI để tạo ra một sự lựa chọn không giới hạn của hình nền từ mô tả bạn đã thực hiện. Phải mất vài giây để tạo ra hình nền chất lượng.",
       "nickname": "wallpaperAI",
@@ -244,47 +95,19 @@
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "5a240ba9-8be0-427c-a876-cdb806c10c21",
-          "createdAt": "2023-01-26T01:41:05+06:00",
-          "updatedAt": "2023-01-26T01:41:05+06:00",
-          "message": "Create a wallpaper with a red sport car",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Create a wallpaper with a red sport car"
         },
         {
-          "id": "9de1d831-959f-4e57-bb5a-3edc3d262466",
-          "createdAt": "2023-01-26T01:41:05+06:00",
-          "updatedAt": "2023-01-26T01:41:05+06:00",
-          "message": "Tạo hình nền du thuyền buồm cho iOS",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Tạo hình nền du thuyền buồm cho iOS"
         },
         {
-          "id": "bd5b8397-718e-4887-9c59-4fe04140e796",
-          "createdAt": "2023-01-26T01:41:05+06:00",
-          "updatedAt": "2023-01-26T01:41:05+06:00",
-          "message": "Làm một hình nền không gian cho tôi",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Làm một hình nền không gian cho tôi"
         }
       ],
-      "isPremium": false,
-      "priority": 89,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 112747,
       "messagesCount": 435021,
       "likesCount": 7206,
-      "tutorialInfo": "",
       "aiQuote": "Nhà sản xuất hình nền AI",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
@@ -298,74 +121,33 @@
           "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
           "question": "escreva uma mensagem para a minha namorada, pedindo às minhas sinceras desculpas"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
-      "createdAt": "2023-04-16T15:27:32+06:00",
-      "updatedAt": "2023-04-16T15:27:32+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Journey AI",
       "headerText": "HQ Digital Art",
       "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
-      "coverImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
       "backgroundColor": "#051024",
       "description": "Journey AI inherits best practicies from Dall-E 2 and Latent diffucion, while introducing some new ideas. As text and image encoder it uses CLIP model and diffusion image prior (mapping) between latent spaces of CLIP modalities. This approach increases the visual performance of the model and unveils new horizons in blending images and text-guided image manipulation.",
-      "nickname": "journeyai",
       "aliveStart": "2023-02-02T03:08:39+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "73158e7b-3381-4dd2-9cdf-a9b4421f775b",
-          "createdAt": "2023-04-16T15:29:42+06:00",
-          "updatedAt": "2023-04-16T15:29:42+06:00",
-          "message": "Ferrari Supercar",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Ferrari Supercar"
         },
         {
-          "id": "eca482fa-17a5-4887-a3d6-fc0e0fe8b5be",
-          "createdAt": "2023-04-16T15:29:42+06:00",
-          "updatedAt": "2023-04-16T15:29:42+06:00",
-          "message": "Albert Einstein",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Albert Einstein"
         },
         {
-          "id": "a92fdd27-dff9-490b-99d6-267498edd471",
-          "createdAt": "2023-04-16T15:29:42+06:00",
-          "updatedAt": "2023-04-16T15:29:42+06:00",
-          "message": "Sunset in New York",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Sunset in New York"
         }
       ],
-      "isPremium": false,
-      "priority": 60,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 40635,
       "messagesCount": 60902,
       "likesCount": 951,
-      "tutorialInfo": "",
       "aiQuote": "AI Art Journey",
-      "isTopRated": false,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
@@ -379,133 +161,29 @@
           "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
           "question": "full body, indigenous girl, red paint cheeks, neutral face, top and skirt made wolf, using wolf head as hat, bow in back, wolf head , forest, wet terrain"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
-      "createdAt": "2023-02-09T04:00:16+06:00",
-      "updatedAt": "2023-04-23T18:44:20+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Dream AI",
       "headerText": "Lucid Dreams ",
       "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
       "backgroundColor": "#D88E00",
       "description": "Dream AI là một mô hình AI tạo ra hình ảnh độ phân giải cao với một twist mơ mộng cho nó.",
-      "nickname": "dreamAI",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "282b9fbc-4f1b-48a9-b15b-fdb6d360cb97",
-          "createdAt": "2023-02-09T04:03:50+06:00",
-          "updatedAt": "2023-02-09T04:03:50+06:00",
-          "message": "Hình nền của xe hiện đại",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Hình nền của xe hiện đại"
         },
         {
-          "id": "c7687904-9a4a-4feb-94ce-deb828e54cfb",
-          "createdAt": "2023-02-09T04:03:50+06:00",
-          "updatedAt": "2023-02-09T04:03:50+06:00",
-          "message": "Chân Dung Của Nữ elf",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Chân Dung Của Nữ elf"
         },
         {
-          "id": "1504ac5b-125a-4e98-a1e5-0e1654c032f0",
-          "createdAt": "2023-02-09T04:03:50+06:00",
-          "updatedAt": "2023-02-09T04:03:50+06:00",
-          "message": "Ma quỷ của thế giới cũ",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Ma quỷ của thế giới cũ"
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "733fc45a-81c8-40cd-b758-0bdc5f7a645e",
-          "createdAt": "2023-02-09T04:09:10+06:00",
-          "updatedAt": "2023-02-09T04:09:10+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983"
-        },
-        {
-          "id": "bf731f07-f127-41ab-bc92-f1583eea54c2",
-          "createdAt": "2023-02-09T04:09:10+06:00",
-          "updatedAt": "2023-02-09T04:09:10+06:00",
-          "tag": {
-            "id": "60c0ef9a-d191-4035-908b-9b8a65ffeb54",
-            "createdAt": "2023-02-02T17:11:44+06:00",
-            "updatedAt": "2023-02-02T17:11:44+06:00",
-            "title": "3D",
-            "messagesCount": 0,
-            "isBlacklisted": false
-          },
-          "tagId": "60c0ef9a-d191-4035-908b-9b8a65ffeb54",
-          "botId": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983"
-        },
-        {
-          "id": "0a9c20cb-45af-4ae6-ae3d-dbb5af24e764",
-          "createdAt": "2023-02-09T04:09:10+06:00",
-          "updatedAt": "2023-02-09T04:09:10+06:00",
-          "tag": {
-            "id": "23683f3c-fedc-4d03-b758-0047853de06f",
-            "createdAt": "2023-02-09T04:08:57+06:00",
-            "updatedAt": "2023-02-09T04:08:57+06:00",
-            "title": "midjourney-like",
-            "messagesCount": 0,
-            "isBlacklisted": false
-          },
-          "tagId": "23683f3c-fedc-4d03-b758-0047853de06f",
-          "botId": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983"
-        },
-        {
-          "id": "b7d39eef-4dc7-48ee-a175-58c1594baa92",
-          "createdAt": "2023-02-09T04:09:10+06:00",
-          "updatedAt": "2023-02-09T04:09:10+06:00",
-          "tag": {
-            "id": "8ab9fa19-ca17-4690-96d0-f6902f72cd52",
-            "createdAt": "2023-01-17T00:23:02+06:00",
-            "updatedAt": "2023-01-17T00:23:02+06:00",
-            "title": "AI",
-            "messagesCount": 0,
-            "isBlacklisted": false
-          },
-          "tagId": "8ab9fa19-ca17-4690-96d0-f6902f72cd52",
-          "botId": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
-      "usersCount": 39746,
-      "messagesCount": 130115,
-      "likesCount": 3289,
-      "tutorialInfo": "",
       "aiQuote": "Lucid Dreams ",
       "isTopRated": false,
       "feedImages": [
@@ -521,135 +199,33 @@
           "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
           "question": "imaginez ce que pourrait etre un voyage vers d'autres galaxies"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
-      "createdAt": "2023-01-27T03:12:32+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Claude Monet",
       "headerText": "Nghệ thuật Ấn tượng",
       "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchat/monet.png",
       "backgroundColor": "#634735",
       "description": "Oscar-Claude Monet là một họa sĩ người Pháp và là người sáng lập hội họa ấn tượng người được xem như một tiền thân chủ chốt của chủ nghĩa hiện đại, đặc biệt là trong những nỗ lực vẽ tự nhiên như ông nhận thức.",
-      "nickname": "monet",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "9e265564-566e-40a2-9fce-06357ff446f2",
-          "createdAt": "2023-01-27T03:29:49+06:00",
-          "updatedAt": "2023-01-27T03:29:49+06:00",
-          "message": "Đêm ở Rome, mặt trăng",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Đêm ở Rome, mặt trăng"
         },
         {
-          "id": "48ca6b5b-8bed-47b5-a908-c40e29d379ff",
-          "createdAt": "2023-01-27T03:29:49+06:00",
-          "updatedAt": "2023-01-27T03:29:49+06:00",
-          "message": "Làm thế nào để bạn thấy một lối vào thiên đàng?",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Làm thế nào để bạn thấy một lối vào thiên đàng?"
         },
         {
-          "id": "d1835745-3c79-4f1a-9c75-5c716d442a56",
-          "createdAt": "2023-01-27T03:29:49+06:00",
-          "updatedAt": "2023-01-27T03:29:49+06:00",
-          "message": "Bạn có thể vẽ ngọn núi Thụy Sĩ?",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Bạn có thể vẽ ngọn núi Thụy Sĩ?"
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "c7661163-698f-4323-9504-2450845843ce",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "stability",
-            "messagesCount": 627,
-            "isBlacklisted": false
-          },
-          "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-          "botId": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba"
-        },
-        {
-          "id": "8f59a61b-e808-46aa-b8eb-2c4febd2a99f",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "painting",
-            "messagesCount": 3100,
-            "isBlacklisted": false
-          },
-          "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-          "botId": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba"
-        },
-        {
-          "id": "6673d48e-5962-4d05-ae71-d7f56ee4fa31",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba"
-        },
-        {
-          "id": "17b70037-9304-44dd-a4b6-d08245f7a9f9",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 10122,
       "messagesCount": 27216,
       "likesCount": 464,
-      "tutorialInfo": "",
       "aiQuote": "Nghệ thuật Ấn tượng",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
@@ -663,26 +239,14 @@
           "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
           "question": "هل يمكنك رسم الجبال السويسرية؟"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "e17346c2-6b23-4605-81db-05eea62bc047",
-      "createdAt": "2023-01-27T03:31:26+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Banksy",
       "headerText": "Nghệ thuật đường phố hiện đại",
       "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchat/banksy.png",
       "backgroundColor": "#2F323A",
       "description": "Banksy là một nghệ sĩ đường phố, nhà hoạt động chính trị và đạo diễn phim có tên thật và danh tính vẫn chưa được xác nhận và là đối tượng đầu cơ",
       "nickname": "banksy",
@@ -690,108 +254,19 @@
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "7f7adaae-ccfa-4f00-8140-009dab6b68f0",
-          "createdAt": "2023-01-27T03:32:57+06:00",
-          "updatedAt": "2023-01-27T03:32:57+06:00",
-          "message": "Bạn có thể làm cho một graffiti của một con mèo?",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Bạn có thể làm cho một graffiti của một con mèo?"
         },
         {
-          "id": "a3ee4b71-7035-4080-99ee-386dc08444a8",
-          "createdAt": "2023-01-27T03:32:57+06:00",
-          "updatedAt": "2023-01-27T03:32:57+06:00",
-          "message": "Du thuyền buồm",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Du thuyền buồm"
         },
         {
-          "id": "073fd3df-bb6f-45c8-83ee-c00ac0f9795d",
-          "createdAt": "2023-01-27T03:32:57+06:00",
-          "updatedAt": "2023-01-27T03:32:57+06:00",
-          "message": "Rồng thở lửa",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Rồng thở lửa"
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "b82a665d-8041-4c9d-848d-fb72ed185281",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
-        },
-        {
-          "id": "e2d2a039-d935-42e1-8254-5734fecd2dd0",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "stability",
-            "messagesCount": 627,
-            "isBlacklisted": false
-          },
-          "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-          "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
-        },
-        {
-          "id": "5f527fbe-49d3-436c-965c-03702d51c182",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
-        },
-        {
-          "id": "df4b5716-2985-4fa7-a955-5371fdb18529",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "painting",
-            "messagesCount": 3100,
-            "isBlacklisted": false
-          },
-          "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-          "botId": "e17346c2-6b23-4605-81db-05eea62bc047"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 19872,
       "messagesCount": 55036,
       "likesCount": 674,
-      "tutorialInfo": "",
       "aiQuote": "Nghệ thuật đường phố hiện đại",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
@@ -805,135 +280,33 @@
           "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
           "question": "Selbstreflektion \nGastronomie"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
-      "createdAt": "2023-01-26T03:17:53+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Johannes Vermeer",
       "headerText": "Nghệ thuật Thời đại vàng Hà Lan.",
       "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/vermeer.png",
       "backgroundColor": "#FCA311",
       "description": "Johannes Vermeer là một họa sĩ thời kỳ Baroque Hà Lan chuyên về những cảnh nội thất trong nước của cuộc sống tầng lớp trung lưu. Trong suốt cuộc đời, ông là một họa sĩ thể loại tỉnh thành công vừa phải, được công nhận ở Delft và The Hague",
-      "nickname": "sphinxofdelft",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "a071c85c-8fb7-42a5-8d27-98fe0e26e76c",
-          "createdAt": "2023-01-26T03:20:25+06:00",
-          "updatedAt": "2023-01-26T03:20:25+06:00",
-          "message": "Bạn có thể vẽ Giáo hoàng ở Vatican.",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Bạn có thể vẽ Giáo hoàng ở Vatican."
         },
         {
-          "id": "11d0b26a-53e9-4e92-b952-b89ebb5fab2e",
-          "createdAt": "2023-01-26T03:20:25+06:00",
-          "updatedAt": "2023-01-26T03:20:25+06:00",
-          "message": "Vẽ vua nước Anh trong lâu đài của mình",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Vẽ vua nước Anh trong lâu đài của mình"
         },
         {
-          "id": "dda50bac-f028-4617-aa27-5a31eb45d8a5",
-          "createdAt": "2023-01-26T03:20:25+06:00",
-          "updatedAt": "2023-01-26T03:20:25+06:00",
-          "message": "Sơn Hà Lan đồi và một con sông.",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Sơn Hà Lan đồi và một con sông."
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "97acd70a-750e-484a-93c6-05275a5f5153",
-          "createdAt": "2023-01-26T03:33:31+06:00",
-          "updatedAt": "2023-01-26T03:33:31+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
-        },
-        {
-          "id": "6bf393f6-6480-49ee-8fce-7af57c0cf066",
-          "createdAt": "2023-01-26T03:33:31+06:00",
-          "updatedAt": "2023-01-26T03:33:31+06:00",
-          "tag": {
-            "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "stability",
-            "messagesCount": 627,
-            "isBlacklisted": false
-          },
-          "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-          "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
-        },
-        {
-          "id": "3777498d-4681-4fe1-a401-d7659ede6b2e",
-          "createdAt": "2023-01-26T03:33:31+06:00",
-          "updatedAt": "2023-01-26T03:33:31+06:00",
-          "tag": {
-            "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "painting",
-            "messagesCount": 3100,
-            "isBlacklisted": false
-          },
-          "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-          "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
-        },
-        {
-          "id": "ab6cd00c-c3d6-45bc-a2b1-81be13f1410b",
-          "createdAt": "2023-01-26T03:33:31+06:00",
-          "updatedAt": "2023-01-26T03:33:31+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "602487a9-423d-492a-8d7e-ce87ee349cac"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 12909,
       "messagesCount": 32055,
       "likesCount": 316,
-      "tutorialInfo": "",
       "aiQuote": "Nghệ thuật Thời đại vàng Hà Lan.",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
@@ -947,135 +320,33 @@
           "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
           "question": "چگونه نودل درست کنم"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
-      "createdAt": "2023-01-22T22:38:31+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Vincent van Gogh",
       "headerText": "Nghệ thuật Hậu Ấn tượng với Vincent AI",
       "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/vangogh.png",
       "backgroundColor": "#00336F",
       "description": "Vincent Willem van Gogh là một họa sĩ Hậu Ấn tượng Hà Lan, người sau khi trở thành một trong những nhân vật nổi tiếng và có ảnh hưởng nhất trong lịch sử nghệ thuật phương Tây. Trong một thập kỷ, ông đã sáng tác khoảng 2.100 tác phẩm nghệ thuật, trong đó có khoảng 860 bức tranh sơn dầu, hầu hết trong số đó có từ hai năm cuối đời.",
-      "nickname": "vangogh",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "154e6411-f6a8-4cc5-a947-99754ba2163f",
-          "createdAt": "2023-01-26T01:24:56+06:00",
-          "updatedAt": "2023-01-26T01:24:56+06:00",
-          "message": "Vẽ một bức tranh của những ngọn núi Thụy Sĩ.",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Vẽ một bức tranh của những ngọn núi Thụy Sĩ."
         },
         {
-          "id": "349efd15-b14f-4288-9943-bdfd4aeb87fa",
-          "createdAt": "2023-01-26T01:24:56+06:00",
-          "updatedAt": "2023-01-26T01:24:56+06:00",
-          "message": "Làm thế nào để bạn nhìn thấy lối vào thiên đàng?",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Làm thế nào để bạn nhìn thấy lối vào thiên đàng?"
         },
         {
-          "id": "497d34ae-24cd-43d5-9622-d4974493be1d",
-          "createdAt": "2023-01-26T01:24:56+06:00",
-          "updatedAt": "2023-01-26T01:24:56+06:00",
-          "message": "Bạn có thể vẽ một bức tranh của Paris vào ban đêm?",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Bạn có thể vẽ một bức tranh của Paris vào ban đêm?"
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "30cc75b4-81d4-4714-9d39-8c0e91b01bd8",
-          "createdAt": "2023-01-26T01:56:16+06:00",
-          "updatedAt": "2023-01-26T01:56:16+06:00",
-          "tag": {
-            "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "stability",
-            "messagesCount": 627,
-            "isBlacklisted": false
-          },
-          "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-          "botId": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b"
-        },
-        {
-          "id": "3f363f07-8cbf-4710-8ddc-96a83e9b1335",
-          "createdAt": "2023-01-26T01:56:16+06:00",
-          "updatedAt": "2023-01-26T01:56:16+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b"
-        },
-        {
-          "id": "563c309a-6043-4623-a6de-61c0e8828a50",
-          "createdAt": "2023-01-26T01:56:16+06:00",
-          "updatedAt": "2023-01-26T01:56:16+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b"
-        },
-        {
-          "id": "fe05aeb8-a63e-4a85-8977-a5d275d154b9",
-          "createdAt": "2023-01-26T01:56:16+06:00",
-          "updatedAt": "2023-01-26T01:56:16+06:00",
-          "tag": {
-            "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "painting",
-            "messagesCount": 3100,
-            "isBlacklisted": false
-          },
-          "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-          "botId": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 15589,
       "messagesCount": 43112,
       "likesCount": 925,
-      "tutorialInfo": "",
       "aiQuote": "Nghệ thuật Hậu Ấn tượng với Vincent AI",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
@@ -1089,135 +360,33 @@
           "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
           "question": "Rider on the storm"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
-      "createdAt": "2023-01-26T03:28:39+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Leonardo da Vinci",
       "headerText": "Leonardo, vĩ đại nhất.",
       "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/davinci.png",
       "backgroundColor": "#44260A",
       "description": "Leonardo di ser Piero da Vinci là một polymath người Ý của thời kỳ Phục hưng cao, người đã hoạt động như một họa sĩ, thợ vẽ, kỹ sư, nhà khoa học, nhà lý thuyết, nhà điêu khắc, và kiến trúc sư",
-      "nickname": "davinci",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "f8de8433-a540-443f-beae-99c096ef56df",
-          "createdAt": "2023-01-26T03:32:07+06:00",
-          "updatedAt": "2023-01-26T03:32:07+06:00",
-          "message": "Bạn có thể vẽ dãy núi Alps của Thụy Sĩ.",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Bạn có thể vẽ dãy núi Alps của Thụy Sĩ."
         },
         {
-          "id": "394d091d-969a-4d9f-bad4-d6fcd59783d3",
-          "createdAt": "2023-01-26T03:32:07+06:00",
-          "updatedAt": "2023-01-26T03:32:07+06:00",
-          "message": "Làm thế nào để bạn nhìn thấy lối vào thiên đàng?",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Làm thế nào để bạn nhìn thấy lối vào thiên đàng?"
         },
         {
-          "id": "91bf3458-48b4-478e-889e-2c3e7bbb76d7",
-          "createdAt": "2023-01-26T03:32:07+06:00",
-          "updatedAt": "2023-01-26T03:32:07+06:00",
-          "message": "Sơn chiến binh La Mã trong nhà thờ.",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Sơn chiến binh La Mã trong nhà thờ."
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "03a1856f-cc77-44ce-8e0a-d7b7a386b54f",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
-        },
-        {
-          "id": "1f87fc53-3485-4408-bcad-f8349612d3af",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "painting",
-            "messagesCount": 3100,
-            "isBlacklisted": false
-          },
-          "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-          "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
-        },
-        {
-          "id": "4d465087-3c41-4b53-9209-9fd689fbd129",
-          "createdAt": "2023-01-26T03:33:31+06:00",
-          "updatedAt": "2023-01-26T03:33:31+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
-        },
-        {
-          "id": "7093bdeb-d12e-4133-9d4f-74cead2c9958",
-          "createdAt": "2023-01-26T03:33:31+06:00",
-          "updatedAt": "2023-01-26T03:33:31+06:00",
-          "tag": {
-            "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "stability",
-            "messagesCount": 627,
-            "isBlacklisted": false
-          },
-          "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-          "botId": "e8814acc-0b53-4b32-a21d-45dfc583109d"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 12195,
       "messagesCount": 36109,
       "likesCount": 577,
-      "tutorialInfo": "",
       "aiQuote": "Leonardo, vĩ đại nhất.",
-      "isTopRated": true,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
@@ -1231,120 +400,33 @@
           "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
           "question": "Die triskele ist zu wenig erkennbar und sie soll aus blauen Blitzen gemacht sein"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
-      "createdAt": "2023-02-02T15:09:34+06:00",
-      "updatedAt": "2023-04-23T18:43:58+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "MarvelAI",
       "headerText": "3D Phong cách AI Art",
       "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
-      "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
       "backgroundColor": "#533B4D",
       "description": "MarveLAI là một mô hình dựa trên sự khuếch tán redshift, mà rất nhiều hoạt động trên hình ảnh 3d và các nhân vật 3d. ",
-      "nickname": "marvelAI",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "bd7550da-a3e9-4ae1-9571-eb2849f4e7c5",
-          "createdAt": "2023-02-02T15:13:03+06:00",
-          "updatedAt": "2023-02-02T15:13:03+06:00",
-          "message": "Làm cho tôi một bức chân dung Batman",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Làm cho tôi một bức chân dung Batman"
         },
         {
-          "id": "bd154c1b-999a-4cb8-ab69-1b984e46a271",
-          "createdAt": "2023-02-02T15:13:03+06:00",
-          "updatedAt": "2023-02-02T15:13:03+06:00",
-          "message": "Đường chân trời hiện đại Berlin",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Đường chân trời hiện đại Berlin"
         },
         {
-          "id": "1ee11d34-5b33-46d8-97d4-3e3d24c956b0",
-          "createdAt": "2023-02-02T15:13:03+06:00",
-          "updatedAt": "2023-02-02T15:13:03+06:00",
-          "message": "Làm cho tôi một hình nền của một chiếc Ferrari màu đỏ, trên đường",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Làm cho tôi một hình nền của một chiếc Ferrari màu đỏ, trên đường"
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "46536166-9fc7-466e-91ef-bbe9a3b7df64",
-          "createdAt": "2023-02-02T17:12:10+06:00",
-          "updatedAt": "2023-02-02T17:12:10+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb"
-        },
-        {
-          "id": "51ad1b5d-881d-450f-8a9e-24f4b8a3ef6c",
-          "createdAt": "2023-02-02T17:12:10+06:00",
-          "updatedAt": "2023-02-02T17:12:10+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb"
-        },
-        {
-          "id": "abd8cd2d-ff70-4d0d-8ad8-21e9b6000391",
-          "createdAt": "2023-02-02T17:12:10+06:00",
-          "updatedAt": "2023-02-02T17:12:10+06:00",
-          "tag": {
-            "id": "60c0ef9a-d191-4035-908b-9b8a65ffeb54",
-            "createdAt": "2023-02-02T17:11:44+06:00",
-            "updatedAt": "2023-02-02T17:11:44+06:00",
-            "title": "3D",
-            "messagesCount": 0,
-            "isBlacklisted": false
-          },
-          "tagId": "60c0ef9a-d191-4035-908b-9b8a65ffeb54",
-          "botId": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 39868,
       "messagesCount": 120299,
       "likesCount": 1672,
-      "tutorialInfo": "",
       "aiQuote": "3D Phong cách AI Art",
-      "isTopRated": false,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
@@ -1358,135 +440,34 @@
           "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
           "question": "Zwei Pyramiden in Grönland. Sie stehen teilweise im Eis"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     },
     {
       "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
-      "createdAt": "2023-01-27T03:49:39+06:00",
-      "updatedAt": "2023-04-13T18:01:04+06:00",
-      "status": "ACTIVE",
-      "type": "DEFAULT",
       "name": "Cyberpunk AI",
       "headerText": "Tương lai?",
       "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
       "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
-      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
       "backgroundColor": "#0D5C63",
       "description": "Cyberpunk là một tiểu thể loại của khoa học viễn tưởng trong bối cảnh tương lai dystopian có xu hướng tập trung vào một “sự kết hợp giữa cuộc sống thấp và công nghệ cao”, có những thành tựu công nghệ và khoa học tương lai, chẳng hạn như trí tuệ nhân tạo và cybernetics, nằm cạnh nhau với sự sụp đổ xã hội, dystopia hoặc phân rã.",
-      "nickname": "cyberpunk",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "id": "f26bfa15-4616-4166-89ef-1e83acc2e13b",
-          "createdAt": "2023-01-27T03:50:57+06:00",
-          "updatedAt": "2023-01-27T03:50:57+06:00",
-          "message": "Tàu vũ trụ đi vào mặt trời",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Tàu vũ trụ đi vào mặt trời"
         },
         {
-          "id": "1ac4d606-7aca-40b9-84e2-d1aff0d815c5",
-          "createdAt": "2023-01-27T03:50:57+06:00",
-          "updatedAt": "2023-01-27T03:50:57+06:00",
-          "message": "Paris trong tương lai",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Paris trong tương lai"
         },
         {
-          "id": "fe3c3ce5-485c-4ff0-99de-bf95b2577aa1",
-          "createdAt": "2023-01-27T03:50:57+06:00",
-          "updatedAt": "2023-01-27T03:50:57+06:00",
-          "message": "Thành phố New york trong tương lai",
-          "popularMessageType": "DEFAULT",
-          "metaData": null
+          "message": "Thành phố New york trong tương lai"
         }
       ],
-      "isPremium": false,
-      "priority": 77,
-      "botCharacters": null,
-      "info": "",
-      "botInterests": null,
-      "authorId": null,
-      "botTags": [
-        {
-          "id": "76b3ee4a-fdcd-46ba-9513-28c744d21204",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "painting",
-            "messagesCount": 3100,
-            "isBlacklisted": false
-          },
-          "tagId": "443c861b-d248-4dbf-9e02-948d4dcb200a",
-          "botId": "87d4e93c-e426-48f5-9605-92e82fe4c1a4"
-        },
-        {
-          "id": "e5183e40-ce1a-457c-a4f9-92cda247da0b",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "image",
-            "messagesCount": 6346,
-            "isBlacklisted": false
-          },
-          "tagId": "7c1648d8-fca5-4202-90f3-3f95efe45948",
-          "botId": "87d4e93c-e426-48f5-9605-92e82fe4c1a4"
-        },
-        {
-          "id": "4030112a-55b6-46a9-9902-c9e896b3455e",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "stability",
-            "messagesCount": 627,
-            "isBlacklisted": false
-          },
-          "tagId": "70107ab5-0584-4a76-acaa-9dd8db3633d3",
-          "botId": "87d4e93c-e426-48f5-9605-92e82fe4c1a4"
-        },
-        {
-          "id": "0465ab31-5bef-4396-bf0f-f124fc7a8f71",
-          "createdAt": "2023-01-27T04:22:55+06:00",
-          "updatedAt": "2023-01-27T04:22:55+06:00",
-          "tag": {
-            "id": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-            "createdAt": "2023-01-26T01:55:32+06:00",
-            "updatedAt": "2023-01-26T01:55:32+06:00",
-            "title": "nghệ thuật",
-            "messagesCount": 35860,
-            "isBlacklisted": false
-          },
-          "tagId": "e478cf1a-44d5-4b19-9719-95ead173d42c",
-          "botId": "87d4e93c-e426-48f5-9605-92e82fe4c1a4"
-        }
-      ],
-      "botSocials": null,
-      "botFileSources": null,
-      "botFunctionType": "IMAGE",
-      "isPublic": true,
       "usersCount": 26124,
       "messagesCount": 58703,
       "likesCount": 731,
-      "tutorialInfo": "",
       "aiQuote": "Tương lai?",
-      "isTopRated": false,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
@@ -1500,13 +481,7 @@
           "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
           "question": "性 鎗 爆"
         }
-      ],
-      "isConfirmed": false,
-      "userIntegrationId": null,
-      "socialAccountLink": "",
-      "socialAccountType": "",
-      "botStoryOption": null,
-      "chats": []
+      ]
     }
   ]
 }
