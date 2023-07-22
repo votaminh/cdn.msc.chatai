@@ -1,0 +1,131 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": "c602db9e-5000-45df-a152-fe6745757b29",
+      "name": "Albert Einstein",
+      "headerText": "Trò chuyện với Einstein về vũ trụ",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+      "backgroundColor": "#171714",
+      "description": "Nhà vật lý sinh tại Đức, người đã phát triển các lý thuyết tương đối đặc biệt và tổng quát và đoạt giải Nobel Vật lý năm 1921 cho lời giải thích của ông về hiệu ứng quang điện",
+      "aliveStart": "2022-12-12T00:31:11+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Sao anh lại chế tạo một quả bom nguyên tử?"
+        },
+        {
+          "message": "Anh có ủng hộ Hitler không?"
+        },
+        {
+          "message": "Giải thích phương trình nổi tiếng nhất của bạn xin vui lòng."
+        }
+      ],
+      "usersCount": 80714,
+      "messagesCount": 355037,
+      "likesCount": 4906
+    },
+    {
+      "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+      "name": "Ernest Hemingway",
+      "headerText": "Viết một cuốn sách với Ernest Hemingway",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+      "backgroundColor": "#6E3A1A",
+      "description": "Ernest Hemingway là tiểu thuyết gia, nhà văn truyện ngắn và nhà báo vĩ đại nhất người Mỹ. Ai của anh ấy có thể giúp bạn viết một cuốn sách hoặc tạo ra những câu chuyện ngắn",
+      "aliveStart": "2023-01-19T19:13:32+06:00",
+      "aliveEnd": "2023-01-19T19:13:32+06:00",
+      "popularMessages": [
+        {
+          "message": "Viết một câu chuyện ngắn về một ngày lãng mạn một mars"
+        },
+        {
+          "message": "Tạo một phác thảo cho một cuốn sách về cuộc sống ngoài hành tinh XE-A13"
+        },
+        {
+          "message": "Viết bài luận chuyên nghiệp trong 200 từ về Làm thế nào để giảm phát thải carbon"
+        }
+      ],
+      "usersCount": 11132,
+      "messagesCount": 40934,
+      "likesCount": 977
+    },
+    {
+      "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+      "headerText": "Làm thế nào để trở thành một người có ý thức?",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+      "backgroundColor": "#452485",
+      "description": "Siddhartha Gautama, thường được gọi là Đức Phật, là một vị thầy tu khổ hạnh và tôn giáo lang thang sống ở Nam Á vào thế kỷ thứ 6 hoặc 5 trước Công nguyên và sáng lập Phật giáo",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Hạnh phúc là gì?"
+        },
+        {
+          "message": "Làm thế nào một người bắt đầu yêu một người khác?"
+        },
+        {
+          "message": "Ý nghĩa của cuộc sống là gì?"
+        }
+      ],
+      "usersCount": 20025,
+      "messagesCount": 64962,
+      "likesCount": 1395
+    },
+    {
+      "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+      "name": "William Shakespeare ",
+      "headerText": "Sách gợi ý của Shakespeare.",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+      "backgroundColor": "#079336",
+      "description": "William Shakespeare là một nhà viết kịch, nhà thơ và diễn viên người Anh. Ông được coi là nhà văn vĩ đại nhất trong tiếng Anh và là nhà kịch nghệ nổi tiếng thế giới. ",
+      "aliveStart": "2022-12-12T00:31:11+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Vở kịch yêu thích của bạn là gì?"
+        },
+        {
+          "message": "Có bất kỳ kinh nghiệm cuộc sống nào của bạn ảnh hưởng đến công việc của bạn không?"
+        },
+        {
+          "message": "Anh là ai?"
+        }
+      ],
+      "usersCount": 3857,
+      "messagesCount": 14435,
+      "likesCount": 110
+    },
+    {
+      "id": "40b89d62-2327-4a0f-988f-2c3055ded289",
+      "headerText": null,
+      "avatarUrl": "https://assets.adapt.ws/files/20230508_mvrjjkcfhpzoczdv.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230507_nvaqongrfbskuyrb.png",
+      "backgroundColor": "#9a858a",
+      "description": "I am a language learner",
+      "nickname": "mizuki_yoshida",
+      "aliveStart": "2023-05-07T20:45:23+06:00",
+      "aliveEnd": "2023-05-07T20:45:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Please give me a topic to speak"
+        },
+        {
+          "message": "Hi Mizuki, please introduce yourself"
+        },
+        {
+          "message": "Hi Mizuki. What are you good at?"
+        }
+      ],
+      "usersCount": 7833,
+      "messagesCount": 68880,
+      "likesCount": 496
+    }
+  ]
+}
