@@ -5,121 +5,121 @@
     {
       "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
       "name": "Anime AI",
-      "headerText": "Anime AI Art Style",
+      "headerText": "Phong cách Anime AI Art",
       "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
       "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
       "backgroundColor": "#E15554",
-      "description": "Anime is a style of hand-drawn and computer-generated animation that originated in Japan. Outside of Japan and in English, anime specifically refers to animation produced in Japan. However, in Japan and in Japanese, anime describes all animated works, regardless of style or origin.",
+      "description": "Anime là hoạt hình vẽ tay và do máy tính tạo ra có nguồn gốc từ Nhật Bản. Bên ngoài Nhật Bản và trong tiếng Anh, anime đề cập cụ thể đến hoạt hình được sản xuất tại Nhật Bản. Tuy nhiên, ở Nhật Bản và trong tiếng Nhật, anime mô tả tất cả các tác phẩm hoạt hình, bất kể phong cách hay nguồn gốc.",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Village on the mountain, full moon"
+          "message": "Làng trên núi, trăng tròn"
         },
         {
-          "message": "Warrior girl, white hair, brown eyes, standing in a church"
+          "message": "Cô gái chiến binh, mái tóc trắng, đôi mắt nâu, đứng trong nhà thờ"
         },
         {
-          "message": "Pirate ship, sailboat, during the day"
+          "message": "Tàu cướp biển, thuyền buồm, Ban ngày"
         }
       ],
       "usersCount": 91769,
       "messagesCount": 289675,
       "likesCount": 6626,
-      "aiQuote": "Anime AI Art Style",
+      "aiQuote": "Phong cách Anime AI Art",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
-          "question": "Cute and gentle girl, white hair like snow, red eyes like the Blood Moon, sitting in a green field at sunset"
+          "question": "garota fofa e meiga, cabelos brancos como neve, olhos vermelhos como a Lua de Sangue, sentada em um campo verde no pôr do sol"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
-          "question": "Warrior girl, white hair, brown eyes, standing in a church"
+          "question": "Девушка-воин, белые волосы, карие глаза, стоит в церкви"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
-          "question": "An eye or face of a person looking from above the sky towards the beautiful green nature"
+          "question": "عين او وجه لإنسان ينظر من اعلى السماء نحو الطبيعة الخضراء الجميلة"
         }
       ]
     },
     {
       "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
       "name": "WizzArt AI",
-      "headerText": "The World of Magical Art",
+      "headerText": "Thế giới nghệ thuật kỳ diệu",
       "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
       "backgroundColor": "#F67255",
-      "description": "WizzArt AI is an AI model trained and published to GoatChat by a Danish Artist. The model was trained on his unique paintings.",
+      "description": "WizzArt AI is an AI model trained and published to GoatChat by a Danish Artist. Who trained his dataset on his unique paintings. ",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Medieval castle, highly detailed, majestic, at sunset, by the ocean"
+          "message": "Lâu đài thời Trung cổ, rất chi tiết, hùng vĩ, hoàng hôn, Đại dương"
         },
         {
-          "message": "Young handsome wizard, wearing a white wizard's robe with gold trim, white robe billowing in the wind, long white hair, dressed in complete attire, perfect and handsome face"
+          "message": "Nam phù thủy trẻ đẹp trai, áo phù thủy trắng với viền vàng, áo trắng di chuyển trong gió, mái tóc dài trắng, mặc quần áo đầy đủ, gương mặt hoàn hảo, đẹp trai"
         },
         {
-          "message": "Style-Empire, 8k portrait of a beautiful young woman with brown hair, intricate, and elegant"
+          "message": "Style-Empire, 8k chân dung của người phụ nữ trẻ xinh đẹp với mái tóc nâu, phức tạp, thanh lịch"
         }
       ],
       "usersCount": 35174,
       "messagesCount": 124615,
       "likesCount": 3163,
-      "aiQuote": "The World of Magical Art",
+      "aiQuote": "Thế giới nghệ thuật kỳ diệu",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
-          "question": "Handsome young wizard, wearing a white wizard's robe with gold trim, white robe billowing in the wind, long white hair, dressed in complete attire, perfect and handsome face"
+          "question": "ساحر شاب وسيم، قميص ساحر أبيض بزخرفة ذهبية، رداء أبيض يتحرك في الرياح، شعر أبيض طويل، يرتدي ملابس كاملة، وجه مثالي، وسيم"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
-          "question": "Old wizard painting"
+          "question": "old wizzard painting"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
-          "question": "Painting of a wizard"
+          "question": "paint ing of a wizzard"
         }
       ]
     },
     {
       "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
       "name": "Wallpaper AI",
-      "headerText": "AI Wallpaper Maker",
+      "headerText": "Nhà sản xuất hình nền AI",
       "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
       "backgroundColor": "#2564AE",
-      "description": "Our tool uses AI to create an unlimited choice of wallpapers from the descriptions you provide. It only takes a few seconds to generate high-quality wallpapers.",
+      "description": "Công cụ của chúng tôi sử dụng AI để tạo ra một sự lựa chọn không giới hạn của hình nền từ mô tả bạn đã thực hiện. Phải mất vài giây để tạo ra hình nền chất lượng.",
       "nickname": "wallpaperAI",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Create a wallpaper with a red sports car"
+          "message": "Create a wallpaper with a red sport car"
         },
         {
-          "message": "Create a sailing yacht wallpaper for iOS"
+          "message": "Tạo hình nền du thuyền buồm cho iOS"
         },
         {
-          "message": "Make a space-themed wallpaper for me"
+          "message": "Làm một hình nền không gian cho tôi"
         }
       ],
       "usersCount": 112747,
       "messagesCount": 435021,
       "likesCount": 7206,
-      "aiQuote": "AI Wallpaper Maker",
+      "aiQuote": "Nhà sản xuất hình nền AI",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
-          "question": "Hello, can you create an image with a monkey's face upside down and wearing sunglasses?"
+          "question": "Ciao puoi crearmi un immagine con la faccia di una scimmia con il capello al contrario e occhiali da sole"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
-          "question": "Create a 3D wallpaper"
+          "question": "haz un fondo de pantalla 3d"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
-          "question": "Write a message to my girlfriend, asking for my sincere apologies"
+          "question": "escreva uma mensagem para a minha namorada, pedindo às minhas sinceras desculpas"
         }
       ]
     },
@@ -130,7 +130,7 @@
       "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
       "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
       "backgroundColor": "#051024",
-      "description": "Journey AI inherits best practices from Dall-E 2 and Latent diffusion, while introducing some new ideas. As a text and image encoder, it uses the CLIP model and diffusion image prior (mapping) between latent spaces of CLIP modalities. This approach increases the visual performance of the model and unveils new horizons in blending images and text-guided image manipulation.",
+      "description": "Journey AI inherits best practicies from Dall-E 2 and Latent diffucion, while introducing some new ideas. As text and image encoder it uses CLIP model and diffusion image prior (mapping) between latent spaces of CLIP modalities. This approach increases the visual performance of the model and unveils new horizons in blending images and text-guided image manipulation.",
       "aliveStart": "2023-02-02T03:08:39+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
@@ -151,210 +151,210 @@
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
-          "question": "A strong, intelligent, mysterious, resourceful teenage girl, good speaker, green and blue lights, devices and technology, space and star map, short black hair and a long braid, faint smile, shadows, avid reader"
+          "question": "فتاة مراهقة قوية، ذكية، غامضة، واسعة الحيلة، متحدثة جيدة، إضائة خضراء وزرقاء، أجهزة وتكنولوجيا، فضاء وخريطة نجوم، شعر اسود قصير وغرة طويلة، ابتسامة خافتة، ظلال، محبة للقراءة مطلعة"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
-          "question": "Full body of an indigenous girl, appears 15 years old, with red-painted cheeks, neutral face, naked, using a wolf head as a hat, quiver on her back, in a forest with wet terrain"
+          "question": "full body, indigenous girl, 15 age appearance, red paint cheeks, neutral face, naked, using wolf head as hat, quiver in her back, wolf head , forest, wet terrain"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
-          "question": "Full body of an indigenous girl, with red-painted cheeks, neutral face, wearing a top and skirt made of wolf fur, using a wolf head as a hat, bow on her back, in a forest with wet terrain"
+          "question": "full body, indigenous girl, red paint cheeks, neutral face, top and skirt made wolf, using wolf head as hat, bow in back, wolf head , forest, wet terrain"
         }
       ]
     },
     {
       "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
       "name": "Dream AI",
-      "headerText": "Lucid Dreams",
+      "headerText": "Lucid Dreams ",
       "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
       "backgroundColor": "#D88E00",
-      "description": "Dream AI is an AI model that creates high-resolution images with a dreamy twist to them.",
+      "description": "Dream AI là một mô hình AI tạo ra hình ảnh độ phân giải cao với một twist mơ mộng cho nó.",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Modern car wallpaper"
+          "message": "Hình nền của xe hiện đại"
         },
         {
-          "message": "Portrait of a female elf"
+          "message": "Chân Dung Của Nữ elf"
         },
         {
-          "message": "Demon from the ancient world"
+          "message": "Ma quỷ của thế giới cũ"
         }
       ],
-      "aiQuote": "Lucid Dreams",
+      "aiQuote": "Lucid Dreams ",
       "isTopRated": false,
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
-          "question": "European café street"
+          "question": "유럽 카페 거리"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
-          "question": "Mermaid, azure hair"
+          "question": "حورية البحر، شعر أسور"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
-          "question": "Imagine what a journey to other galaxies could be like"
+          "question": "imaginez ce que pourrait etre un voyage vers d'autres galaxies"
         }
       ]
     },
     {
       "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
       "name": "Claude Monet",
-      "headerText": "Impressionist Art",
+      "headerText": "Nghệ thuật Ấn tượng",
       "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
       "backgroundColor": "#634735",
-      "description": "Oscar-Claude Monet was a French artist and the founder of Impressionist painting, who is considered a key figure in the development of modernism, especially in his efforts to capture natural light.",
+      "description": "Oscar-Claude Monet là một họa sĩ người Pháp và là người sáng lập hội họa ấn tượng người được xem như một tiền thân chủ chốt của chủ nghĩa hiện đại, đặc biệt là trong những nỗ lực vẽ tự nhiên như ông nhận thức.",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Night in Rome, moonlight"
+          "message": "Đêm ở Rome, mặt trăng"
         },
         {
-          "message": "How do you find a way into heaven?"
+          "message": "Làm thế nào để bạn thấy một lối vào thiên đàng?"
         },
         {
-          "message": "Can you paint the Swiss mountains?"
+          "message": "Bạn có thể vẽ ngọn núi Thụy Sĩ?"
         }
       ],
       "usersCount": 10122,
       "messagesCount": 27216,
       "likesCount": 464,
-      "aiQuote": "Impressionist Art",
+      "aiQuote": "Nghệ thuật Ấn tượng",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
-          "question": "Can you illustrate a cabinetmaker's workshop with his working tools?"
+          "question": "pouvez vous illustrer l'atelier d'un ébéniste avec ses outils de travail"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
-          "question": "Can you illustrate a cabinetmaker's workshop with his working tools?"
+          "question": "pouvez vous illustrer l'atelier d'un ébéniste avec ses outils de travail"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
-          "question": "Can you paint the Swiss mountains?"
+          "question": "هل يمكنك رسم الجبال السويسرية؟"
         }
       ]
     },
     {
       "id": "e17346c2-6b23-4605-81db-05eea62bc047",
       "name": "Banksy",
-      "headerText": "Modern Street Art",
+      "headerText": "Nghệ thuật đường phố hiện đại",
       "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
       "backgroundColor": "#2F323A",
-      "description": "Banksy is a street artist, political activist, and film director whose real name and identity have not been confirmed and remain subjects of speculation.",
+      "description": "Banksy là một nghệ sĩ đường phố, nhà hoạt động chính trị và đạo diễn phim có tên thật và danh tính vẫn chưa được xác nhận và là đối tượng đầu cơ",
       "nickname": "banksy",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Can you make a graffiti of a cat?"
+          "message": "Bạn có thể làm cho một graffiti của một con mèo?"
         },
         {
-          "message": "Sailing yacht"
+          "message": "Du thuyền buồm"
         },
         {
-          "message": "Fire-breathing dragon"
+          "message": "Rồng thở lửa"
         }
       ],
       "usersCount": 19872,
       "messagesCount": 55036,
       "likesCount": 674,
-      "aiQuote": "Modern Street Art",
+      "aiQuote": "Nghệ thuật đường phố hiện đại",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
-          "question": "Three gravestones of rotten people on top of somebody who was good, but never understood until it was too late"
+          "question": "Three. Gravestones of rotten people on top of somebody who was good, but never understood until it was too late"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
-          "question": "An image of a window reflecting its charm and the impact on the beauty and enchanting soul"
+          "question": "صورة نافدة تعكس سحرها وتاثيرها على فن جمالها وروحها الخلابة والجدابة الجميلة"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
-          "question": "Self-reflection\nGastronomy"
+          "question": "Selbstreflektion \nGastronomie"
         }
       ]
     },
     {
       "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
       "name": "Johannes Vermeer",
-      "headerText": "Dutch Golden Age Art",
+      "headerText": "Nghệ thuật Thời đại vàng Hà Lan.",
       "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
       "backgroundColor": "#FCA311",
-      "description": "Johannes Vermeer was a Dutch Baroque artist known for his interior scenes of middle-class domestic life. Throughout his life, he was a moderately successful genre painter, recognized in Delft and The Hague.",
+      "description": "Johannes Vermeer là một họa sĩ thời kỳ Baroque Hà Lan chuyên về những cảnh nội thất trong nước của cuộc sống tầng lớp trung lưu. Trong suốt cuộc đời, ông là một họa sĩ thể loại tỉnh thành công vừa phải, được công nhận ở Delft và The Hague",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Can you paint the Pope in Vatican?"
+          "message": "Bạn có thể vẽ Giáo hoàng ở Vatican."
         },
         {
-          "message": "Paint the King of England in his castle"
+          "message": "Vẽ vua nước Anh trong lâu đài của mình"
         },
         {
-          "message": "Dutch landscape with a hill and a river."
+          "message": "Sơn Hà Lan đồi và một con sông."
         }
       ],
       "usersCount": 12909,
       "messagesCount": 32055,
       "likesCount": 316,
-      "aiQuote": "Dutch Golden Age Art.",
+      "aiQuote": "Nghệ thuật Thời đại vàng Hà Lan.",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
-          "question": "Police officer in charge, honest, upright, diligent in his work, strong personality."
+          "question": "ضابط شرطة قائد ، نزيه، شريف، مجتهد في عمله، شخصية قوي"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
-          "question": "Draw an image of a robot in World War I."
+          "question": "تصویر یک ربات در جنگ جهانی اول را بکش"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
-          "question": "How to cook noodles."
+          "question": "چگونه نودل درست کنم"
         }
       ]
     },
     {
       "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
       "name": "Vincent van Gogh",
-      "headerText": "Post-Impressionist Art with Vincent AI",
+      "headerText": "Nghệ thuật Hậu Ấn tượng với Vincent AI",
       "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
       "backgroundColor": "#00336F",
-      "description": "Vincent Willem van Gogh was a Dutch Post-Impressionist artist, who became one of the most famous and influential figures in the history of Western art. In a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which were produced in the last two years of his life.",
+      "description": "Vincent Willem van Gogh là một họa sĩ Hậu Ấn tượng Hà Lan, người sau khi trở thành một trong những nhân vật nổi tiếng và có ảnh hưởng nhất trong lịch sử nghệ thuật phương Tây. Trong một thập kỷ, ông đã sáng tác khoảng 2.100 tác phẩm nghệ thuật, trong đó có khoảng 860 bức tranh sơn dầu, hầu hết trong số đó có từ hai năm cuối đời.",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Paint a picture of the Swiss mountains."
+          "message": "Vẽ một bức tranh của những ngọn núi Thụy Sĩ."
         },
         {
-          "message": "How do you see an entrance to heaven?"
+          "message": "Làm thế nào để bạn nhìn thấy lối vào thiên đàng?"
         },
         {
-          "message": "Can you paint a picture of Paris at night?"
+          "message": "Bạn có thể vẽ một bức tranh của Paris vào ban đêm?"
         }
       ],
       "usersCount": 15589,
       "messagesCount": 43112,
       "likesCount": 925,
-      "aiQuote": "Post-Impressionist Art with Vincent AI",
+      "aiQuote": "Nghệ thuật Hậu Ấn tượng với Vincent AI",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
-          "question": "Can you paint a daytime landscape of Mount Fuji with snow?"
+          "question": "你能還一幅富士山下雪的日間風景嗎"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
-          "question": "Native American in the strange world"
+          "question": "Native american in the stranege world"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
@@ -365,121 +365,121 @@
     {
       "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
       "name": "Leonardo da Vinci",
-      "headerText": "Leonardo, the Greatest.",
+      "headerText": "Leonardo, vĩ đại nhất.",
       "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
       "backgroundColor": "#44260A",
-      "description": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance period, who worked as a painter, draftsman, engineer, scientist, theorist, sculptor, and architect.",
+      "description": "Leonardo di ser Piero da Vinci là một polymath người Ý của thời kỳ Phục hưng cao, người đã hoạt động như một họa sĩ, thợ vẽ, kỹ sư, nhà khoa học, nhà lý thuyết, nhà điêu khắc, và kiến trúc sư",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Can you paint the Swiss Alps mountain range?"
+          "message": "Bạn có thể vẽ dãy núi Alps của Thụy Sĩ."
         },
         {
-          "message": "How do you see an entrance to heaven?"
+          "message": "Làm thế nào để bạn nhìn thấy lối vào thiên đàng?"
         },
         {
-          "message": "Paint the Roman warrior in a church."
+          "message": "Sơn chiến binh La Mã trong nhà thờ."
         }
       ],
       "usersCount": 12195,
       "messagesCount": 36109,
       "likesCount": 577,
-      "aiQuote": "Leonardo, the Greatest.",
+      "aiQuote": "Leonardo, vĩ đại nhất.",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
-          "question": "Please create a clearly recognizable triskele made of blue lightning. There should be 2 ravens in the picture (Hugin/Munin)."
+          "question": "Mache bitte eine klar erkennbare Triskele aus blauen Blitzen. \nAuf dem Bild sollen 2 Raben sein (hugin/Munin)"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
-          "question": "Please create a clearly recognizable triskele made of blue lightning. There should be 2 ravens in the picture (Hugin/Munin)."
+          "question": "Mache bitte eine klar erkennbare Triskele aus blauen Blitzen. \nAuf dem Bild sollen 2 Raben sein (hugin/Munin)"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
-          "question": "The triskele is not clear enough, and it should be made of blue lightning."
+          "question": "Die triskele ist zu wenig erkennbar und sie soll aus blauen Blitzen gemacht sein"
         }
       ]
     },
     {
       "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
       "name": "MarvelAI",
-      "headerText": "3D AI Art Style",
+      "headerText": "3D Phong cách AI Art",
       "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
       "backgroundColor": "#533B4D",
-      "description": "MarvelAI is a model based on the redshift diffusion, which heavily operates on 3D images and 3D characters.",
+      "description": "MarveLAI là một mô hình dựa trên sự khuếch tán redshift, mà rất nhiều hoạt động trên hình ảnh 3d và các nhân vật 3d. ",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Create a portrait of Batman for me."
+          "message": "Làm cho tôi một bức chân dung Batman"
         },
         {
-          "message": "Modern Berlin skyline."
+          "message": "Đường chân trời hiện đại Berlin"
         },
         {
-          "message": "Make a wallpaper of a red Ferrari on the road."
+          "message": "Làm cho tôi một hình nền của một chiếc Ferrari màu đỏ, trên đường"
         }
       ],
       "usersCount": 39868,
       "messagesCount": 120299,
       "likesCount": 1672,
-      "aiQuote": "3D AI Art Style",
+      "aiQuote": "3D Phong cách AI Art",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
-          "question": "A man as if he were an illusion that I see the darkness in my mirror."
+          "question": "una hombre como si fuera una ilusión que veo la oscuridad en mi espejo"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
-          "question": "A man as if he were an illusion that I see the darkness in my mirror."
+          "question": "una hombre como si fuera una ilusión que veo la oscuridad en mi espejo"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
-          "question": "Two pyramids in Greenland. They are partially covered in ice."
+          "question": "Zwei Pyramiden in Grönland. Sie stehen teilweise im Eis"
         }
       ]
     },
     {
       "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
       "name": "Cyberpunk AI",
-      "headerText": "Future?",
+      "headerText": "Tương lai?",
       "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
       "skyboxImageUrl": null,
       "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
       "backgroundColor": "#0D5C63",
-      "description": "Cyberpunk is a subgenre of science fiction in a dystopian future setting that tends to focus on a \"combination of low-life and high-tech,\" with technological and scientific achievements in the future, such as artificial intelligence and cybernetics, juxtaposed with a societal collapse, dystopia, or decay.",
+      "description": "Cyberpunk là một tiểu thể loại của khoa học viễn tưởng trong bối cảnh tương lai dystopian có xu hướng tập trung vào một “sự kết hợp giữa cuộc sống thấp và công nghệ cao”, có những thành tựu công nghệ và khoa học tương lai, chẳng hạn như trí tuệ nhân tạo và cybernetics, nằm cạnh nhau với sự sụp đổ xã hội, dystopia hoặc phân rã.",
       "aliveStart": "2023-01-02T00:22:25+06:00",
       "aliveEnd": "2024-01-14T01:42:23+06:00",
       "popularMessages": [
         {
-          "message": "Spaceship going into the sun"
+          "message": "Tàu vũ trụ đi vào mặt trời"
         },
         {
-          "message": "Paris in the future"
+          "message": "Paris trong tương lai"
         },
         {
-          "message": "New York City in the future"
+          "message": "Thành phố New york trong tương lai"
         }
       ],
       "usersCount": 26124,
       "messagesCount": 58703,
       "likesCount": 731,
-      "aiQuote": "Future?",
+      "aiQuote": "Tương lai?",
       "feedImages": [
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
-          "question": "In the darkness, executing justice as a ninja, feeling lonely, gazing down at criminals from a high place."
+          "question": "處於黑暗中 ，執行正義忍者，孤獨感，高空凝視犯罪者"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
-          "question": "In the darkness, executing justice as a ninja, feeling lonely, gazing down at criminals from a high place."
+          "question": "處於黑暗中 ，執行正義忍者，孤獨感，高空凝視犯罪者"
         },
         {
           "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
-          "question": "Sexual gun explosion"
+          "question": "性 鎗 爆"
         }
       ]
     }
