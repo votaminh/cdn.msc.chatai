@@ -1,0 +1,487 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+      "name": "Anime AI",
+      "headerText": "Anime KI Kunststil",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+      "backgroundColor": "#E15554",
+      "description": "Anime ist ein Stil der handgezeichneten und computererzeugten Animation, der in Japan entstanden ist. Außerhalb von Japan und auf Englisch bezieht sich Anime speziell auf Animation, die in Japan produziert wurde. In Japan und auf Japanisch bezeichnet Anime jedoch alle animierten Werke, unabhängig von Stil oder Ursprung.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Dorf auf dem Berg, Vollmond"
+        },
+        {
+          "message": "Kriegermädchen, weiße Haare, braune Augen, steht in einer Kirche"
+        },
+        {
+          "message": "Piratenschiff, Segelboot, tagsüber"
+        }
+      ],
+      "usersCount": 91769,
+      "messagesCount": 289675,
+      "likesCount": 6626,
+      "aiQuote": "Anime KI Kunststil",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
+          "question": "Süßes und sanftes Mädchen, weiße Haare wie Schnee, rote Augen wie der Blutmond, sitzend in einem grünen Feld bei Sonnenuntergang"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
+          "question": "Kriegermädchen, weiße Haare, braune Augen, steht in einer Kirche"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
+          "question": "Ein Auge oder Gesicht einer Person, die aus der Vogelperspektive auf die wunderschöne grüne Natur schaut"
+        }
+      ]
+    },
+    {
+      "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+      "name": "WizzArt KI",
+      "headerText": "Die Welt der Magischen Kunst",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+      "backgroundColor": "#F67255",
+      "description": "WizzArt KI ist ein KI-Modell, das von einem dänischen Künstler für GoatChat trainiert und veröffentlicht wurde. Das Modell wurde mit seinen einzigartigen Gemälden trainiert.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Mittelalterliche Burg, hochdetailliert, majestätisch, bei Sonnenuntergang, am Ozean"
+        },
+        {
+          "message": "Junger gutaussehender Zauberer, trägt eine weiße Zaubererrobe mit goldenen Verzierungen, weiße Robe weht im Wind, langes weißes Haar, gekleidet in vollständiger Kleidung, perfektes und attraktives Gesicht"
+        },
+        {
+          "message": "Empire-Stil, 8k Porträt einer schönen jungen Frau mit braunem Haar, kunstvoll und elegant"
+        }
+      ],
+      "usersCount": 35174,
+      "messagesCount": 124615,
+      "likesCount": 3163,
+      "aiQuote": "Die Welt der Magischen Kunst",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
+          "question": "Junger gutaussehender Zauberer, trägt eine weiße Zaubererrobe mit goldenen Verzierungen, weiße Robe weht im Wind, langes weißes Haar, gekleidet in vollständiger Kleidung, perfektes und attraktives Gesicht"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
+          "question": "Gemälde eines alten Zauberers"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
+          "question": "Gemälde eines Zauberers"
+        }
+      ]
+    },
+    {
+      "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+      "name": "Wallpaper KI",
+      "headerText": "KI Wallpaper Hersteller",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+      "backgroundColor": "#2564AE",
+      "description": "Unser Tool verwendet KI, um eine unbegrenzte Auswahl an Hintergrundbildern basierend auf den von Ihnen bereitgestellten Beschreibungen zu erstellen. Es dauert nur wenige Sekunden, um hochwertige Hintergrundbilder zu generieren.",
+      "nickname": "wallpaperKI",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Erstelle ein Hintergrundbild mit einem roten Sportwagen"
+        },
+        {
+          "message": "Erstelle ein Segelyacht-Hintergrundbild für iOS"
+        },
+        {
+          "message": "Erstelle ein Weltraum-Hintergrundbild für mich"
+        }
+      ],
+      "usersCount": 112747,
+      "messagesCount": 435021,
+      "likesCount": 7206,
+      "aiQuote": "KI Wallpaper Hersteller",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
+          "question": "Hallo, kannst du ein Bild mit dem Gesicht eines Affen, der auf dem Kopf steht und eine Sonnenbrille trägt, erstellen?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
+          "question": "Erstelle ein 3D-Hintergrundbild"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
+          "question": "Schreibe eine Nachricht an meine Freundin und bitte um meine aufrichtige Entschuldigung"
+        }
+      ]
+    },
+    {
+      "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+      "name": "Journey KI",
+      "headerText": "HQ Digitale Kunst",
+      "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+      "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+      "backgroundColor": "#051024",
+      "description": "Journey KI übernimmt bewährte Praktiken von Dall-E 2 und Latent Diffusion und führt gleichzeitig einige neue Ideen ein. Als Text- und Bildencoder verwendet es das CLIP-Modell und die Diffusion Image Prior (Mapping) zwischen den latenten Räumen der CLIP-Modalitäten. Dieser Ansatz steigert die visuelle Leistung des Modells und enthüllt neue Horizonte bei der Verschmelzung von Bildern und textgesteuerter Bildmanipulation.",
+      "aliveStart": "2023-02-02T03:08:39+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Ferrari Supercar"
+        },
+        {
+          "message": "Albert Einstein"
+        },
+        {
+          "message": "Sonnenuntergang in New York"
+        }
+      ],
+      "usersCount": 40635,
+      "messagesCount": 60902,
+      "likesCount": 951,
+      "aiQuote": "KI Kunstreise",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
+          "question": "Ein starkes, intelligentes, geheimnisvolles, einfallsreiches Mädchen im Teenageralter, gute Rednerin, grüne und blaue Lichter, Geräte und Technologie, Weltraum- und Sternenkarte, kurze schwarze Haare und ein langer Zopf, schwaches Lächeln, Schatten, begeisterte Leserin"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
+          "question": "Voller Körper einer indigenen Mädchen, etwa 15 Jahre alt, mit rot bemalten Wangen, neutralem Gesichtsausdruck, nackt, trägt einen Wolfskopf als Hut, Köcher auf dem Rücken, in einem Wald mit feuchtem Gelände"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
+          "question": "Voller Körper einer indigenen Mädchen, mit rot bemalten Wangen, neutralem Gesichtsausdruck, trägt ein Oberteil und Rock aus Wolfsfell, benutzt einen Wolfskopf als Hut, Bogen auf dem Rücken, in einem Wald mit feuchtem Gelände"
+        }
+      ]
+    },
+    {
+      "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
+      "name": "Dream KI",
+      "headerText": "Klarträume",
+      "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
+      "backgroundColor": "#D88E00",
+      "description": "Dream KI ist ein KI-Modell, das hochauflösende Bilder mit einem traumhaften Touch erstellt.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Moderne Auto-Hintergrundbilder"
+        },
+        {
+          "message": "Porträt einer weiblichen Elfe"
+        },
+        {
+          "message": "Dämon aus der alten Welt"
+        }
+      ],
+      "aiQuote": "Klarträume",
+      "isTopRated": false,
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
+          "question": "Europäische Caféstraße"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
+          "question": "Meerjungfrau mit azurblauem Haar"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
+          "question": "Stellen Sie sich vor, wie eine Reise zu anderen Galaxien sein könnte"
+        }
+      ]
+    },
+    {
+      "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
+      "name": "Claude Monet",
+      "headerText": "Impressionistische Kunst",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
+      "backgroundColor": "#634735",
+      "description": "Oscar-Claude Monet war ein französischer Künstler und der Begründer der impressionistischen Malerei, der als Schlüsselfigur in der Entwicklung des Modernismus gilt, insbesondere in seinen Bemühungen, das natürliche Licht einzufangen.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Nacht in Rom, Mondschein"
+        },
+        {
+          "message": "Wie findet man einen Weg in den Himmel?"
+        },
+        {
+          "message": "Kannst du die Schweizer Berge malen?"
+        }
+      ],
+      "usersCount": 10122,
+      "messagesCount": 27216,
+      "likesCount": 464,
+      "aiQuote": "Impressionistische Kunst",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
+          "question": "Kannst du eine Tischlerwerkstatt mit seinen Arbeitswerkzeugen illustrieren?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
+          "question": "Kannst du eine Tischlerwerkstatt mit seinen Arbeitswerkzeugen illustrieren?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
+          "question": "Kannst du die Schweizer Berge malen?"
+        }
+      ]
+    },
+    {
+      "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+      "name": "Banksy",
+      "headerText": "Moderne Straßenkunst",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+      "backgroundColor": "#2F323A",
+      "description": "Banksy ist ein Straßenkünstler, politischer Aktivist und Filmregisseur, dessen richtiger Name und Identität nicht bestätigt wurden und Gegenstand von Spekulationen bleiben.",
+      "nickname": "banksy",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Kannst du ein Graffiti von einer Katze machen?"
+        },
+        {
+          "message": "Segelyacht"
+        },
+        {
+          "message": "Feuer speiender Drache"
+        }
+      ],
+      "usersCount": 19872,
+      "messagesCount": 55036,
+      "likesCount": 674,
+      "aiQuote": "Moderne Straßenkunst",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
+          "question": "Drei Grabsteine verrotteter Menschen auf jemandem, der gut war, aber nie verstanden wurde, bis es zu spät war"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
+          "question": "Ein Bild eines Fensters, das seinen Charme und die Auswirkung auf die Schönheit und verzaubernde Seele reflektiert"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
+          "question": "Selbstreflexion\nGastronomie"
+        }
+      ]
+    },
+    {
+      "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+      "name": "Johannes Vermeer",
+      "headerText": "Niederländische Malerei des Goldenen Zeitalters",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+      "backgroundColor": "#FCA311",
+      "description": "Johannes Vermeer war ein niederländischer Barockkünstler, bekannt für seine Innenansichten des bürgerlichen häuslichen Lebens. Im Laufe seines Lebens war er ein mäßig erfolgreicher Genremaler, anerkannt in Delft und Den Haag.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Kannst du den Papst im Vatikan malen?"
+        },
+        {
+          "message": "Male den König von England in seinem Schloss"
+        },
+        {
+          "message": "Niederländische Landschaft mit einem Hügel und einem Fluss."
+        }
+      ],
+      "usersCount": 12909,
+      "messagesCount": 32055,
+      "likesCount": 316,
+      "aiQuote": "Niederländische Malerei des Goldenen Zeitalters.",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+          "question": "Polizist in leitender Funktion, ehrlich, aufrecht, fleißig in seiner Arbeit, starke Persönlichkeit."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+          "question": "Zeichne ein Bild eines Roboters im Ersten Weltkrieg."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+          "question": "Wie man Nudeln kocht."
+        }
+      ]
+    },
+    {
+      "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
+      "name": "Vincent van Gogh",
+      "headerText": "Post-Impressionistische Kunst mit Vincent KI",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
+      "backgroundColor": "#00336F",
+      "description": "Vincent Willem van Gogh war ein niederländischer Post-Impressionistischer Künstler, der zu einer der berühmtesten und einflussreichsten Persönlichkeiten in der Geschichte der westlichen Kunst wurde. In einem Jahrzehnt schuf er etwa 2.100 Kunstwerke, darunter rund 860 Ölgemälde, die meisten davon wurden in den letzten beiden Jahren seines Lebens produziert.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Male ein Bild von den Schweizer Bergen."
+        },
+        {
+          "message": "Wie siehst du den Eingang zum Himmel?"
+        },
+        {
+          "message": "Kannst du ein Bild von Paris bei Nacht malen?"
+        }
+      ],
+      "usersCount": 15589,
+      "messagesCount": 43112,
+      "likesCount": 925,
+      "aiQuote": "Post-Impressionistische Kunst mit Vincent KI",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
+          "question": "Kannst du eine Tageslandschaft des Mount Fuji mit Schnee malen?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
+          "question": "Indianer in der fremden Welt"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
+          "question": "Reiter im Sturm"
+        }
+      ]
+    },
+    {
+      "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+      "name": "Leonardo da Vinci",
+      "headerText": "Leonardo, der Größte.",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+      "backgroundColor": "#44260A",
+      "description": "Leonardo di ser Piero da Vinci war ein italienischer Universalgelehrter der Hochrenaissance, der als Maler, Zeichner, Ingenieur, Wissenschaftler, Theoretiker, Bildhauer und Architekt tätig war.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Kannst du die Schweizer Alpen malen?"
+        },
+        {
+          "message": "Wie siehst du den Eingang zum Himmel?"
+        },
+        {
+          "message": "Male den römischen Krieger in einer Kirche."
+        }
+      ],
+      "usersCount": 12195,
+      "messagesCount": 36109,
+      "likesCount": 577,
+      "aiQuote": "Leonardo, der Größte.",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
+          "question": "Bitte erstelle ein deutlich erkennbares Triskele aus blauem Blitz. Im Bild sollten 2 Raben (Hugin/Munin) sein."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
+          "question": "Bitte erstelle ein deutlich erkennbares Triskele aus blauem Blitz. Im Bild sollten 2 Raben (Hugin/Munin) sein."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
+          "question": "Das Triskele ist nicht deutlich genug und sollte aus blauem Blitz bestehen."
+        }
+      ]
+    },
+    {
+      "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
+      "name": "MarvelAI",
+      "headerText": "3D KI-Kunststil",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
+      "backgroundColor": "#533B4D",
+      "description": "MarvelAI ist ein Modell, das auf Redshift-Diffusion basiert und stark mit 3D-Bildern und 3D-Charakteren arbeitet.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Erstelle ein Porträt von Batman für mich."
+        },
+        {
+          "message": "Moderne Berliner Skyline."
+        },
+        {
+          "message": "Mache eine Tapete von einem roten Ferrari auf der Straße."
+        }
+      ],
+      "usersCount": 39868,
+      "messagesCount": 120299,
+      "likesCount": 1672,
+      "aiQuote": "3D KI-Kunststil",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
+          "question": "Ein Mann, als ob er eine Illusion wäre, die ich in meinem Spiegel in der Dunkelheit sehe."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
+          "question": "Ein Mann, als ob er eine Illusion wäre, die ich in meinem Spiegel in der Dunkelheit sehe."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
+          "question": "Zwei Pyramiden in Grönland. Sie sind teilweise von Eis bedeckt."
+        }
+      ]
+    },
+    {
+      "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
+      "name": "Cyberpunk KI",
+      "headerText": "Zukunft?",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
+      "skyboxImageUrl": null,
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
+      "backgroundColor": "#0D5C63",
+      "description": "Cyberpunk ist ein Subgenre der Science-Fiction in einer dystopischen Zukunftsumgebung, das sich darauf konzentriert, eine \"Kombination aus Niedrigleben und Hochtechnologie\" darzustellen, mit technologischen und wissenschaftlichen Fortschritten in der Zukunft wie künstlicher Intelligenz und Kybernetik, die mit einem gesellschaftlichen Zusammenbruch, einer Dystopie oder einem Verfall kontrastieren.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Raumschiff, das in die Sonne fliegt"
+        },
+        {
+          "message": "Paris in der Zukunft"
+        },
+        {
+          "message": "New York City in der Zukunft"
+        }
+      ],
+      "usersCount": 26124,
+      "messagesCount": 58703,
+      "likesCount": 731,
+      "aiQuote": "Zukunft?",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
+          "question": "In der Dunkelheit Gerechtigkeit ausüben wie ein Ninja, sich einsam fühlen und von einem hohen Ort aus auf Kriminelle herabblicken."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
+          "question": "In der Dunkelheit Gerechtigkeit ausüben wie ein Ninja, sich einsam fühlen und von einem hohen Ort aus auf Kriminelle herabblicken."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
+          "question": "Sexuelle Schusswaffenexplosion"
+        }
+      ]
+    }
+  ]
+}
