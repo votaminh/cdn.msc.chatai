@@ -1,0 +1,487 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+      "name": "Anime AI",
+      "headerText": "Anime AIアートスタイル",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+      "backgroundColor": "#E15554",
+      "description": "アニメは日本で生まれた手描きとコンピュータグラフィックスを使ったアニメーションのスタイルです。日本以外では英語で、アニメは特に日本で制作されたアニメーションを指します。しかし、日本では日本語でアニメとはスタイルや原産地に関わらず、あらゆるアニメーション作品を指します。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "山の中の村、満月"
+        },
+        {
+          "message": "戦士の少女、白い髪、茶色の目、教会に立っている"
+        },
+        {
+          "message": "海賊船、帆船、昼間"
+        }
+      ],
+      "usersCount": 91769,
+      "messagesCount": 289675,
+      "likesCount": 6626,
+      "aiQuote": "Anime AIアートスタイル",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
+          "question": "可愛らしくて優しい少女、白い雪のような髪、赤い目のBlood Moonのようなものが沈む緑の野原に座っている"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
+          "question": "戦士の少女、白い髪、茶色の目、教会に立っている"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
+          "question": "美しい緑の自然に向かって上空から見下ろす目や顔の一部"
+        }
+      ]
+    },
+    {
+      "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+      "name": "WizzArt AI",
+      "headerText": "魔法のアートの世界",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+      "backgroundColor": "#F67255",
+      "description": "WizzArt AIは、デンマークの芸術家によってGoatChatにトレーニングされ、公開されたAIモデルです。このモデルは彼の独自の絵画を元に訓練されました。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "中世の城、細部まで緻密で壮大、夕日に輝く、海のそばに"
+        },
+        {
+          "message": "若くてハンサムな魔法使い、金の装飾が施された白い魔法使いのローブを着用し、風になびく白いローブ、長い白い髪、完全な装い、完璧でハンサムな顔"
+        },
+        {
+          "message": "スタイルエンパイア、茶色の髪を持つ美しい若い女性の8Kポートレート、複雑で優雅"
+        }
+      ],
+      "usersCount": 35174,
+      "messagesCount": 124615,
+      "likesCount": 3163,
+      "aiQuote": "魔法のアートの世界",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
+          "question": "若くてハンサムな魔法使い、金の装飾が施された白い魔法使いのローブを着用し、風になびく白いローブ、長い白い髪、完全な装い、完璧でハンサムな顔"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
+          "question": "老魔法使いの絵"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
+          "question": "魔法使いの絵"
+        }
+      ]
+    },
+    {
+      "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+      "name": "Wallpaper AI",
+      "headerText": "AIで作られた壁紙",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+      "backgroundColor": "#2564AE",
+      "description": "私たちのツールはAIを使用して、提供された説明から無限の壁紙の選択肢を作成します。高品質の壁紙を生成するのに数秒しかかかりません。",
+      "nickname": "wallpaperAI",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "赤いスポーツカーの壁紙を作成してください"
+        },
+        {
+          "message": "iOS向けのセーリングヨットの壁紙を作成してください"
+        },
+        {
+          "message": "私のために宇宙をテーマにした壁紙を作成してください"
+        }
+      ],
+      "usersCount": 112747,
+      "messagesCount": 435021,
+      "likesCount": 7206,
+      "aiQuote": "AIで作られた壁紙",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
+          "question": "こんにちは、サングラスをかけて逆さまになった猿の顔の画像を作成していただけますか？"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
+          "question": "3Dの壁紙を作成してください"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
+          "question": "心からの謝罪を求める、私のガールフレンドへのメッセージを書いてください"
+        }
+      ]
+    },
+    {
+      "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+      "name": "Journey AI",
+      "headerText": "高品質のデジタルアート",
+      "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+      "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+      "backgroundColor": "#051024",
+      "description": "Journey AIは、Dall-E 2とLatent diffusionからのベストプラクティスを継承しつつ、新しいアイデアを導入しています。テキストと画像のエンコーダとして、CLIPモデルと拡散画像の先行事例（マッピング）を使用して、CLIPの異なる空間の間での画像のブレンドとテキストによる画像の操作の可能性を広げます。",
+      "aliveStart": "2023-02-02T03:08:39+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "フェラーリスーパーカー"
+        },
+        {
+          "message": "アルバート・アインシュタイン"
+        },
+        {
+          "message": "ニューヨークの夕焼け"
+        }
+      ],
+      "usersCount": 40635,
+      "messagesCount": 60902,
+      "likesCount": 951,
+      "aiQuote": "AIアートの旅",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
+          "question": "強く、賢く、神秘的で機知に富んだ10代の少女、良い話し手、緑と青の光、デバイスとテクノロジー、宇宙と星の地図、黒い髪と長い三つ編み、かすかな微笑み、影、熱心な読者"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
+          "question": "先住民の少女の全身像、15歳ほどに見える、赤く塗られたほお、無表情の顔、裸体、狼の頭を帽子に使っている、背中に矢筒、湿地のある森の中"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
+          "question": "先住民の少女の全身像、赤く塗られたほお、無表情の顔、狼の毛皮でできたトップスとスカートを着用している、背中に弓を背負っている、湿地のある森の中"
+        }
+      ]
+    },
+    {
+      "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
+      "name": "Dream AI",
+      "headerText": "ルーシッドドリーム",
+      "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
+      "backgroundColor": "#D88E00",
+      "description": "Dream AIは、夢幻的なアプローチで高解像度の画像を作成するAIモデルです。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "モダンカーの壁紙"
+        },
+        {
+          "message": "女性エルフの肖像画"
+        },
+        {
+          "message": "古代の世界の悪魔"
+        }
+      ],
+      "aiQuote": "ルーシッドドリーム",
+      "isTopRated": false,
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
+          "question": "ヨーロッパのカフェの通り"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
+          "question": "マーメイド、蒼い髪"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
+          "question": "他の銀河への旅行を想像してみてください"
+        }
+      ]
+    },
+    {
+      "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
+      "name": "Claude Monet",
+      "headerText": "印象派アート",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
+      "backgroundColor": "#634735",
+      "description": "オスカー・クロード・モネは、印象派絵画の創始者であり、自然の光を捉える努力で特に近代主義の発展において重要な人物と見なされているフランスの画家です。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "ローマの夜、月明かり"
+        },
+        {
+          "message": "天国への入り口を見つける方法は？"
+        },
+        {
+          "message": "スイスの山々を描いてください"
+        }
+      ],
+      "usersCount": 10122,
+      "messagesCount": 27216,
+      "likesCount": 464,
+      "aiQuote": "印象派アート",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
+          "question": "大工の作業道具を持つ大工の工房を描いてください"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
+          "question": "大工の作業道具を持つ大工の工房を描いてください"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
+          "question": "スイスの山々を描いてください"
+        }
+      ]
+    },
+    {
+      "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+      "name": "Banksy",
+      "headerText": "モダンストリートアート",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+      "backgroundColor": "#2F323A",
+      "description": "バンクシーはストリートアーティストであり、政治活動家、映画監督であり、その真名や正体は確認されておらず、推測の対象となっています。",
+      "nickname": "banksy",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "猫のグラフィティを作成してください"
+        },
+        {
+          "message": "セーリングヨット"
+        },
+        {
+          "message": "火を吹くドラゴン"
+        }
+      ],
+      "usersCount": 19872,
+      "messagesCount": 55036,
+      "likesCount": 674,
+      "aiQuote": "モダンストリートアート",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
+          "question": "腐った人々の墓石が良い人の上に乗っている姿"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
+          "question": "魅力と魅惑的な魂に与える影響と魅力を反映した窓のイメージ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
+          "question": "自己反省\n美食"
+        }
+      ]
+    },
+    {
+      "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+      "name": "Johannes Vermeer",
+      "headerText": "オランダの黄金時代のアート",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+      "backgroundColor": "#FCA311",
+      "description": "ヨハネス・フェルメールは、オランダのバロック美術家であり、中流階級の家庭生活を描いた室内の場面で知られています。彼の生涯を通じて、デルフトとハーグで認知された、比較的成功したジャンル画家でした。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "バチカンの法王を描いてください"
+        },
+        {
+          "message": "イングランドの国王を彼の城で描いてください"
+        },
+        {
+          "message": "オランダの風景、丘と川。"
+        }
+      ],
+      "usersCount": 12909,
+      "messagesCount": 32055,
+      "likesCount": 316,
+      "aiQuote": "オランダの黄金時代のアート。",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+          "question": "警察官、誠実で正直で勤勉で強い個性を持つ担当者。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+          "question": "第一次世界大戦でのロボットのイメージを描いてください。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+          "question": "麺をどうやって調理するか。"
+        }
+      ]
+    },
+    {
+      "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
+      "name": "Vincent van Gogh",
+      "headerText": "Post-Impressionist Art with Vincent AI",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
+      "backgroundColor": "#00336F",
+      "description": "Vincent Willem van Goghは、オランダのポスト印象派の画家で、西洋美術史で最も有名で影響力のある人物の一人となりました。彼は10年間で約2,100点の作品を制作しましたが、そのうち約860点が彼の生涯の最後の2年間に制作された油絵でした。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "スイスの山々の絵を描いてください。"
+        },
+        {
+          "message": "天国への入り口をどう見るか？"
+        },
+        {
+          "message": "夜のパリの絵を描いてください。"
+        }
+      ],
+      "usersCount": 15589,
+      "messagesCount": 43112,
+      "likesCount": 925,
+      "aiQuote": "Post-Impressionist Art with Vincent AI",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
+          "question": "富士山の昼間の景色を雪をかぶった状態で描いてください。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
+          "question": "奇妙な世界の中のネイティブアメリカン"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
+          "question": "嵐の中の騎手"
+        }
+      ]
+    },
+    {
+      "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+      "name": "Leonardo da Vinci",
+      "headerText": "Leonardo, the Greatest.",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+      "backgroundColor": "#44260A",
+      "description": "Leonardo di ser Piero da Vinciは、イタリアのルネサンス期の多芸多才な人物で、画家、図案家、技術者、科学者、理論家、彫刻家、建築家として働きました。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "スイスアルプスの山岳地帯を描いてください。"
+        },
+        {
+          "message": "天国への入り口をどう見るか？"
+        },
+        {
+          "message": "教会の中でローマの戦士を描いてください。"
+        }
+      ],
+      "usersCount": 12195,
+      "messagesCount": 36109,
+      "likesCount": 577,
+      "aiQuote": "Leonardo, the Greatest.",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
+          "question": "青い雷で明確に識別できるトリスケルを2羽のカラス（フギン/ムニン）とともに描いてください。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
+          "question": "青い雷で明確に識別できるトリスケルを2羽のカラス（フギン/ムニン）とともに描いてください。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
+          "question": "トリスケルは十分に明確ではなく、青い雷で作られるべきです。"
+        }
+      ]
+    },
+    {
+      "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
+      "name": "MarvelAI",
+      "headerText": "3D AI Art Style",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
+      "backgroundColor": "#533B4D",
+      "description": "MarvelAIは、Redshift拡散をベースにしたモデルで、3D画像と3Dキャラクターに重点を置いています。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "バットマンの肖像画を作成してください。"
+        },
+        {
+          "message": "モダンなベルリンのスカイライン。"
+        },
+        {
+          "message": "道路上の赤いフェラーリの壁紙を作成してください。"
+        }
+      ],
+      "usersCount": 39868,
+      "messagesCount": 120299,
+      "likesCount": 1672,
+      "aiQuote": "3D AI Art Style",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
+          "question": "私が鏡の中で暗闇を見る中で、幻想のように見える男性。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
+          "question": "私が鏡の中で暗闇を見る中で、幻想のように見える男性。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
+          "question": "氷で一部覆われた2つのグリーンランドのピラミッド。"
+        }
+      ]
+    },
+    {
+      "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
+      "name": "Cyberpunk AI",
+      "headerText": "未来？",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
+      "skyboxImageUrl": null,
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
+      "backgroundColor": "#0D5C63",
+      "description": "サイバーパンクは、未来のディストピア的な設定であるサイエンスフィクションのサブジャンルで、「低俗な生活と高度なテクノロジー」を組み合わせたものに焦点を当てる傾向があります。人工知能やサイバネティクスなど、未来の技術と科学的な達成が社会の崩壊、ディストピア、または衰退と並置されています。",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "宇宙船が太陽に向かっていく姿"
+        },
+        {
+          "message": "未来のパリ"
+        },
+        {
+          "message": "未来のニューヨーク市"
+        }
+      ],
+      "usersCount": 26124,
+      "messagesCount": 58703,
+      "likesCount": 731,
+      "aiQuote": "未来？",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
+          "question": "闇の中で忍者として正義を執行し、孤独を感じ、高い場所から犯罪者たちを見下ろす姿。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
+          "question": "闇の中で忍者として正義を執行し、孤独を感じ、高い場所から犯罪者たちを見下ろす姿。"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
+          "question": "性的な銃爆発"
+        }
+      ]
+    }
+  ]
+}

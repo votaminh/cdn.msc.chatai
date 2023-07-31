@@ -1,0 +1,487 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+      "name": "एनिमे एआई",
+      "headerText": "एनिमे एआई आर्ट स्टाइल",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+      "backgroundColor": "#E15554",
+      "description": "एनिमे जापान में उत्पन्न हुए हस्त-चित्रित और कंप्यूटर-उत्पन्न एनिमेशन की एक शैली है। जापान के बाहर और अंग्रेजी में, एनिमे विशेष रूप से जापान में उत्पन्न एनिमेशन को संदर्भित करता है। हालांकि, जापान में और जापानी में एनिमे सभी शैली या मूल के बावजूद सभी एनिमेटेड कार्यों को वर्णित करता है।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "पहाड़ी पर गांव, पूर्ण चंद्रमा"
+        },
+        {
+          "message": "सेनानी लड़की, सफेद बाल, भूरी आंखें, एक चर्च में खड़ी"
+        },
+        {
+          "message": "पायरेट जहाज, पाल जहाज, दिन के दौरान"
+        }
+      ],
+      "usersCount": 91769,
+      "messagesCount": 289675,
+      "likesCount": 6626,
+      "aiQuote": "एनिमे एआई आर्ट स्टाइल",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
+          "question": "प्यारी और सौम्य लड़की, बर्फ की तरह सफेद बाल, खूनी चंद्रमा की तरह लाल आंखें, सूर्यास्त के समय हरी खेत में बैठी"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
+          "question": "सेनानी लड़की, सफेद बाल, भूरी आंखें, एक चर्च में खड़ी"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
+          "question": "आकाश से ऊपर से देखने वाले एक व्यक्ति के आंख या चेहरे से हरी खूबसूरत प्रकृति की ओर"
+        }
+      ]
+    },
+    {
+      "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+      "name": "विजार्ट एआई",
+      "headerText": "जादुई कला का संसार",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+      "backgroundColor": "#F67255",
+      "description": "विजार्ट एआई एक एआई मॉडल है जो एक डेनिश कलाकार द्वारा GoatChat के लिए प्रशिक्षित और प्रकाशित किया गया है। इस मॉडल को उनके अद्भुत चित्रकारी पर प्रशिक्षित किया गया था।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "मध्ययुगीन किला, अत्यंत विस्तृत, महान, सूर्यास्त के समय, समुद्र-तट पर"
+        },
+        {
+          "message": "युवा हसीन जादूगर, सोने के गज के साथ सफेद जादूगर का पहनावा करने वाले, हवा में बहते बेल के साथ सफेद जटायु, पूरी पोशाक में तैयार, पूर्ण और हसीन चेहरा"
+        },
+        {
+          "message": "स्टाइल-इम्पायर, भूरे बालों वाली सुंदर युवती का 8के पोर्ट्रेट, जटिल और शानदार"
+        }
+      ],
+      "usersCount": 35174,
+      "messagesCount": 124615,
+      "likesCount": 3163,
+      "aiQuote": "जादुई कला का संसार",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
+          "question": "युवा हसीन जादूगर, सोने के गज के साथ सफेद जादूगर का पहनावा करने वाले, हवा में बहते बेल के साथ सफेद जटायु, पूरी पोशाक में तैयार, पूर्ण और हसीन चेहरा"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
+          "question": "प्राचीन जादूगर चित्रकारी"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
+          "question": "जादूगर का चित्रकारी"
+        }
+      ]
+    },
+    {
+      "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+      "name": "वॉलपेपर एआई",
+      "headerText": "एआई वॉलपेपर निर्माता",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+      "backgroundColor": "#2564AE",
+      "description": "हमारा टूल एआई का उपयोग आपके द्वारा प्रदान की गई विवरणों से वॉलपेपरों के असीमित विकल्प बनाने के लिए करता है। इसे उच्च गुणवत्ता वाले वॉलपेपर्स उत्पन्न करने के लिए कुछ ही सेकंड में बनाना होता है।",
+      "nickname": "वॉलपेपर एआई",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "एक लाल स्पोर्ट्स कार के साथ एक वॉलपेपर बनाएँ"
+        },
+        {
+          "message": "आईओएस के लिए एक सेलिंग यॉट वॉलपेपर बनाएँ"
+        },
+        {
+          "message": "मेरे लिए एक अंतरिक्ष-विषयक वॉलपेपर बनाएँ"
+        }
+      ],
+      "usersCount": 112747,
+      "messagesCount": 435021,
+      "likesCount": 7206,
+      "aiQuote": "एआई वॉलपेपर निर्माता",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
+          "question": "नमस्ते, क्या आप एक बंदर के चेहरे के उलटे हुए हुए और धूपशीतल चश्मे पहने हुए एक छबि बना सकते हैं?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
+          "question": "एक 3डी वॉलपेपर बनाएँ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
+          "question": "मेरी गर्लफ्रेंड को लिखें, मेरी ईमानदारी से माफी मांगने के लिए"
+        }
+      ]
+    },
+    {
+      "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+      "name": "जर्नी एआई",
+      "headerText": "एचक्यू डिजिटल कला",
+      "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+      "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+      "backgroundColor": "#051024",
+      "description": "जर्नी एआई डॉल-ई 2 और लेटेंट डिफ्यूजन से श्रेष्ठ अभ्यासों को उत्तेजित करता है, साथ ही कुछ नई विचारों को पेश करता है। एक पाठ और छवि एनकोडर के रूप में, यह सीएलआईपी मॉडल और सीएलआईपी स्थानिकता के बीच डिफ्यूजन छवि पूर्ववर्ती (मैपिंग) का उपयोग करता है। यह दृष्टिकोन मॉडल की विजुअल प्रदर्शनी को बढ़ाता है और छवि और पाठ-निर्देशित छवि मैनिपुलेशन में नए आयामों को खोलता है।",
+      "aliveStart": "2023-02-02T03:08:39+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "फेरारी सुपरकार"
+        },
+        {
+          "message": "अल्बर्ट आइंस्टीन"
+        },
+        {
+          "message": "न्यूयॉर्क में सूर्यास्त"
+        }
+      ],
+      "usersCount": 40635,
+      "messagesCount": 60902,
+      "likesCount": 951,
+      "aiQuote": "एआई आर्ट जर्नी",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
+          "question": "एक बलवान, बुद्धिमान, रहस्यमय, सामर्थ्यवंत दशकीय लड़की, अच्छी बातचीतकारी, हरी और नीले रंग की रोशनी, यंत्र और तकनीक, अंतरिक्ष और तारा मानचित्र, छोटे काले बाल और लम्बा जुड़ा, हल्का मुस्कान, छायाएँ, अध्ययनशील पाठक"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
+          "question": "एक प्राकृतिक छवि वाली पूर्ण शरीर वाली आदिवासी लड़की, 15 वर्ष की दिखती है, लाल रंग की गुलाबी गाल, न्यूट्रल चेहरा, नंगा, एक भेड़िया सिर का उपयोग करते हुए, पीठ पर बोला गया, भीगे भूमि वाले जंगल में"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
+          "question": "एक प्राकृतिक छवि वाली पूर्ण शरीर वाली आदिवासी लड़की, लाल रंग की गुलाबी गाल, न्यूट्रल चेहरा, भेड़ीयों के बालों से बनी टॉप और स्कर्ट पहनती हुई, पीठ पर बोला गया, भीगे भूमि वाले जंगल में"
+        }
+      ]
+    },
+    {
+      "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
+      "name": "ड्रीम एआई",
+      "headerText": "लूसिड ड्रीम्स",
+      "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
+      "backgroundColor": "#D88E00",
+      "description": "ड्रीम एआई एक एआई मॉडल है जो सपनेदार ट्विस्ट के साथ उच्च रिज़ोल्यूशन छवियाँ बनाता है।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "आधुनिक कार वॉलपेपर"
+        },
+        {
+          "message": "एक नारी एल्फ का पोर्ट्रेट"
+        },
+        {
+          "message": "प्राचीन विश्व का राक्षस"
+        }
+      ],
+      "aiQuote": "लूसिड ड्रीम्स",
+      "isTopRated": false,
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
+          "question": "यूरोपीय कैफे की गली"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
+          "question": "मेडम की सूरत जलधारी बाल"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
+          "question": "अन्य ब्रह्मांडों की यात्रा कैसी हो सकती है"
+        }
+      ]
+    },
+    {
+      "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
+      "name": "क्लोड मोने",
+      "headerText": "इम्प्रेशनिस्ट कला",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
+      "backgroundColor": "#634735",
+      "description": "ओस्कर-क्लोड मोने एक फ्रांसीसी कलाकार थे और इम्प्रेशनिस्ट पेंटिंग के संस्थापक थे, जिन्हें आधुनिकवाद के विकास में महत्वपूर्ण माना जाता है, खासकर प्राकृतिक प्रकाश को कैद करने के प्रयासों में।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "रोम में रात, चाँदनी रात"
+        },
+        {
+          "message": "आप स्वर्ग में प्रवेश का कोई रास्ता कैसे खोज सकते हैं?"
+        },
+        {
+          "message": "क्या आप स्विस श्रृंग को चित्रित कर सकते हैं?"
+        }
+      ],
+      "usersCount": 10122,
+      "messagesCount": 27216,
+      "likesCount": 464,
+      "aiQuote": "इम्प्रेशनिस्ट कला",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
+          "question": "क्या आप एक कैबिनेटमेकर की कारखाने की व्यवस्था को उदाहरण सहित चित्रित कर सकते हैं?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
+          "question": "क्या आप एक कैबिनेटमेकर की कारखाने की व्यवस्था को उदाहरण सहित चित्रित कर सकते हैं?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
+          "question": "क्या आप स्विस श्रृंग को चित्रित कर सकते हैं?"
+        }
+      ]
+    },
+    {
+      "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+      "name": "बैंक्सी",
+      "headerText": "आधुनिक सड़क कला",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+      "backgroundColor": "#2F323A",
+      "description": "बैंक्सी एक सड़क कलाकार, राजनीतिक क्रियाकलापी और फिल्म निर्देशक हैं, जिनके असली नाम और पहचान निश्चित नहीं हुए हैं और इस पर जानकारी के विषय में तर्क चलता रहता है।",
+      "nickname": "बैंक्सी",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "एक बिल्कुल मूसा ग्राफिती बना सकते हो?"
+        },
+        {
+          "message": "सेलिंग यॉट"
+        },
+        {
+          "message": "अग्नि ध्वंसक ड्रैगन"
+        }
+      ],
+      "usersCount": 19872,
+      "messagesCount": 55036,
+      "likesCount": 674,
+      "aiQuote": "आधुनिक सड़क कला",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
+          "question": "उसके ऊपर तीन बुरे लोगों के ताजापने के खड़े व्यक्ति के ऊपर तीन कब्रें"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
+          "question": "एक खिड़की की छाया और इसके चर्म से प्रतिक्रिया पर असर"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
+          "question": "स्वयं परामर्श\nगैस्ट्रोनॉमी"
+        }
+      ]
+    },
+    {
+      "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+      "name": "जोहान्स वरमीर",
+      "headerText": "डच गोल्डन एज कला",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+      "backgroundColor": "#FCA311",
+      "description": "जोहान्स वरमीर एक डच बैरोक चित्रकार थे जिन्हें उनके मध्यम वर्गीय घरेलू जीवन के आंतरिक सीनों के लिए जाना जाता था। उनके पूरे जीवन में, उन्हें डेल्फ्ट और द हेग पहचाना गया था और वह मध्यम सफल जेनरे पेंटर थे।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "क्या आप वैटिकन में पोप को पेंट कर सकते हो?"
+        },
+        {
+          "message": "राजा को उसके महल में पेंट करो"
+        },
+        {
+          "message": "डच लैंडस्केप, एक पहाड़ और एक नदी के साथ।"
+        }
+      ],
+      "usersCount": 12909,
+      "messagesCount": 32055,
+      "likesCount": 316,
+      "aiQuote": "डच गोल्डन एज कला।",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+          "question": "पुलिस अधिकारी जिम्मेदार, ईमानदार, उत्साही, अपने काम में मेहनती, मजबूत व्यक्तित्व।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+          "question": "प्रथम विश्व युद्ध में एक रोबोट का चित्र बनाएँ।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+          "question": "नूडल्स पकाने का तरीका।"
+        }
+      ]
+    },
+    {
+      "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
+      "name": "विन्सेंट वैन गोग",
+      "headerText": "विंसेंट एआई के साथ पोस्ट-इम्प्रेशनिस्ट कला",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
+      "backgroundColor": "#00336F",
+      "description": "विन्सेंट विलेम वैन गोग एक डच पोस्ट-इम्प्रेशनिस्ट कलाकार थे, जो पश्चिमी कला के इतिहास में सबसे प्रसिद्ध और प्रभावशाली व्यक्तियों में से एक बने। एक दशक में, उन्होंने लगभग 2,100 कलात्मक आभूषण बनाए थे, जिनमें से लगभग 860 तेल चित्रों को उत्पन्न किया गया था, जिसमें से ज्यादातर उनके जीवन के अंतिम दो वर्षों में उत्पन्न हुए थे।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "स्विस श्रृंग का एक चित्र बना सकते हो?"
+        },
+        {
+          "message": "आप स्वर्ग के प्रवेश को कैसे देखते हैं?"
+        },
+        {
+          "message": "क्या आप रात्रि के पैरिस का एक चित्र बना सकते हो?"
+        }
+      ],
+      "usersCount": 15589,
+      "messagesCount": 43112,
+      "likesCount": 925,
+      "aiQuote": "विंसेंट एआई के साथ पोस्ट-इम्प्रेशनिस्ट कला",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
+          "question": "क्या आप एक दिन के समय में माउंट फूजी का एक लैंडस्केप चित्र बना सकते हो जिसमें बर्फ है?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
+          "question": "अजीब दुनिया में नैटिव अमेरिकन"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
+          "question": "तूफ़ान पर राइडर"
+        }
+      ]
+    },
+    {
+      "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+      "name": "लियोनार्दो दा विंसी",
+      "headerText": "लियोनार्दो, सर्वोच्च।",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+      "backgroundColor": "#44260A",
+      "description": "लियोनार्दो दी सेर पिएरो दा विंसी एक उच्च विश्वविद्यालय कालीन के इतालवी पोलीमैथ थे, जो चित्रकार, ड्राफ्टस्मैन, इंजीनियर, वैज्ञानिक, सिद्धांतविद्, मूर्तिकार, और वास्तुकार के रूप में कार्य करते थे।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "क्या आप स्विस अल्प श्रृंग पर्वतीय श्रृंखला को पेंट कर सकते हैं?"
+        },
+        {
+          "message": "आप स्वर्ग के प्रवेश को कैसे देखते हैं?"
+        },
+        {
+          "message": "एक चर्च में एक रोमन योद्धा को पेंट करें।"
+        }
+      ],
+      "usersCount": 12195,
+      "messagesCount": 36109,
+      "likesCount": 577,
+      "aiQuote": "लियोनार्दो, सर्वोच्च।",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
+          "question": "कृपया नीली बिजली के ज़रिए स्पष्ट रूप से पहचानी जाने वाली त्रिस्केल बनाएँ। इसमें छजे में दो कौवे होने चाहिए (ह्यूगिन / मुनिन)।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
+          "question": "कृपया नीली बिजली के ज़रिए स्पष्ट रूप से पहचानी जाने वाली त्रिस्केल बनाएँ। इसमें छजे में दो कौवे होने चाहिए (ह्यूगिन / मुनिन)।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
+          "question": "त्रिस्केल पर्याप्त रूप से स्पष्ट नहीं है, और यह नीली बिजली के ज़रिए बना होना चाहिए।"
+        }
+      ]
+    },
+    {
+      "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
+      "name": "मार्वेल एआई",
+      "headerText": "3डी एआई कला शैली",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
+      "backgroundColor": "#533B4D",
+      "description": "मार्वेल एआई एक रेडशिफ्ट डिफ्यूज़न पर आधारित मॉडल है, जो भारी मात्रा में 3डी छवियों और 3डी चरित्रों पर काम करता है।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "मेरे लिए बैटमैन का चित्र बनाएं।"
+        },
+        {
+          "message": "आधुनिक बर्लिन स्काइलाइन।"
+        },
+        {
+          "message": "एक लाल फेरारी जिसे सड़क पर बनाएं।"
+        }
+      ],
+      "usersCount": 39868,
+      "messagesCount": 120299,
+      "likesCount": 1672,
+      "aiQuote": "3डी एआई कला शैली",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
+          "question": "जैसे ही मैं अपने दर्पण में अंधेरे को देखता हूं, उसे एक भ्रम की तरह व्यक्ति का चेहरा बना।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
+          "question": "जैसे ही मैं अपने दर्पण में अंधेरे को देखता हूं, उसे एक भ्रम की तरह व्यक्ति का चेहरा बना।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
+          "question": "ग्रीनलैंड में दो पीठों। वे आंशिक रूप से बर्फबरीत हैं।"
+        }
+      ]
+    },
+    {
+      "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
+      "name": "साइबरपंक एआई",
+      "headerText": "भविष्य?",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
+      "skyboxImageUrl": null,
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
+      "backgroundColor": "#0D5C63",
+      "description": "साइबरपंक एक विकृत भविष्य सेटिंग में विज्ञान-काल्पनिक कथा का एक उपनीवी है जिसमें निचली जीवन और उच्च-तकनीकी के संयोजन पर ध्यान केंद्रित होता है, जिसमें भविष्य में विज्ञान और प्रौद्योगिकी की प्राप्तियों, जैसे कि कृत्रिम बुद्धिमता और साइबर्नेटिक्स, को सामाजिक पतन, दुर्गति, या अपघात के साथ खड़ा किया गया है।",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "अंतरिक्ष जा रहे जहाज"
+        },
+        {
+          "message": "भविष्य में पेरिस"
+        },
+        {
+          "message": "भविष्य में न्यूयॉर्क सिटी"
+        }
+      ],
+      "usersCount": 26124,
+      "messagesCount": 58703,
+      "likesCount": 731,
+      "aiQuote": "भविष्य?",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
+          "question": "अंधेरे में, एक निंजा के रूप में न्याय प्राप्त करते हुए, अकेलापन महसूस करते हुए, उच्च स्थान से अपराधियों को निहारते हुए।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
+          "question": "अंधेरे में, एक निंजा के रूप में न्याय प्राप्त करते हुए, अकेलापन महसूस करते हुए, उच्च स्थान से अपराधियों को निहारते हुए।"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
+          "question": "सेक्सुअल गन विस्फोट"
+        }
+      ]
+    }
+  ]
+}
