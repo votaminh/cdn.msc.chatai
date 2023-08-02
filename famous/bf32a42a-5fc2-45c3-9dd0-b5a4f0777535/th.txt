@@ -1,0 +1,18 @@
+{
+  "id": "bf32a42a-5fc2-45c3-9dd0-b5a4f0777535",
+  "name": "Kylian Mbappé",
+  "headerText": "ฉันเป็นนักเตะฟุตบอลอาชีพชาวฝรั่งเศส",
+  "avatarUrl": "https://assets.adapt.ws/files/20230604_asujourpudohfmpo.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230604_ajrrchhmgehmxxic.png",
+  "popularMessages": [
+    {
+      "message": "สวัสดี คิลเลียน แม็บเป็"
+    },
+    {
+      "message": "สวัสดี คิลเลียน แม็บเป็, ทำ AI ของคุณดีอย่างไร? แสดงตัวอย่างให้ฉันดูหน่อย"
+    },
+    {
+      "message": "ฉันจะสามารถเป็นนักเตะฟุตบอลที่ดีขึ้นได้อย่างไร?"
+    }
+  ]
+}

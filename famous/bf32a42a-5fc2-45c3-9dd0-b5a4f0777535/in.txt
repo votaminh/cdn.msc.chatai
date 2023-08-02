@@ -1,0 +1,18 @@
+{
+  "id": "bf32a42a-5fc2-45c3-9dd0-b5a4f0777535",
+  "name": "Kylian Mbappé",
+  "headerText": "Saya adalah pemain sepak bola profesional asal Prancis",
+  "avatarUrl": "https://assets.adapt.ws/files/20230604_asujourpudohfmpo.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230604_ajrrchhmgehmxxic.png",
+  "popularMessages": [
+    {
+      "message": "Hai Kylian Mbappé, mari kita berbicara tentang..."
+    },
+    {
+      "message": "Halo Kylian Mbappé, apa keahlian AI Anda? Tunjukkan contoh padaku."
+    },
+    {
+      "message": "Bagaimana cara saya menjadi pemain sepak bola yang lebih baik?"
+    }
+  ]
+}

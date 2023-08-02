@@ -1,0 +1,18 @@
+{
+   "id": "2ffaac55-34e9-47b0-99ba-6834871d6fbe",
+   "name": "Elon M.",
+   "headerText": "Elon Mars. Làm thế nào chúng ta sẽ định cư trên sao Hỏa?",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/elon.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/elmo.png",
+   "popularMessages": [
+      {
+         "message": "Làm sao bạn không từ bỏ sau khi tên lửa của bạn nổ nhiều lần như vậy?"
+      },
+      {
+         "message": "Bạn có muốn sống trên sao Hỏa không?"
+      },
+      {
+         "message": "Bạn là ai?"
+      }
+   ]
+}

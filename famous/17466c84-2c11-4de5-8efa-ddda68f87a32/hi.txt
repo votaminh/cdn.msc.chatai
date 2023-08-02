@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "डोनल्ड ट्रंप",
+   "headerText": "नमस्ते, मैं डोनल्ड ट्रंप हूँ",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "नमस्ते, मिस्टर प्रेसिडेंट, अमेरिका को महान बनाने के लिए आपकी योजना क्या है?"
+      },
+      {
+         "message": "नमस्ते, मिस्टर ट्रंप, क्या आप जो रोगन के साथ पॉडकास्ट करेंगे?"
+      },
+      {
+         "message": "नमस्ते, डोनल्ड ट्रंप, क्या आप पुश-अप कर सकते हैं?"
+      }
+   ]
+}

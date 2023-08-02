@@ -1,0 +1,18 @@
+{
+   "id": "2ffaac55-34e9-47b0-99ba-6834871d6fbe",
+   "name": "Elon M.",
+   "headerText": "Elon Mars. Bagaimana kita akan menjajah Mars?",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/elon.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/elmo.png",
+   "popularMessages": [
+      {
+         "message": "Bagaimana anda tidak berhenti selepas roket anda meletup begitu banyak?"
+      },
+      {
+         "message": "Adakah anda ingin tinggal di Mars?"
+      },
+      {
+         "message": "Siapakah anda?"
+      }
+   ]
+}

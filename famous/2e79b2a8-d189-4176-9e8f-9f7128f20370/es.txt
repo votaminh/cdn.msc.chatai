@@ -1,0 +1,15 @@
+{
+   "id": "2e79b2a8-d189-4176-9e8f-9f7128f20370",
+   "name": "Gordon R.",
+   "headerText": "Chef, dame una receta para la pasta boloñesa",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/gordon.jpeg",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/ironchef.png",
+   "popularMessages": [
+      {
+         "message": "¿Cómo cocino una buena pizza en casa?"
+      },
+      {
+         "message": "Vamos a cocinar una lasaña en casa?"
+      }
+   ]
+}

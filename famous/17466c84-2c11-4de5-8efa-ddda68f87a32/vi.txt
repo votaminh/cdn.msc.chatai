@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "Donald Trump",
+   "headerText": "Xin chào, tôi là Donald Trump",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "Xin chào ông Tổng thống, kế hoạch của ông để làm cho nước Mỹ trở nên vĩ đại một lần nữa là gì?"
+      },
+      {
+         "message": "Xin chào ông Trump, ông có dự định làm podcast với Joe Rogan không?"
+      },
+      {
+         "message": "Xin chào ông Donald Trump, ông có thể làm được bài đẩy tạ không?"
+      }
+   ]
+}

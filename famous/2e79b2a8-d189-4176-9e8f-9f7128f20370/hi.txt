@@ -1,0 +1,15 @@
+{
+   "id": "2e79b2a8-d189-4176-9e8f-9f7128f20370",
+   "name": "गॉर्डन आर.",
+   "headerText": "शेफ, मुझे बोलोनिज़ पास्ता की रेसिपी दें",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/gordon.jpeg",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/ironchef.png",
+   "popularMessages": [
+      {
+         "message": "घर पर एक अच्छी पिज़्ज़ा कैसे पकाएं?"
+      },
+      {
+         "message": "आओ घर पर एक लसाग्ना पकाएं?"
+      }
+   ]
+}

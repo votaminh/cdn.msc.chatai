@@ -1,0 +1,15 @@
+{
+   "id": "2e79b2a8-d189-4176-9e8f-9f7128f20370",
+   "name": "ゴードン・R.",
+   "headerText": "シェフ、ボロネーゼパスタのレシピを教えてください",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/gordon.jpeg",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/ironchef.png",
+   "popularMessages": [
+      {
+         "message": "自宅で美味しいピザをどうやって作ればいいですか？"
+      },
+      {
+         "message": "自宅でラザニアを作りましょうか？"
+      }
+   ]
+}

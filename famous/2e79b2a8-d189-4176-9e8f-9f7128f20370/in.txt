@@ -1,0 +1,15 @@
+{
+   "id": "2e79b2a8-d189-4176-9e8f-9f7128f20370",
+   "name": "Gordon R.",
+   "headerText": "Chef, berikan saya resep untuk Bolognese Pasta",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/gordon.jpeg",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/ironchef.png",
+   "popularMessages": [
+      {
+         "message": "Bagaimana cara memasak pizza yang enak di rumah?"
+      },
+      {
+         "message": "Ayo masak lasagna di rumah?"
+      }
+   ]
+}

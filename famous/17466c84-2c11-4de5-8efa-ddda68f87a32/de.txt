@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "Donald Trump",
+   "headerText": "Hallo, ich bin Donald Trump",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "Hallo, Herr Präsident, was ist Ihr Plan, um Amerika wieder großartig zu machen?"
+      },
+      {
+         "message": "Hallo, Herr Trump, werden Sie einen Podcast mit Joe Rogan machen?"
+      },
+      {
+         "message": "Hallo, Donald Trump, können Sie Liegestütze machen?"
+      }
+   ]
+}

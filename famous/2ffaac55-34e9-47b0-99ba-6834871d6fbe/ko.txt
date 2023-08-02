@@ -1,0 +1,18 @@
+{
+   "id": "2ffaac55-34e9-47b0-99ba-6834871d6fbe",
+   "name": "이론 M.",
+   "headerText": "이론 마스. 어떻게 화성을 식민지화할 것인가요?",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/elon.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/elmo.png",
+   "popularMessages": [
+      {
+         "message": "로켓이 많이 폭발한 후에도 어떻게 그만두지 않았나요?"
+      },
+      {
+         "message": "화성에 살고 싶으신가요?"
+      },
+      {
+         "message": "당신은 누구신가요?"
+      }
+   ]
+}

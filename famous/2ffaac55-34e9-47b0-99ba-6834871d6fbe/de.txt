@@ -1,0 +1,18 @@
+{
+   "id": "2ffaac55-34e9-47b0-99ba-6834871d6fbe",
+   "name": "Elon M.",
+   "headerText": "Elon Mars. Wie werden wir den Mars kolonisieren?",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/elon.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/elmo.png",
+   "popularMessages": [
+      {
+         "message": "Wie hast du nicht aufgegeben, nachdem so viele deiner Raketen explodiert sind?"
+      },
+      {
+         "message": "Würdest du auf dem Mars leben wollen?"
+      },
+      {
+         "message": "Wer bist du?"
+      }
+   ]
+}

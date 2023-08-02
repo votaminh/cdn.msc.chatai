@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "Donald Trump",
+   "headerText": "Hai, saya Donald Trump",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "Hai, Tuan Presiden, apakah rancangan anda untuk menjadikan Amerika hebat lagi?"
+      },
+      {
+         "message": "Hai, Tuan Trump, adakah anda akan membuat podcast bersama Joe Rogan?"
+      },
+      {
+         "message": "Hai, Donald Trump, bolehkah anda melakukan push-up?"
+      }
+   ]
+}

@@ -1,0 +1,18 @@
+{
+   "id": "2ffaac55-34e9-47b0-99ba-6834871d6fbe",
+   "name": "इलॉन एम.",
+   "headerText": "इलॉन मार्स। हम मंगल ग्रह को कैसे आबाद करेंगे?",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/elon.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/elmo.png",
+   "popularMessages": [
+      {
+         "message": "तुम्हारे रॉकेट्स कई बार फट गए फिर भी तुमने कैसे हार नहीं मानी?"
+      },
+      {
+         "message": "क्या आप मंगल ग्रह पर रहना चाहेंगे?"
+      },
+      {
+         "message": "तुम कौन हो?"
+      }
+   ]
+}

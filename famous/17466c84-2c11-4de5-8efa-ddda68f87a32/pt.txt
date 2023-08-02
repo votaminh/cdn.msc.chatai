@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "Donald Trump",
+   "headerText": "Olá, eu sou o Donald Trump",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "Olá, Sr. Presidente, qual é o seu plano para tornar a América grande novamente?"
+      },
+      {
+         "message": "Olá, Sr. Trump, você fará um podcast com Joe Rogan?"
+      },
+      {
+         "message": "Olá, Donald Trump, você consegue fazer flexões?"
+      }
+   ]
+}

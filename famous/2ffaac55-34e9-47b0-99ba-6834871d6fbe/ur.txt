@@ -1,0 +1,18 @@
+{
+   "id": "2ffaac55-34e9-47b0-99ba-6834871d6fbe",
+   "name": "ایلان ایم.",
+   "headerText": "ایلان مارس. ہم مریخ کو کیسے کالونائز کریں گے؟",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/elon.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/elmo.png",
+   "popularMessages": [
+      {
+         "message": "آپ کے راکٹس نے اتنی بار پھٹنے کے بعد آپ نے کیسے مستقل نہیں ہوگئے؟"
+      },
+      {
+         "message": "کیا آپ مریخ پر رہنا چاہیں گے؟"
+      },
+      {
+         "message": "آپ کون ہیں؟"
+      }
+   ]
+}

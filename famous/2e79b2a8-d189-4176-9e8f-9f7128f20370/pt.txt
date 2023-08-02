@@ -1,0 +1,15 @@
+{
+   "id": "2e79b2a8-d189-4176-9e8f-9f7128f20370",
+   "name": "Gordon R.",
+   "headerText": "Chef, dê-me uma receita para o Macarrão à Bolonhesa",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/gordon.jpeg",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/ironchef.png",
+   "popularMessages": [
+      {
+         "message": "Como faço uma boa pizza em casa?"
+      },
+      {
+         "message": "Vamos cozinhar uma lasanha em casa?"
+      }
+   ]
+}

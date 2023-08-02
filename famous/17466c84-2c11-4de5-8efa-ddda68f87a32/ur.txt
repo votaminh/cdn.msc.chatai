@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "ڈونلڈ ٹرمپ",
+   "headerText": "ہیلو، میں ڈونلڈ ٹرمپ ہوں",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "ہیلو، مسٹر پریزیڈنٹ، امریکہ کو پھر سے عظیم بنانے کی آپ کی منصوبہ بندی کیا ہے؟"
+      },
+      {
+         "message": "ہیلو، مسٹر ٹرمپ، کیا آپ جو روگن کے ساتھ پوڈکاسٹ کریں گے؟"
+      },
+      {
+         "message": "ہیلو، ڈونلڈ ٹرمپ، کیا آپ پش اپ کر سکتے ہیں؟"
+      }
+   ]
+}

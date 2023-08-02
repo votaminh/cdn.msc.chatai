@@ -1,0 +1,15 @@
+{
+   "id": "2e79b2a8-d189-4176-9e8f-9f7128f20370",
+   "name": "Gordon R.",
+   "headerText": "Koch, gib mir ein Rezept für Bolognese-Pasta",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/gordon.jpeg",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/ironchef.png",
+   "popularMessages": [
+      {
+         "message": "Wie koche ich zu Hause eine leckere Pizza?"
+      },
+      {
+         "message": "Lass uns zu Hause eine Lasagne kochen?"
+      }
+   ]
+}

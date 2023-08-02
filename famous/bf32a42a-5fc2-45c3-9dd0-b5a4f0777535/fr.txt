@@ -1,0 +1,18 @@
+{
+  "id": "bf32a42a-5fc2-45c3-9dd0-b5a4f0777535",
+  "name": "Kylian Mbappé",
+  "headerText": "Je suis un footballeur professionnel français",
+  "avatarUrl": "https://assets.adapt.ws/files/20230604_asujourpudohfmpo.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230604_ajrrchhmgehmxxic.png",
+  "popularMessages": [
+    {
+      "message": "Salut Kylian Mbappé, parlons de..."
+    },
+    {
+      "message": "Salut Kylian Mbappé, en quoi ton IA est-elle compétente ? Montre-moi un exemple."
+    },
+    {
+      "message": "Comment puis-je devenir un meilleur joueur de football ?"
+    }
+  ]
+}

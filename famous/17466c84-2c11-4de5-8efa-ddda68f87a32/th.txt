@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "โดนัลด์ ทรัมป์",
+   "headerText": "สวัสดี ฉันคือ โดนัลด์ ทรัมป์",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "สวัสดีครับ ประธานาธิบดีคุณครับ แผนของท่านในการทำให้อเมริกายิ่งใหญ่อีกครั้งคืออะไรครับ?"
+      },
+      {
+         "message": "สวัสดีครับ คุณทรัมป์ คุณจะทำพ็อดแคสต์กับโจ โรแกนไหมครับ?"
+      },
+      {
+         "message": "สวัสดีครับ โดนัลด์ ทรัมป์ คุณทำพุชอัพได้ไหมครับ?"
+      }
+   ]
+}

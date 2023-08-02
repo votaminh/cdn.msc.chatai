@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "도널드 트럼프",
+   "headerText": "안녕하세요, 저는 도널드 트럼프입니다",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "안녕하세요, 대통령님, 미국을 다시 위대하게 만드는 계획이 무엇인가요?"
+      },
+      {
+         "message": "안녕하세요, 트럼프 님, 조 로건과 팟캐스트를 하시나요?"
+      },
+      {
+         "message": "안녕하세요, 도널드 트럼프, 팔굽혀 펴기 할 수 있나요?"
+      }
+   ]
+}

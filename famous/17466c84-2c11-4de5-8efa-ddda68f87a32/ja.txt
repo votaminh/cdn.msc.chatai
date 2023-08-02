@@ -1,0 +1,18 @@
+{
+   "id": "17466c84-2c11-4de5-8efa-ddda68f87a32",
+   "name": "ドナルド・トランプ",
+   "headerText": "こんにちは、私はドナルド・トランプです",
+   "avatarUrl": "https://assets.adapt.ws/files/20230416_aoxqhszqspzgzayb.png",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230416_ncmcotmybwtwisnt.png",
+   "popularMessages": [
+      {
+         "message": "こんにちは、大統領、アメリカを再び素晴らしくするための計画は何ですか？"
+      },
+      {
+         "message": "こんにちは、トランプさん、ジョー・ローガンとポッドキャストをされる予定ですか？"
+      },
+      {
+         "message": "こんにちは、ドナルド・トランプ、腕立て伏せはできますか？"
+      }
+   ]
+}

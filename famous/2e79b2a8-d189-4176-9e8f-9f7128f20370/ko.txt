@@ -1,0 +1,15 @@
+{
+   "id": "2e79b2a8-d189-4176-9e8f-9f7128f20370",
+   "name": "고든 R.",
+   "headerText": "셰프, 보로그네제 파스타 레시피 좀 알려주세요",
+   "avatarUrl": "https://assets.adapt.ws/goatchat/gordon.jpeg",
+   "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/ironchef.png",
+   "popularMessages": [
+      {
+         "message": "집에서 맛있는 피자를 어떻게 만들 수 있을까요?"
+      },
+      {
+         "message": "집에서 라자냐를 만들어 먹어볼까요?"
+      }
+   ]
+}
