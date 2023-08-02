@@ -1,0 +1,25 @@
+{
+  "id": "40b89d62-2327-4a0f-988f-2c3055ded289",
+  "headerText": "당신의 언어 학습 파트너",
+  "avatarUrl": "https://assets.adapt.ws/files/20230508_mvrjjkcfhpzoczdv.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230507_nvaqongrfbskuyrb.png",
+  "backgroundColor": "#9a858a",
+  "description": "나는 언어 학습자입니다",
+  "nickname": "mizuki_yoshida",
+  "aliveStart": "2023-05-07T20:45:23+06:00",
+  "aliveEnd": "2023-05-07T20:45:23+06:00",
+  "popularMessages": [
+    {
+      "message": "주제를 알려주세요"
+    },
+    {
+      "message": "안녕하세요 미즈키님, 자기 소개 부탁드려요"
+    },
+    {
+      "message": "안녕하세요 미즈키님. 무엇을 잘하시나요?"
+    }
+  ],
+  "usersCount": 7833,
+  "messagesCount": 68880,
+  "likesCount": 496
+}

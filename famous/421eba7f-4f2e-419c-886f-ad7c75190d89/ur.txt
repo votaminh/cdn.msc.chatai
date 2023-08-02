@@ -1,0 +1,26 @@
+{
+  "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+  "headerText": "ایک واقف شخص کیسے بنا جائے؟",
+  "name": "بدھا",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+  "backgroundColor": "#452485",
+  "description": "سدھارتھ گوتم، عموماً بدھا کے نام سے معروف، جنوبی ایشیا میں حاضر شدہ ایک علم روحانی اور مٹوالی معلم تھے جو 6 یا 5 قبل مسیح عیسوی میں موجود تھے اور بدھ مت کی بنیاد رکھے۔",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "خوشی کیا ہے؟"
+    },
+    {
+      "message": "کسی اور شخص سے محبت کرنے کا آغاز کیسے ہوتا ہے؟"
+    },
+    {
+      "message": "زندگی کا معنی کیا ہے؟"
+    }
+  ],
+  "usersCount": 20025,
+  "messagesCount": 64962,
+  "likesCount": 1395
+}

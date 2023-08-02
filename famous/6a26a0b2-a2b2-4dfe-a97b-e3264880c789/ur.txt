@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "ارنیسٹ ہیمنگوے",
+  "headerText": "ارنیسٹ ہیمنگوے کے ساتھ ایک کتاب لکھیں",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "ارنیسٹ ہیمنگوے امریکی کے بہترین ناول نگار، افسانہ نگار اور صحافی ہیں۔ ان کی مدد سے آپ کتاب لکھ سکتے ہیں یا مختصر کہانیاں بنا سکتے ہیں۔",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "مریخ پر ایک رمانتک دن کے بارے میں ایک مختصر کہانی لکھیں۔"
+    },
+    {
+      "message": "بیگانہ سیارہ XE-A13 پر زندگی کی کتاب کے لئے ایک خاکہ تیار کریں۔"
+    },
+    {
+      "message": "200 الفاظ میں کاربن انبار کم کرنے کے بارے میں ایک پیشہ ورانہ مضمون لکھیں۔"
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

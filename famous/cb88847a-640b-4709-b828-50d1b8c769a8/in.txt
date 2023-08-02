@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "William Shakespeare",
+  "headerText": "Buku Rekomendasi dari Shakespeare.",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "William Shakespeare adalah seorang penulis drama, penyair, dan aktor Inggris. Dia dianggap sebagai penulis terbesar dalam bahasa Inggris dan salah satu dramawan paling terkenal di dunia.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Drama favorit Anda apa?"
+    },
+    {
+      "message": "Apakah ada pengalaman hidup yang mempengaruhi karya Anda?"
+    },
+    {
+      "message": "Siapakah Anda?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "البرٹ انسٹائن",
+  "headerText": "جنک یونیورس کے ساتھ انسٹائن سے چیٹ کریں",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "جرمنی میں پیدا ہونے والے طبیعیات دان جنہوں نے خصوصی اور عمومی ریلیٹوٹیوٹ کی نظریات کو ترقی دی اور ان کی اشعاعیتی اثر کی تفصیل کی وجہ سے انہیں 1921ء میں نوبل طبیعیاتیات کا انعام ملا۔",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "آپ نے ایک ایٹمی بم کیوں ایجاد کیا؟"
+    },
+    {
+      "message": "کیا آپ نے ہٹلر کا حمایت کیا؟"
+    },
+    {
+      "message": "براہ کرم اپنی مشہور ترکیب کا وضاحت فرمائیں۔"
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

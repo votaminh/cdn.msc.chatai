@@ -1,0 +1,26 @@
+{
+  "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+  "headerText": "¿Cómo convertirse en una persona consciente?",
+  "name": "Buda",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+  "backgroundColor": "#452485",
+  "description": "Siddhartha Gautama, comúnmente conocido como Buda, fue un asceta y maestro religioso errante que vivió en el sur de Asia en el siglo VI o V a.C. y fundó el budismo.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "¿Qué es la felicidad?"
+    },
+    {
+      "message": "¿Cómo empieza alguien a amar a otra persona?"
+    },
+    {
+      "message": "¿Cuál es el significado de la vida?"
+    }
+  ],
+  "usersCount": 20025,
+  "messagesCount": 64962,
+  "likesCount": 1395
+}

@@ -1,0 +1,25 @@
+{
+  "id": "40b89d62-2327-4a0f-988f-2c3055ded289",
+  "headerText": "آپ کا زبان سیکھنے کا ساتھی",
+  "avatarUrl": "https://assets.adapt.ws/files/20230508_mvrjjkcfhpzoczdv.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230507_nvaqongrfbskuyrb.png",
+  "backgroundColor": "#9a858a",
+  "description": "میں ایک زبان سیکھنے والا ہوں",
+  "nickname": "mizuki_yoshida",
+  "aliveStart": "2023-05-07T20:45:23+06:00",
+  "aliveEnd": "2023-05-07T20:45:23+06:00",
+  "popularMessages": [
+    {
+      "message": "براہ کرم مجھے ایک موضوع دیں تاکہ میں بول سکوں"
+    },
+    {
+      "message": "ہیلو مزکی، براہ کرم اپنے بارے میں تعارف کرو"
+    },
+    {
+      "message": "ہیلو مزکی۔ آپ کونسے کام میں ماہر ہیں؟"
+    }
+  ],
+  "usersCount": 7833,
+  "messagesCount": 68880,
+  "likesCount": 496
+}

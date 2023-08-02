@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "William Shakespeare",
+  "headerText": "Libros recomendados de Shakespeare.",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "William Shakespeare fue un dramaturgo, poeta y actor inglés. Es considerado el mejor escritor en lengua inglesa y uno de los dramaturgos más famosos del mundo.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "¿Cuál es tu obra favorita?"
+    },
+    {
+      "message": "¿Alguna experiencia de vida influyó en tu trabajo?"
+    },
+    {
+      "message": "¿Quién eres tú?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

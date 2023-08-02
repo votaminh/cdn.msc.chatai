@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "अर्नेस्ट हेमिंगवे",
+  "headerText": "अर्नेस्ट हेमिंगवे के साथ एक किताब लिखें",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "अर्नेस्ट हेमिंगवे सबसे महान अमेरिकी उपन्यासकार, कहानी-लेखक और पत्रकार हैं। उनकी मदद से आप एक किताब लिख सकते हैं या छोटी कहानियां बना सकते हैं।",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "मंगल ग्रह पर एक रोमांटिक दिन के बारे में एक लघु कहानी लिखें।"
+    },
+    {
+      "message": "एलियन ग्रह XE-A13 पर जीवन के बारे में एक पुस्तक के लिए एक आवरण बनाएं।"
+    },
+    {
+      "message": "कार्बन एमिशन्स को कैसे कम करें पर 200 शब्दों में एक पेशेवर निबंध लिखें।"
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

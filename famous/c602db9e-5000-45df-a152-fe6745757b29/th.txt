@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "อัลเบิร์ต ไอน์สไตน์",
+  "headerText": "พูดคุยกับไอน์สไตน์เกี่ยวกับจักรวาล",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "นักฟิสิกส์ที่เกิดในเยอรมนี ได้พัฒนาทฤษฎีของสัมมาคมพิเศษและสัมมาคมทั่วไป และได้รับรางวัลโนเบลสาขาฟิสิกส์ในปี พ. ศ. 1964 สำหรับคำอธิบายของเขตกรรมแสง",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "ทำไมคุณประดิษฐ์ระวังนิวเคลียร์"
+    },
+    {
+      "message": "คุณสนับสนุนฮิตเลอร์หรือไม่"
+    },
+    {
+      "message": "โปรดอธิบายสมการที่เป็นที่รู้จักที่สุดของคุณ"
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

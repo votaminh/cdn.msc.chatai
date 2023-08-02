@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "알버트 아인슈타인",
+  "headerText": "우주에 대해 아인슈타인과 채팅하세요",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "독일 출생의 물리학자로, 특수 상대성 이론과 일반 상대성 이론을 발전시키고, 1921년 빛전자 효과에 대한 설명으로 노벨 물리학상을 수상하였습니다.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "왜 원자폭탄을 발명했나요?"
+    },
+    {
+      "message": "히틀러를 지지했나요?"
+    },
+    {
+      "message": "가장 유명한 방정식을 설명해 주세요."
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

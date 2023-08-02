@@ -1,0 +1,26 @@
+{
+  "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+  "headerText": "의식 있는 사람이 되는 방법은 무엇인가요?",
+  "name": "불타",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+  "backgroundColor": "#452485",
+  "description": "싯다르타 고타마는 보통 불타라고 불리며, 남아시아에서 기원전 6세기 또는 5세기에 살았으며, 불교를 설립한 고행하는 종교적인 스승이었습니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "행복이란 무엇인가요?"
+    },
+    {
+      "message": "다른 사람을 사랑하기 시작하는 방법은 무엇인가요?"
+    },
+    {
+      "message": "인생의 의미는 무엇인가요?"
+    }
+  ],
+  "usersCount": 20025,
+  "messagesCount": 64962,
+  "likesCount": 1395
+}

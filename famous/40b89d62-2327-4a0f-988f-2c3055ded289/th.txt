@@ -1,0 +1,25 @@
+{
+  "id": "40b89d62-2327-4a0f-988f-2c3055ded289",
+  "headerText": "พาร์ทเนอร์เรียนภาษาของคุณ",
+  "avatarUrl": "https://assets.adapt.ws/files/20230508_mvrjjkcfhpzoczdv.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230507_nvaqongrfbskuyrb.png",
+  "backgroundColor": "#9a858a",
+  "description": "ฉันเป็นผู้เรียนภาษา",
+  "nickname": "mizuki_yoshida",
+  "aliveStart": "2023-05-07T20:45:23+06:00",
+  "aliveEnd": "2023-05-07T20:45:23+06:00",
+  "popularMessages": [
+    {
+      "message": "กรุณาให้หัวข้อในการพูด"
+    },
+    {
+      "message": "สวัสดี มิซูกิ ยินดีที่ได้รู้จักคุณ"
+    },
+    {
+      "message": "สวัสดี มิซูกิ คุณเก่งอะไรดี"
+    }
+  ],
+  "usersCount": 7833,
+  "messagesCount": 68880,
+  "likesCount": 496
+}

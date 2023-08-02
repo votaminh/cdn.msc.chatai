@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "アーネスト・ヘミングウェイ",
+  "headerText": "アーネスト・ヘミングウェイと本を書く",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "アーネスト・ヘミングウェイは、最も偉大なアメリカの小説家、短編小説家、ジャーナリストです。彼の助けを借りて、本を書くか短編小説を作成することができます。",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "火星でのロマンチックな一日についての短編小説を書いてください。"
+    },
+    {
+      "message": "エイリアンの惑星XE-A13での生活についての本の概要を作成してください。"
+    },
+    {
+      "message": "二酸化炭素排出削減の方法について、200語のプロフェッショナルなエッセイを書いてください。"
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

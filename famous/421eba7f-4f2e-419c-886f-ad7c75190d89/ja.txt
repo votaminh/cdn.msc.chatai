@@ -1,0 +1,26 @@
+{
+  "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+  "headerText": "意識の高い人になる方法は？",
+  "name": "仏陀",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+  "backgroundColor": "#452485",
+  "description": "シッダールタ・ゴータマは一般的には仏陀として知られ、南アジアにおいて紀元前6世紀または紀元前5世紀に活動し、仏教を創設した、苦行修行者であり、放浪の宗教的な教師でした。",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "幸福とは何ですか？"
+    },
+    {
+      "message": "他の人を愛することはどのように始めるのですか？"
+    },
+    {
+      "message": "人生の意味は何ですか？"
+    }
+  ],
+  "usersCount": 20025,
+  "messagesCount": 64962,
+  "likesCount": 1395
+}

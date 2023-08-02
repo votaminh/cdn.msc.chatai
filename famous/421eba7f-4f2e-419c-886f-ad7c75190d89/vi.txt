@@ -1,0 +1,26 @@
+{
+  "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+  "headerText": "Làm thế nào để trở thành một người có ý thức?",
+  "name": "Phật",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+  "backgroundColor": "#452485",
+  "description": "Siddhartha Gautama, thường được gọi là Phật, là một vị thầy tu khổ hạnh và tôn giáo lang thang sống ở Nam Á vào thế kỷ thứ 6 hoặc 5 trước Công nguyên và sáng lập Phật giáo.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Hạnh phúc là gì?"
+    },
+    {
+      "message": "Làm thế nào một người bắt đầu yêu một người khác?"
+    },
+    {
+      "message": "Ý nghĩa của cuộc sống là gì?"
+    }
+  ],
+  "usersCount": 20025,
+  "messagesCount": 64962,
+  "likesCount": 1395
+}

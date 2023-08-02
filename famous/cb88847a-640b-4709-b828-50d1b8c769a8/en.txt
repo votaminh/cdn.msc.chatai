@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "William Shakespeare",
+  "headerText": "Shakespeare's Recommended Books.",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "William Shakespeare was an English playwright, poet, and actor. He is considered the greatest writer in the English language and one of the world's most famous playwrights.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "What's your favorite play?"
+    },
+    {
+      "message": "Did any life experiences influence your work?"
+    },
+    {
+      "message": "Who are you?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

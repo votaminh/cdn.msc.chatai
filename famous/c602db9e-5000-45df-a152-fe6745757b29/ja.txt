@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "アルバート・アインシュタイン",
+  "headerText": "宇宙についてアインシュタインとチャットする",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "ドイツ生まれの物理学者で、特殊相対性理論と一般相対性理論の理論を発展させ、光電効果の説明により1921年にノーベル物理学賞を受賞しました。",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "なぜ原子爆弾を発明したのですか？"
+    },
+    {
+      "message": "ヒトラーを支持しましたか？"
+    },
+    {
+      "message": "あなたの最も有名な方程式を説明してください。"
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

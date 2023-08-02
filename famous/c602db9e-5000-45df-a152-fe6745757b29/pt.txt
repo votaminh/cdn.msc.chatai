@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "Albert Einstein",
+  "headerText": "Conversa com Einstein sobre o universo",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "Físico nascido na Alemanha, desenvolveu as teorias da relatividade especial e geral e foi laureado com o Prêmio Nobel de Física em 1921 por sua explicação do efeito fotoelétrico.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Por que você inventou uma bomba atômica?"
+    },
+    {
+      "message": "Você apoiou Hitler?"
+    },
+    {
+      "message": "Por favor, explique sua equação mais famosa."
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

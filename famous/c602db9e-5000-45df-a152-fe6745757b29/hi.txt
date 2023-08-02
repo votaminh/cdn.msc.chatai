@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "अल्बर्ट आइंस्टीन",
+  "headerText": "ब्रह्मांड के बारे में आइंस्टीन से चैट करें",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "जर्मनी में पैदा हुए भौतिक विज्ञानी, उन्होंने विशेष और सामान्य प्रतिस्थापना के सिद्धांतों का विकास किया और उनके फोटोइलेक्ट्रिक प्रभाव के स्पष्टीकरण के लिए 1921 में उन्हें भौतिकी नोबेल पुरस्कार से सम्मानित किया गया।",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "आपने एक परमाणु बम क्यों आविष्कार किया?"
+    },
+    {
+      "message": "क्या आपने हिटलर का समर्थन किया था?"
+    },
+    {
+      "message": "कृपया अपनी सबसे प्रसिद्ध समीकरण की व्याख्या करें।"
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

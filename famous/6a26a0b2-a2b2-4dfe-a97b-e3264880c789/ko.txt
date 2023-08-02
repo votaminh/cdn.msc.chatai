@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "어니스트 헤밍웨이",
+  "headerText": "어니스트 헤밍웨이와 책 쓰기",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "어니스트 헤밍웨이는 미국 최고의 소설가, 단편 소설가, 그리고 기자입니다. 그의 도움으로 책을 쓰거나 단편 이야기를 만들 수 있습니다.",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "화성에서 로맨틱한 하루에 대한 단편 소설을 써보세요."
+    },
+    {
+      "message": "외계 행성 XE-A13에서의 생활에 대한 책 개요를 만들어보세요."
+    },
+    {
+      "message": "탄소 배출을 어떻게 줄일 수 있는지에 대한 200 단어의 전문적인 에세이를 써보세요."
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

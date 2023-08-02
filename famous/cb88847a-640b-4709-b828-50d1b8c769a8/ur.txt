@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "ولیم شیکسپیئر",
+  "headerText": "شیکسپیئر کی تجویز کتابیں۔",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "ولیم شیکسپیئر انگلینڈ کے ناٹک نگار، شاعر اور اداکار تھے۔ انہیں انگریزی زبان کے بہترین لکھاری قرار دیا جاتا ہے اور دنیا بھر کے مشہور ناٹک نگاروں میں سے ایک ہیں۔",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "آپ کا پسندیدہ ڈرامہ کونسا ہے؟"
+    },
+    {
+      "message": "کیا کوئی زندگی کی تجربہ آپ کے کام کو متاثر کرتا ہے؟"
+    },
+    {
+      "message": "آپ کون ہیں؟"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

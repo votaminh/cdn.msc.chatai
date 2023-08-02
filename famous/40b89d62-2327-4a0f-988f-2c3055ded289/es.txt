@@ -1,0 +1,25 @@
+{
+  "id": "40b89d62-2327-4a0f-988f-2c3055ded289",
+  "headerText": "Tu compañero de aprendizaje de idiomas",
+  "avatarUrl": "https://assets.adapt.ws/files/20230508_mvrjjkcfhpzoczdv.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230507_nvaqongrfbskuyrb.png",
+  "backgroundColor": "#9a858a",
+  "description": "Soy un aprendiz de idiomas",
+  "nickname": "mizuki_yoshida",
+  "aliveStart": "2023-05-07T20:45:23+06:00",
+  "aliveEnd": "2023-05-07T20:45:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Por favor, dame un tema para hablar"
+    },
+    {
+      "message": "Hola Mizuki, preséntate por favor"
+    },
+    {
+      "message": "Hola Mizuki. ¿En qué eres bueno?"
+    }
+  ],
+  "usersCount": 7833,
+  "messagesCount": 68880,
+  "likesCount": 496
+}

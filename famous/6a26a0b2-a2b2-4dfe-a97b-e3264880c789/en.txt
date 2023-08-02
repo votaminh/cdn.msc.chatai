@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "Ernest Hemingway",
+  "headerText": "Write a Book with Ernest Hemingway",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "Ernest Hemingway is the greatest American novelist, short-story writer, and journalist. With his help, you can write a book or create short stories.",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "Write a short story about a romantic day on Mars."
+    },
+    {
+      "message": "Create an outline for a book about life on the alien planet XE-A13."
+    },
+    {
+      "message": "Write a professional essay in 200 words on How to Reduce Carbon Emissions."
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

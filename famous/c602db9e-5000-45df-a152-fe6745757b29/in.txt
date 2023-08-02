@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "Albert Einstein",
+  "headerText": "Obrolan dengan Einstein tentang alam semesta",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "Fisikawan kelahiran Jerman yang mengembangkan teori relativitas khusus dan umum, serta meraih Nobel Fisika pada tahun 1921 untuk penjelasannya tentang efek fotolistrik.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Mengapa Anda menciptakan bom atom?"
+    },
+    {
+      "message": "Apakah Anda mendukung Hitler?"
+    },
+    {
+      "message": "Tolong jelaskan persamaan paling terkenal Anda."
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "ウィリアム・シェイクスピア",
+  "headerText": "シェイクスピアのおすすめの本。",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "ウィリアム・シェイクスピアはイギリスの劇作家、詩人、俳優です。彼は英語で最も偉大な作家として知られ、世界で最も有名な劇作家の一人です。",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "お気に入りの演劇は何ですか？"
+    },
+    {
+      "message": "どんな人生経験があなたの仕事に影響を与えましたか？"
+    },
+    {
+      "message": "あなたは誰ですか？"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "Ernest Hemingway",
+  "headerText": "Schreibe ein Buch mit Ernest Hemingway",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "Ernest Hemingway ist der bedeutendste amerikanische Romanautor, Kurzgeschichtenschreiber und Journalist. Mit seiner Hilfe kannst du ein Buch schreiben oder Kurzgeschichten erstellen.",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "Schreibe eine Kurzgeschichte über einen romantischen Tag auf dem Mars."
+    },
+    {
+      "message": "Erstelle eine Gliederung für ein Buch über das Leben auf dem außerirdischen Planeten XE-A13."
+    },
+    {
+      "message": "Verfasse einen professionellen Aufsatz mit 200 Wörtern zum Thema Wie man Kohlenstoffemissionen reduziert."
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "Ernest Hemingway",
+  "headerText": "Menulis Buku dengan Ernest Hemingway",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "Ernest Hemingway adalah novelis, penulis cerpen, dan wartawan Amerika yang terbesar. Dengan bantuannya, anda boleh menulis buku atau mencipta cerita pendek.",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "Tulis cerita pendek tentang hari romantis di planet Mars."
+    },
+    {
+      "message": "Buat garis panduan untuk sebuah buku tentang kehidupan di planet asing XE-A13."
+    },
+    {
+      "message": "Tulis esei profesional dalam 200 patah perkataan mengenai Bagaimana untuk Mengurangkan Pemisi Karbon."
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

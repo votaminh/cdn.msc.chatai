@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "เออร์เนสต์ เฮมมิงเวย์",
+  "headerText": "เขียนหนังสือกับเออร์เนสต์ เฮมมิงเวย์",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "เออร์เนสต์ เฮมมิงเวย์เป็นนักเขียนนวนิยาย นักเขียนนิทาน และนักข่าวชื่อดังของอเมริกา เขาสามารถช่วยคุณเขียนหนังสือหรือสร้างเรื่องสั้นได้",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "เขียนนิทานสั้นเกี่ยวกับวันโรแมนติกบนดาวอังคาร"
+    },
+    {
+      "message": "สร้างร่างกายของหนังสือเกี่ยวกับชีวิตบนดาว XE-A13 ที่ต่างดาว"
+    },
+    {
+      "message": "เขียนเรียงความมืออาชีพภายใน 200 คำเกี่ยวกับวิธีลดการปล่อยคาร์บอน"
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}

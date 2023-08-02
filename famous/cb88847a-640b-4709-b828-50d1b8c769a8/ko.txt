@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "윌리엄 셰익스피어",
+  "headerText": "셰익스피어의 추천 도서.",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "윌리엄 셰익스피어는 영국의 극작가, 시인 및 배우입니다. 그는 영어로 최고의 작가로 간주되며 세계에서 가장 유명한 극작가 중 한 명입니다.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "가장 좋아하는 연극은 무엇인가요?"
+    },
+    {
+      "message": "어떤 인생 경험이 작품에 영향을 미쳤나요?"
+    },
+    {
+      "message": "당신은 누구인가요?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c602db9e-5000-45df-a152-fe6745757b29",
+  "name": "Albert Einstein",
+  "headerText": "Trò chuyện với Einstein về vũ trụ",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/albert.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/thedopeyone.png",
+  "backgroundColor": "#171714",
+  "description": "Nhà vật lý người Đức, ông đã phát triển các lý thuyết về tương đối đặc biệt và tổng quát và đã được trao Giải Nobel Vật lý năm 1921 vì lý giải hiệu ứng quang điện.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Tại sao ông đã phát minh ra một quả bom nguyên tử?"
+    },
+    {
+      "message": "Ông có ủng hộ Hitler không?"
+    },
+    {
+      "message": "Làm ơn giải thích phương trình nổi tiếng nhất của ông."
+    }
+  ],
+  "usersCount": 80714,
+  "messagesCount": 355037,
+  "likesCount": 4906
+}

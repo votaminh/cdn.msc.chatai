@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "วิลเลียม เชกส์เปียร์",
+  "headerText": "หนังสือแนะนำของชาเกสเปียร์",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "วิลเลียม เชกส์เปียร์เป็นนักเขียนละครชื่อดัง นักกวี และนักแสดงชาวอังกฤษ เขาถูกพิจารณาว่าเป็นนักเขียนที่ยิ่งใหญ่ที่สุดในภาษาอังกฤษและเป็นหนึ่งในนักเขียนละครที่มีชื่อเสียงที่สุดในโลก",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "ละครที่คุณชื่นชอบคืออะไร?"
+    },
+    {
+      "message": "ประสบการณ์ชีวิตใดที่มีผลต่องานของคุณบ้าง?"
+    },
+    {
+      "message": "คุณเป็นใคร?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

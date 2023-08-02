@@ -1,0 +1,25 @@
+{
+  "id": "40b89d62-2327-4a0f-988f-2c3055ded289",
+  "headerText": "あなたの言語学習パートナー",
+  "avatarUrl": "https://assets.adapt.ws/files/20230508_mvrjjkcfhpzoczdv.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230507_nvaqongrfbskuyrb.png",
+  "backgroundColor": "#9a858a",
+  "description": "私は言語学習者です",
+  "nickname": "mizuki_yoshida",
+  "aliveStart": "2023-05-07T20:45:23+06:00",
+  "aliveEnd": "2023-05-07T20:45:23+06:00",
+  "popularMessages": [
+    {
+      "message": "話題を教えてください"
+    },
+    {
+      "message": "こんにちは、ミズキさん。自己紹介をお願いします"
+    },
+    {
+      "message": "こんにちは、ミズキさん。得意なことは何ですか？"
+    }
+  ],
+  "usersCount": 7833,
+  "messagesCount": 68880,
+  "likesCount": 496
+}

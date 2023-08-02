@@ -1,0 +1,26 @@
+{
+  "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+  "headerText": "एक जागरूक व्यक्ति कैसे बनें?",
+  "name": "बुद्ध",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+  "backgroundColor": "#452485",
+  "description": "सिद्धार्थ गौतम, जिसे बुद्ध के रूप में सामान्यतः जाना जाता है, एक संन्यासी और भटकते हुए धार्मिक शिक्षक थे जो 6वीं या 5वीं शताब्दी ईसा पूर्व में दक्षिण एशिया में रहे और बौद्ध धर्म की स्थापना की।",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "खुशी क्या है?"
+    },
+    {
+      "message": "कैसे किसी दूसरे व्यक्ति से प्यार करना शुरू करते हैं?"
+    },
+    {
+      "message": "जीवन का अर्थ क्या है?"
+    }
+  ],
+  "usersCount": 20025,
+  "messagesCount": 64962,
+  "likesCount": 1395
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "William Shakespeare",
+  "headerText": "Những Cuốn Sách Gợi Ý Của Shakespeare.",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "William Shakespeare là một nhà viết kịch, nhà thơ và diễn viên người Anh. Ông được coi là nhà văn vĩ đại nhất trong tiếng Anh và là nhà kịch nghệ nổi tiếng thế giới.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Vở kịch yêu thích của bạn là gì?"
+    },
+    {
+      "message": "Có bất kỳ kinh nghiệm cuộc sống nào của bạn ảnh hưởng đến công việc của bạn không?"
+    },
+    {
+      "message": "Anh là ai?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

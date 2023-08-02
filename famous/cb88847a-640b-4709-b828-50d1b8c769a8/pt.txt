@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "William Shakespeare",
+  "headerText": "Livros Recomendados de Shakespeare.",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "William Shakespeare foi um dramaturgo, poeta e ator inglês. Ele é considerado o maior escritor na língua inglesa e um dos dramaturgos mais famosos do mundo.",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Qual é a sua peça favorita?"
+    },
+    {
+      "message": "Alguma experiência de vida influenciou o seu trabalho?"
+    },
+    {
+      "message": "Quem é você?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

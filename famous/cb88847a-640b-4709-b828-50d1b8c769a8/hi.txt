@@ -1,0 +1,25 @@
+{
+  "id": "cb88847a-640b-4709-b828-50d1b8c769a8",
+  "name": "विलियम शेक्सपियर",
+  "headerText": "शेक्सपियर की सिफारिशी किताबें।",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/shakespear.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bardofavon.png",
+  "backgroundColor": "#079336",
+  "description": "विलियम शेक्सपियर एक अंग्रेजी नाटककार, कवि और अभिनेता थे। उन्हें अंग्रेजी भाषा के सबसे महान लेखक माना जाता है और विश्व के प्रसिद्ध नाटककारों में से एक हैं।",
+  "aliveStart": "2022-12-12T00:31:11+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "आपका पसंदीदा नाटक कौन सा है?"
+    },
+    {
+      "message": "क्या कोई जीवन अनुभव आपके काम को प्रभावित करता है?"
+    },
+    {
+      "message": "आप कौन हैं?"
+    }
+  ],
+  "usersCount": 3857,
+  "messagesCount": 14435,
+  "likesCount": 110
+}

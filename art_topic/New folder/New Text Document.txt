@@ -1,0 +1,81 @@
+ {
+      "id": "f80f6da1-7c16-4d4b-ad9a-08ba1c3a3c36",
+      "createdAt": "2023-05-08T19:01:36+06:00",
+      "updatedAt": "2023-05-08T19:01:36+06:00",
+      "status": "ACTIVE",
+      "type": "DEFAULT",
+      "name": "Emoji AI",
+      "headerText": "Make Your own Emojis",
+      "avatarUrl": "https://assets.vogue.com/photos/58ffca7a5bbbbc0c9df8444a/master/w_2560%2Cc_limit/00-lede-emoji-etiquette.gif",
+      "skyboxImageUrl": null,
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/emoji.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/emoji.png",
+      "backgroundColor": "#121316",
+      "description": "Make your own Emojis :)",
+      "nickname": "emojimaker",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "id": "2eb202e1-83ba-497c-9323-e1a716cbaf86",
+          "createdAt": "2023-05-08T19:02:37+06:00",
+          "updatedAt": "2023-05-08T19:02:37+06:00",
+          "message": "Pikachu",
+          "popularMessageType": "DEFAULT",
+          "metaData": null
+        },
+        {
+          "id": "9c252213-b843-4afd-945a-6b011b66e6b9",
+          "createdAt": "2023-05-08T19:02:37+06:00",
+          "updatedAt": "2023-05-08T19:02:37+06:00",
+          "message": "Iron Man",
+          "popularMessageType": "DEFAULT",
+          "metaData": null
+        },
+        {
+          "id": "0f83e888-de07-4da8-b968-67799161b3ca",
+          "createdAt": "2023-05-08T19:02:37+06:00",
+          "updatedAt": "2023-05-08T19:02:37+06:00",
+          "message": "Snowy Mountain",
+          "popularMessageType": "DEFAULT",
+          "metaData": null
+        }
+      ],
+      "isPremium": false,
+      "priority": 88,
+      "botCharacters": null,
+      "info": "",
+      "botInterests": null,
+      "authorId": null,
+      "botTags": [],
+      "botSocials": null,
+      "botFileSources": null,
+      "botFunctionType": "IMAGE",
+      "isPublic": true,
+      "usersCount": 1857,
+      "messagesCount": 5501,
+      "likesCount": 95,
+      "tutorialInfo": "",
+      "aiQuote": "Make Your own Emojis",
+      "isTopRated": false,
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230801_cczcoohfcgdmcdwv.jpeg",
+          "question": "hazme un dragón azul, con un león color Fuego, un gato verde, y alas blancas"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230801_aissnlgbvfxkpvgh.jpeg",
+          "question": "hazme un dragón azul, con un león color Fuego, un gato, y alas"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230729_pfllsugwuioznhwm.jpeg",
+          "question": "Drachen"
+        }
+      ],
+      "isConfirmed": false,
+      "userIntegrationId": null,
+      "socialAccountLink": "",
+      "socialAccountType": "",
+      "botStoryOption": null,
+      "chats": []
+    }

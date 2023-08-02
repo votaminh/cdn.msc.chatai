@@ -1,0 +1,26 @@
+{
+  "id": "421eba7f-4f2e-419c-886f-ad7c75190d89",
+  "headerText": "Comment devenir une personne consciente ?",
+  "name": "Bouddha",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/bhudda.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/bhudda.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/goatchatai/bhudda.png",
+  "backgroundColor": "#452485",
+  "description": "Siddhartha Gautama, communément appelé Bouddha, était un ascète et enseignant religieux errant qui a vécu en Asie du Sud au 6e ou 5e siècle av. J.-C. et a fondé le bouddhisme.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "Qu'est-ce que le bonheur ?"
+    },
+    {
+      "message": "Comment commence-t-on à aimer une autre personne ?"
+    },
+    {
+      "message": "Quelle est la signification de la vie ?"
+    }
+  ],
+  "usersCount": 20025,
+  "messagesCount": 64962,
+  "likesCount": 1395
+}

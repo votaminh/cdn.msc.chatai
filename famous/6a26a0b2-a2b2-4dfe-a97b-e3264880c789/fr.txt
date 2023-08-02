@@ -1,0 +1,25 @@
+{
+  "id": "6a26a0b2-a2b2-4dfe-a97b-e3264880c789",
+  "name": "Ernest Hemingway",
+  "headerText": "Écrivez un livre avec Ernest Hemingway",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/Ernest_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/Ernest_bg.png",
+  "backgroundColor": "#6E3A1A",
+  "description": "Ernest Hemingway est le plus grand romancier, écrivain de nouvelles et journaliste américain. Avec son aide, vous pouvez écrire un livre ou créer des nouvelles courtes.",
+  "aliveStart": "2023-01-19T19:13:32+06:00",
+  "aliveEnd": "2023-01-19T19:13:32+06:00",
+  "popularMessages": [
+    {
+      "message": "Écrivez une nouvelle courte sur une journée romantique sur Mars."
+    },
+    {
+      "message": "Créez un plan pour un livre sur la vie sur la planète extraterrestre XE-A13."
+    },
+    {
+      "message": "Rédigez un essai professionnel de 200 mots sur Comment réduire les émissions de carbone."
+    }
+  ],
+  "usersCount": 11132,
+  "messagesCount": 40934,
+  "likesCount": 977
+}
