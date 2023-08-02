@@ -1,0 +1,114 @@
+{
+  "id": "e8b85661-1c64-408a-abe3-ce9d6be3c5e1",
+  "createdAt": "2023-01-19T18:30:09+06:00",
+  "updatedAt": "2023-04-13T18:01:04+06:00",
+  "status": "ACTIVE",
+  "type": "DEFAULT",
+  "name": "John Rupert Firth",
+  "headerText": "English Grammar checker from the greatest UK linguist",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/John%20Rupert%20Firth_ava.png",
+  "skyboxImageUrl": null,
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/John%20Rupert%20Firth_bg.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/John%20Rupert%20Firth_bg.png",
+  "backgroundColor": "#11A34E",
+  "description": "John Rupert Firth was the greatest English linguist. He can correct your grammar and teach you English lessons",
+  "nickname": "rupert_grammar",
+  "aliveStart": "2023-01-19T18:28:57+06:00",
+  "aliveEnd": "2023-01-19T18:28:57+06:00",
+  "popularMessages": [
+    {
+      "id": "f200ec27-471a-4e23-8f26-40d764766c2c",
+      "createdAt": "2023-01-19T18:31:56+06:00",
+      "updatedAt": "2023-01-19T18:31:56+06:00",
+      "message": "How to pronounce the word \"structure\"?",
+      "popularMessageType": "DEFAULT",
+      "metaData": null
+    },
+    {
+      "id": "70e75bbf-592b-4544-94a4-c115dad51307",
+      "createdAt": "2023-01-19T18:31:56+06:00",
+      "updatedAt": "2023-01-19T18:31:56+06:00",
+      "message": "Write a structured guideline on how to improve English grammar",
+      "popularMessageType": "DEFAULT",
+      "metaData": null
+    },
+    {
+      "id": "001e6e5c-9cc4-4ef6-92cf-ba56493fc331",
+      "createdAt": "2023-01-19T18:31:56+06:00",
+      "updatedAt": "2023-01-19T18:31:56+06:00",
+      "message": "Correct this sentence to standard English:",
+      "popularMessageType": "DEFAULT",
+      "metaData": null
+    }
+  ],
+  "isPremium": false,
+  "priority": 60,
+  "botCharacters": null,
+  "info": "",
+  "botInterests": null,
+  "authorId": null,
+  "botTags": [
+    {
+      "id": "9853f7ad-2c1f-4943-a1ac-fe61f389e68d",
+      "createdAt": "2023-01-19T18:34:34+06:00",
+      "updatedAt": "2023-01-19T18:34:34+06:00",
+      "tag": {
+        "id": "c0f02683-d83d-4bbf-940c-49cabb92f686",
+        "createdAt": "2023-01-19T18:33:06+06:00",
+        "updatedAt": "2023-01-19T18:33:06+06:00",
+        "title": "grammar",
+        "messagesCount": 528,
+        "isBlacklisted": false
+      },
+      "tagId": "c0f02683-d83d-4bbf-940c-49cabb92f686",
+      "botId": "e8b85661-1c64-408a-abe3-ce9d6be3c5e1"
+    },
+    {
+      "id": "6f8c7823-f249-457b-ba8e-ba1fd57e8e0b",
+      "createdAt": "2023-01-19T18:34:34+06:00",
+      "updatedAt": "2023-01-19T18:34:34+06:00",
+      "tag": {
+        "id": "ba0ac167-2a86-4923-8b0c-bfe0132d546a",
+        "createdAt": "2023-01-19T18:33:06+06:00",
+        "updatedAt": "2023-01-19T18:33:06+06:00",
+        "title": "english",
+        "messagesCount": 48797,
+        "isBlacklisted": false
+      },
+      "tagId": "ba0ac167-2a86-4923-8b0c-bfe0132d546a",
+      "botId": "e8b85661-1c64-408a-abe3-ce9d6be3c5e1"
+    },
+    {
+      "id": "85ea5d72-992a-4106-bc22-84b6dc1f91db",
+      "createdAt": "2023-01-19T18:34:34+06:00",
+      "updatedAt": "2023-01-19T18:34:34+06:00",
+      "tag": {
+        "id": "55801474-8e7a-4d01-aa67-3b1930dd950b",
+        "createdAt": "2023-01-19T18:33:06+06:00",
+        "updatedAt": "2023-01-19T18:33:06+06:00",
+        "title": "checker",
+        "messagesCount": 77,
+        "isBlacklisted": false
+      },
+      "tagId": "55801474-8e7a-4d01-aa67-3b1930dd950b",
+      "botId": "e8b85661-1c64-408a-abe3-ce9d6be3c5e1"
+    }
+  ],
+  "botSocials": null,
+  "botFileSources": null,
+  "botFunctionType": "TEXT",
+  "isPublic": true,
+  "usersCount": 6051,
+  "messagesCount": 19497,
+  "likesCount": 281,
+  "tutorialInfo": "",
+  "aiQuote": "English Grammar checker from the greatest UK linguist",
+  "isTopRated": false,
+  "feedImages": null,
+  "isConfirmed": false,
+  "userIntegrationId": null,
+  "socialAccountLink": "",
+  "socialAccountType": "",
+  "botStoryOption": null,
+  "chats": []
+}

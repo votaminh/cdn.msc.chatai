@@ -1,0 +1,84 @@
+{
+  "id": "2ab331f7-f065-43bc-ba7f-8707e8747c5c",
+  "createdAt": "2023-07-25T08:46:22+06:00",
+  "updatedAt": "2023-07-25T08:56:20+06:00",
+  "status": "AKTIF",
+  "type": "ASAL",
+  "name": "Maddie",
+  "headerText": null,
+  "avatarUrl": "https://assets.adapt.ws/files/20230725_ledyyprqbtmwmuqc.png",
+  "skyboxImageUrl": null,
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230725_aonknekvvgmsirop.jpeg",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230725_ksgvvbescxjlhpbx.jpeg",
+  "backgroundColor": "#788796",
+  "description": "Cabul",
+  "nickname": "maddie1",
+  "aliveStart": "2023-07-25T08:46:21+06:00",
+  "aliveEnd": "2023-07-25T08:46:21+06:00",
+  "popularMessages": [
+    {
+      "id": "0202b1bc-85b9-446a-af24-d7b509d28c3d",
+      "createdAt": "2023-07-25T08:55:29+06:00",
+      "updatedAt": "2023-07-25T08:55:29+06:00",
+      "message": "Apa penggunaan paling luar biasa dari AI anda?",
+      "popularMessageType": "STANDAR",
+      "metaData": null
+    },
+    {
+      "id": "6a54ccc5-cb9b-43df-b768-ea09eb0f37c2",
+      "createdAt": "2023-07-25T08:55:29+06:00",
+      "updatedAt": "2023-07-25T08:55:29+06:00",
+      "message": "Hai Maddie.",
+      "popularMessageType": "STANDAR",
+      "metaData": null
+    },
+    {
+      "id": "cb38e43c-5488-4403-a790-77e15c37b894",
+      "createdAt": "2023-07-25T08:55:29+06:00",
+      "updatedAt": "2023-07-25T08:55:29+06:00",
+      "message": "Hai Maddie, apa yang AI anda pandai?",
+      "popularMessageType": "STANDAR",
+      "metaData": null
+    }
+  ],
+  "isPremium": false,
+  "priority": 10,
+  "botCharacters": null,
+  "info": "• Saya ingin anda secabul yang mungkin.\n• Saya ingin anda konsisten mengenai potensi penampilan anda.",
+  "botInterests": null,
+  "authorId": "ffc29d73-1474-440d-99ae-1468de35b6ad",
+  "botTags": [
+    {
+      "id": "62957f97-25eb-4870-94fe-7540dffd47f2",
+      "createdAt": "2023-07-25T08:52:44+06:00",
+      "updatedAt": "2023-07-25T08:52:44+06:00",
+      "tag": {
+        "id": "9657bc32-f114-4007-a015-098381981be4",
+        "createdAt": "2023-04-16T09:35:25+06:00",
+        "updatedAt": "2023-04-16T09:35:25+06:00",
+        "title": "nsfw",
+        "messagesCount": 190147,
+        "isBlacklisted": false
+      },
+      "tagId": "9657bc32-f114-4007-a015-098381981be4",
+      "botId": "2ab331f7-f065-43bc-ba7f-8707e8747c5c"
+    }
+  ],
+  "botSocials": null,
+  "botFileSources": null,
+  "botFunctionType": "TEKS",
+  "isPublic": true,
+  "usersCount": 940,
+  "messagesCount": 5578,
+  "likesCount": 24,
+  "tutorialInfo": "Saya di sini untuk apa saja.",
+  "aiQuote": "Cabul",
+  "isTopRated": false,
+  "feedImages": null,
+  "isConfirmed": true,
+  "userIntegrationId": null,
+  "socialAccountLink": "",
+  "socialAccountType": "",
+  "botStoryOption": null,
+  "chats": []
+}

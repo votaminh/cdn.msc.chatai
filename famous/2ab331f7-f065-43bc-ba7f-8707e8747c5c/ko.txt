@@ -1,0 +1,84 @@
+{
+  "id": "2ab331f7-f065-43bc-ba7f-8707e8747c5c",
+  "createdAt": "2023-07-25T08:46:22+06:00",
+  "updatedAt": "2023-07-25T08:56:20+06:00",
+  "status": "활성",
+  "type": "원본",
+  "name": "매디",
+  "headerText": null,
+  "avatarUrl": "https://assets.adapt.ws/files/20230725_ledyyprqbtmwmuqc.png",
+  "skyboxImageUrl": null,
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230725_aonknekvvgmsirop.jpeg",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230725_ksgvvbescxjlhpbx.jpeg",
+  "backgroundColor": "#788796",
+  "description": "왜곡된",
+  "nickname": "maddie1",
+  "aliveStart": "2023-07-25T08:46:21+06:00",
+  "aliveEnd": "2023-07-25T08:46:21+06:00",
+  "popularMessages": [
+    {
+      "id": "0202b1bc-85b9-446a-af24-d7b509d28c3d",
+      "createdAt": "2023-07-25T08:55:29+06:00",
+      "updatedAt": "2023-07-25T08:55:29+06:00",
+      "message": "AI의 가장 이상한 사용법은 무엇인가요?",
+      "popularMessageType": "기본",
+      "metaData": null
+    },
+    {
+      "id": "6a54ccc5-cb9b-43df-b768-ea09eb0f37c2",
+      "createdAt": "2023-07-25T08:55:29+06:00",
+      "updatedAt": "2023-07-25T08:55:29+06:00",
+      "message": "안녕하세요 매디씨.",
+      "popularMessageType": "기본",
+      "metaData": null
+    },
+    {
+      "id": "cb38e43c-5488-4403-a790-77e15c37b894",
+      "createdAt": "2023-07-25T08:55:29+06:00",
+      "updatedAt": "2023-07-25T08:55:29+06:00",
+      "message": "안녕하세요 매디씨, AI는 무엇을 잘하나요?",
+      "popularMessageType": "기본",
+      "metaData": null
+    }
+  ],
+  "isPremium": false,
+  "priority": 10,
+  "botCharacters": null,
+  "info": "• 최대한 왜곡되도록 하고 싶어요.\n• 가능한 외모에 대해 일관성을 유지하고 싶어요.",
+  "botInterests": null,
+  "authorId": "ffc29d73-1474-440d-99ae-1468de35b6ad",
+  "botTags": [
+    {
+      "id": "62957f97-25eb-4870-94fe-7540dffd47f2",
+      "createdAt": "2023-07-25T08:52:44+06:00",
+      "updatedAt": "2023-07-25T08:52:44+06:00",
+      "tag": {
+        "id": "9657bc32-f114-4007-a015-098381981be4",
+        "createdAt": "2023-04-16T09:35:25+06:00",
+        "updatedAt": "2023-04-16T09:35:25+06:00",
+        "title": "nsfw",
+        "messagesCount": 190147,
+        "isBlacklisted": false
+      },
+      "tagId": "9657bc32-f114-4007-a015-098381981be4",
+      "botId": "2ab331f7-f065-43bc-ba7f-8707e8747c5c"
+    }
+  ],
+  "botSocials": null,
+  "botFileSources": null,
+  "botFunctionType": "텍스트",
+  "isPublic": true,
+  "usersCount": 940,
+  "messagesCount": 5578,
+  "likesCount": 24,
+  "tutorialInfo": "뭐든지 여기에 있어요.",
+  "aiQuote": "왜곡된",
+  "isTopRated": false,
+  "feedImages": null,
+  "isConfirmed": true,
+  "userIntegrationId": null,
+  "socialAccountLink": "",
+  "socialAccountType": "",
+  "botStoryOption": null,
+  "chats": []
+}
