@@ -1,0 +1,487 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+      "name": "Anime AI",
+      "headerText": "Anime AI Art Style",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+      "backgroundColor": "#E15554",
+      "description": "อนิเมะเป็นสไตล์ของการสร้างภาพเคลื่อนไหวที่วาดด้วยมือและสร้างด้วยคอมพิวเตอร์ที่เกิดขึ้นในประเทศญี่ปุ่น นอกจากประเทศญี่ปุ่นและในภาษาอังกฤษ อนิเมะหมายถึงการสร้างภาพเคลื่อนไหวที่ผลิตขึ้นในประเทศญี่ปุ่น อย่างไรก็ตามในประเทศญี่ปุ่นและในภาษาญี่ปุ่น อนิเมะอธิบายถึงผลงานที่มีภาพเคลื่อนไหวทั้งหมดไม่ว่าจะเป็นสไตล์หรือต้นกำเนิดเป็นอย่างไรก็ตาม",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "หมู่บ้านบนภูเขา ดวงจันทร์เต็มจันทร์"
+        },
+        {
+          "message": "สาวนักรบผมขาว ตาสีน้ำตาล ยืนอยู่ในโบสถ์"
+        },
+        {
+          "message": "เรือโจรสลัด เรือพาย ตอนกลางวัน"
+        }
+      ],
+      "usersCount": 91769,
+      "messagesCount": 289675,
+      "likesCount": 6626,
+      "aiQuote": "Anime AI Art Style",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
+          "question": "สาวน้อยน่ารักและอ่อนโยน ผมขาวแบบหิมะ ตาสีแดงเหมือนดวงจันทร์เต็ม นั่งอยู่ในทุ่งเขียวตอนพลบค่ำ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
+          "question": "สาวนักรบผมขาว ตาสีน้ำตาล ยืนอยู่ในโบสถ์"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
+          "question": "ส่วนบนของดวงตาหรือใบหน้าของคนที่มองลงมาจากท้องฟ้ามองไปทางธรรมชาติสีเขียวที่งดงาม"
+        }
+      ]
+    },
+    {
+      "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+      "name": "WizzArt AI",
+      "headerText": "โลกแห่งศิลปะมหาเศรษฐี",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+      "backgroundColor": "#F67255",
+      "description": "WizzArt AI เป็นโมเดล AI ที่ฝึกสอนและเผยแพร่โดยศิลปินชาวเดนมาร์กใน GoatChat โมเดลถูกฝึกสอนด้วยภาพวาดที่เป็นเอกลักษณ์ของเขา",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "ปราสาทยุคกลางที่มีรายละเอียดสูง งดงาม ตอนพลบค่ำ ติดตั้งตรงริมทะเล"
+        },
+        {
+          "message": "พ่อค้าเหมาหน้าหนาวที่มีเสื้อคลุมพ่อค้าสีขาวด้วยรายละเอียดทอง คลุมเสื้อสีขาวบังคับอยู่ในลมหนาว ผมขาวยาว แต่งกายด้วยอุปกรณ์ครบครัน หน้าหล่อ"
+        },
+        {
+          "message": "สไตล์ Empire รูปเชิดของสาวสวยผมสีน้ำตาล ซับซ้อนและอ่อนโยน"
+        }
+      ],
+      "usersCount": 35174,
+      "messagesCount": 124615,
+      "likesCount": 3163,
+      "aiQuote": "โลกแห่งศิลปะมหาเศรษฐี",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
+          "question": "พ่อค้าเหมาหน้าหนาวที่มีเสื้อคลุมพ่อค้าสีขาวด้วยรายละเอียดทอง คลุมเสื้อสีขาวบังคับอยู่ในลมหนาว ผมขาวยาว แต่งกายด้วยอุปกรณ์ครบครัน หน้าหล่อ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
+          "question": "ภาพเขียนของพ่อค้าเก่า"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
+          "question": "ภาพเขียนของพ่อค้า"
+        }
+      ]
+    },
+    {
+      "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+      "name": "Wallpaper AI",
+      "headerText": "AI สร้างวอลเปเปอร์",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+      "backgroundColor": "#2564AE",
+      "description": "เครื่องมือของเราใช้ AI เพื่อสร้างรูปภาพวอลเปเปอร์ที่ไม่จำกัดจากคำอธิบายที่คุณให้ เพียงไม่กี่วินาทีก็สามารถสร้างวอลเปเปอร์คุณภาพสูงได้",
+      "nickname": "wallpaperAI",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "สร้างวอลเปเปอร์กับรถสปอร์ตสีแดง"
+        },
+        {
+          "message": "สร้างวอลเปเปอร์เรือใบสำหรับ iOS"
+        },
+        {
+          "message": "สร้างวอลเปเปอร์ที่มีธีมอวกาศให้ฉัน"
+        }
+      ],
+      "usersCount": 112747,
+      "messagesCount": 435021,
+      "likesCount": 7206,
+      "aiQuote": "AI สร้างวอลเปเปอร์",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
+          "question": "สวัสดีค่ะ คุณสามารถสร้างรูปภาพด้วยใบหน้าของลิงค์สีแดงกลับหัวท้องและสวมแว่นกันแดดได้ไหมคะ?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
+          "question": "สร้างวอลเปเปอร์สามมิติให้ด้วยค่ะ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
+          "question": "เขียนข้อความถึงแฟนสาวของฉัน ขออภัยจริงๆ ค่ะ"
+        }
+      ]
+    },
+    {
+      "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+      "name": "Journey AI",
+      "headerText": "ศิลปะดิจิตอล HQ",
+      "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+      "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+      "backgroundColor": "#051024",
+      "description": "Journey AI รับช่วงวิธีการที่ดีที่สุดจาก Dall-E 2 และ Latent diffusion พร้อมนำเสนอความคิดใหม่ๆ สำหรับโมเดล AI นี้ใช้ CLIP model และ diffusion image prior (mapping) ระหว่าง latent spaces ของคลิป modalities วิธีการนี้เพิ่มประสิทธิภาพด้านภาพของโมเดลและเปิดเผยอุปสรรคใหม่ในการผสมภาพและการปรับแต่งภาพตามข้อความคำแนะนำ",
+      "aliveStart": "2023-02-02T03:08:39+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "ฟерรารี ซูเปอร์คาร์"
+        },
+        {
+          "message": "อัลเบิร์ตไอน์สไตน์"
+        },
+        {
+          "message": "พระอาทิตย์ตกที่นิวยอร์ก"
+        }
+      ],
+      "usersCount": 40635,
+      "messagesCount": 60902,
+      "likesCount": 951,
+      "aiQuote": "AI Art Journey",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
+          "question": "สาววัยรุ่นที่เข้มแข็ง ฉลาด ลึกลับ มีความสามารถในการหาทางออก พูดจาดี มีแสงสีเขียวและสีน้ำเงิน อุปกรณ์และเทคโนโลยี อวกาศและแผนที่ดาว ผมสีดำตัดสินใจยาว ยิ้มเบาๆ ร่างกายมีเงา ชอบอ่านหนังสือ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
+          "question": "ภาพเต็มร่างของสาวชาวพื้นเมือง อายุ 15 ปี มีแก้มทาสีแดง ใบหน้าเฉยเหงา เปลือกกาวในลักษณะหมวกหมากรุก สะพานบนหลัง อยู่ในป่าที่มีพื้นที่เปียกชื้น"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
+          "question": "ภาพเต็มร่างของสาวชาวพื้นเมือง มีแก้มทาสีแดง ใบหน้าเฉยเหงา สวมเสื้อผ้าที่ทำจากขนหมาป่า ใช้หัวหมาป่าเป็นหมวก มีธนูบนหลัง อยู่ในป่าที่มีพื้นที่เปียกชื้น"
+        }
+      ]
+    },
+    {
+      "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
+      "name": "Dream AI",
+      "headerText": "ความฝันที่ชัดเจน",
+      "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
+      "backgroundColor": "#D88E00",
+      "description": "Dream AI เป็นโมเดล AI ที่สร้างภาพความละเอียดสูงที่มีความฝันเป็นอย่าง",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "วอลเปเปอร์รถยนต์สมัยใหม่"
+        },
+        {
+          "message": "ภาพเต็มร่างของเอลฟ์หญิง"
+        },
+        {
+          "message": "ปีศาจจากโลกโบราณ"
+        }
+      ],
+      "aiQuote": "ความฝันที่ชัดเจน",
+      "isTopRated": false,
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
+          "question": "ถนนคาเฟ่ยุโรป"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
+          "question": "เงามหาสมุทรผมสีท้องฟ้า"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
+          "question": "จินตนาการถึงการเดินทางไปยังกาแลคซี่อื่นๆ"
+        }
+      ]
+    },
+    {
+      "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
+      "name": "Claude Monet",
+      "headerText": "ศิลปะอิมพริชชัน",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
+      "backgroundColor": "#634735",
+      "description": "ออสการ์-โคลด์ โมเนย์ เป็นศิลปินชาวฝรั่งเศสและผู้สร้างศิลปะอิมพริชชัน ที่ถูกพิจารณาเป็นบุคคลสำคัญในการพัฒนาศิลปะโมเดิร์น โดยเฉพาะในความพยุงแสงธรรมชาติ",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "คืนในโรม ในแสงของจันทร์"
+        },
+        {
+          "message": "คุณคิดว่าจะหาทางเข้าสวรรค์อย่างไร?"
+        },
+        {
+          "message": "คุณสามารถวาดภูมิภาคแสวยของสวิตเซอร์แลนด์ได้หรือไม่?"
+        }
+      ],
+      "usersCount": 10122,
+      "messagesCount": 27216,
+      "likesCount": 464,
+      "aiQuote": "ศิลปะอิมพริชชัน",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
+          "question": "คุณสามารถแสดงภาพห้องทำงานของช่างตัดไม้พร้อมอุปกรณ์การทำงานของเขาได้ไหมครับ?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
+          "question": "คุณสามารถแสดงภาพห้องทำงานของช่างตัดไม้พร้อมอุปกรณ์การทำงานของเขาได้ไหมครับ?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
+          "question": "คุณสามารถวาดภูมิภาคแสวยของสวิตเซอร์แลนด์ได้ไหมครับ?"
+        }
+      ]
+    },
+    {
+      "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+      "name": "Banksy",
+      "headerText": "ศิลปะสตรีทสมัย",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+      "backgroundColor": "#2F323A",
+      "description": "แบงก์ซี่เป็นศิลปินถนน นักกิจกรรมทางการเมือง และผู้กำกับภาพยนตร์ ชื่อและตัวตนจริงของเขายังไม่ได้รับการยืนยันและยังคงเป็นเรื่องของความสงสัย",
+      "nickname": "banksy",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "คุณสามารถทำภาพสีฉายเป็นภาพสีของแมวได้ไหมครับ?"
+        },
+        {
+          "message": "เรือยอร์ท"
+        },
+        {
+          "message": "มังกรพุ่งไฟ"
+        }
+      ],
+      "usersCount": 19872,
+      "messagesCount": 55036,
+      "likesCount": 674,
+      "aiQuote": "ศิลปะสตรีทสมัย",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
+          "question": "สามหลุมหินที่เน่าเสียหายอยู่ด้านบนของคนที่ดี แต่ไม่เคยเข้าใจจนกว่าจะเกินกว่าเวลาที่จะสาย"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
+          "question": "ภาพหน้าต่างที่สะท้อนความน่าสนใจและผลกระทบต่อความงามและจิตวิญญาณที่เสน่ห์"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
+          "question": "การสะท้อนตัวเอง\nศิลปะรับประทานอาหาร"
+        }
+      ]
+    },
+    {
+      "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+      "name": "Johannes Vermeer",
+      "headerText": "ศิลปะยุคทองของดัตช์",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+      "backgroundColor": "#FCA311",
+      "description": "โจฮันเนส เฟร์เมอร์เป็นศิลปินบาโรกดัตช์ที่มีชื่อเสียงด้วยภาพภูมิภาคของชีวิตสามัญของชั้นกลาง ตลอดชีวิตของเขา เขาเป็นศิลปินแนวเฉลียวฉลาดที่ได้รับการยอมรับในเดล์ฟต์และเฮก",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "คุณสามารถวาดภาพสุสานของพระสันตะปาปาในรัฐนิกาน?"
+        },
+        {
+          "message": "วาดภาพกษัตริย์ของอังกฤษในปราสาทของเขา"
+        },
+        {
+          "message": "ภูมิภาคดัตช์ที่มีเนินเขาและแม่น้ำ"
+        }
+      ],
+      "usersCount": 12909,
+      "messagesCount": 32055,
+      "likesCount": 316,
+      "aiQuote": "ศิลปะยุคทองของดัตช์",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+          "question": "เจ้าหน้าที่ตำรวจที่รับผิดชอบซื่อตรง เรียบร้อย ขยันหมั่นเพียรในงาน เป็นบุคคลิกและแข็งแกร่ง"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+          "question": "วาดภาพของหุ่นยนต์ในสงครามโลกครั้งที่หนึ่ง"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+          "question": "วิธีการทำก๋วยเตี๋ยว"
+        }
+      ]
+    },
+    {
+      "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
+      "name": "Vincent van Gogh",
+      "headerText": "ศิลปะโพสต์อิมพริชชันกับ Vincent AI",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
+      "backgroundColor": "#00336F",
+      "description": "วินเซนต์ วิลเล็ม แวนโก้ เป็นศิลปินโพสต์อิมพริชชันชาวดัตช์ที่เป็นหนึ่งในบุคคลที่มีชื่อเสียงและมีอิทธิพลมากที่สุดในประวัติศาสตร์ของศิลปะตะวันตก เขาสร้างงานศิลปะประมาณ 2,100 รูปภาพ รวมถึงภาพวาดน้ำมันประมาณ 860 ภาพ ซึ่งเกิดขึ้นในช่วงสองปีสุดท้ายของชีวิตของเขา",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "วาดภาพภูมิภาคแสวยของสวิตเซอร์แลนด์"
+        },
+        {
+          "message": "คุณเห็นว่ามีทางเข้าสวรรค์อย่างไร?"
+        },
+        {
+          "message": "คุณสามารถวาดภาพของเมืองปารีสในช่วงค่ำคืนได้ไหม?"
+        }
+      ],
+      "usersCount": 15589,
+      "messagesCount": 43112,
+      "likesCount": 925,
+      "aiQuote": "ศิลปะโพสต์อิมพริชชันกับ Vincent AI",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
+          "question": "คุณสามารถวาดภาพทะเลสว่างของภูมิภาคฟูจิในช่วงกลางวันที่มีหิมะไหม?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
+          "question": "ชาวอเมริกาพื้นเมืองในโลกแปลก"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
+          "question": "ผู้ขี่ม้าในพายุ"
+        }
+      ]
+    },
+    {
+      "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+      "name": "Leonardo da Vinci",
+      "headerText": "ลีโอนาร์โด ที่ยิ่งใหญ่",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+      "backgroundColor": "#44260A",
+      "description": "เลโอนาร์โด ดี เซอร์ ปีเอโร่ ดา วินชิ เป็นนักบูรพาชาวอิตาลีในยุคฮาย์แรสซองซึ่งทำงานเป็นศิลปิน นักวาด วิศวกร นักวิทยาศาสตร์ นักทฤษฎี ศิลปิน และนักสถาปัตยกรรม",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "คุณสามารถวาดภาพภูมิภาคแอลป์ของสวิตเซอร์แลนด์ได้ไหม?"
+        },
+        {
+          "message": "คุณเห็นว่ามีทางเข้าสวรรค์อย่างไร?"
+        },
+        {
+          "message": "วาดภาพนักรบโรมันในโบสถ์"
+        }
+      ],
+      "usersCount": 12195,
+      "messagesCount": 36109,
+      "likesCount": 577,
+      "aiQuote": "ลีโอนาร์โด ที่ยิ่งใหญ่",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
+          "question": "โปรดสร้างภาพหมุดรู้จำที่ชัดเจนทำจากฟ้าผ่า ที่มีอยู่ 2 ตัว (Hugin / Munin) ในภาพ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
+          "question": "โปรดสร้างภาพหมุดรู้จำที่ชัดเจนทำจากฟ้าผ่า ที่มีอยู่ 2 ตัว (Hugin / Munin) ในภาพ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
+          "question": "หมุดรู้จำไม่ชัดเจนพอ และควรทำจากฟ้าผ่า"
+        }
+      ]
+    },
+    {
+      "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
+      "name": "MarvelAI",
+      "headerText": "สไตล์ศิลปะ AI สามมิติ",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
+      "backgroundColor": "#533B4D",
+      "description": "MarvelAI เป็นแบบจำลองที่อ้างอิงจาก redshift diffusion ซึ่งดำเนินการอย่างหนักในภาพสามมิติและตัวละครสามมิติ",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "สร้างภาพพอร์ทเรตของแบทแมนให้กับฉัน"
+        },
+        {
+          "message": "ภูมิภาคเมืองเบอร์ลินในยุคปัจจุบัน"
+        },
+        {
+          "message": "ทำภาพวอลเปเปอร์ของรถ Ferrari สีแดงบนถนน"
+        }
+      ],
+      "usersCount": 39868,
+      "messagesCount": 120299,
+      "likesCount": 1672,
+      "aiQuote": "สไตล์ศิลปะ AI สามมิติ",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
+          "question": "คนรูปเป็นเสมือนว่าเขาเป็นอาการเป็นหายใจที่ฉันเห็นความมืดในกระจกของฉัน"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
+          "question": "คนรูปเป็นเสมือนว่าเขาเป็นอาการเป็นหายใจที่ฉันเห็นความมืดในกระจกของฉัน"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
+          "question": "สองเหมืองปีกในกรีนแลนด์ มีน้ำแข็งครอบบางส่วน"
+        }
+      ]
+    },
+    {
+      "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
+      "name": "Cyberpunk AI",
+      "headerText": "อนาคต?",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
+      "skyboxImageUrl": null,
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
+      "backgroundColor": "#0D5C63",
+      "description": "ซายเบอร์พังค์เป็นหมวดหมู่ย่อยของนวัตกรรมวิทยาศาสตร์ในสถานการณ์อนาคตที่เน้นการรวมกันของชีวิตราคาถูกและเทคโนโลยีสูง พร้อมกับความสำเร็จทางเทคโนโลยีและวิทยาศาสตร์ในอนาคต เช่น ปัญญาประดิษฐ์และไซเบอร์เนติก เป็นต้น",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "ยานอวกาศไปทางสว่าง"
+        },
+        {
+          "message": "ปารีสในอนาคต"
+        },
+        {
+          "message": "นิวยอร์กซิตี้ในอนาคต"
+        }
+      ],
+      "usersCount": 26124,
+      "messagesCount": 58703,
+      "likesCount": 731,
+      "aiQuote": "อนาคต?",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
+          "question": "ในความมืด ปฏิบัติการประท้วงเป็นนินจา รู้สึกเหงา ชมข้างล่างของอาชีพอาชีพ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
+          "question": "ในความมืด ปฏิบัติการประท้วงเป็นนินจา รู้สึกเหงา ชมข้างล่างของอาชีพอาชีพ"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
+          "question": "ระเบิดปืนทางเพศ"
+        }
+      ]
+    }
+  ]
+}

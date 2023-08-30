@@ -1,0 +1,487 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+      "name": "Anime AI",
+      "headerText": "Anime AI Art Style",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+      "backgroundColor": "#E15554",
+      "description": "Anime adalah gaya animasi yang digambar tangan dan dihasilkan dengan komputer yang berasal dari Jepun. Di luar Jepun dan dalam Bahasa Inggeris, anime merujuk khas kepada animasi yang dihasilkan di Jepun. Walau bagaimanapun, di Jepun dan dalam Bahasa Jepun, anime merujuk kepada semua karya animasi, tanpa mengira gaya atau asal usul.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Desa di atas gunung, bulan purnama"
+        },
+        {
+          "message": "Gadis pejuang, rambut putih, mata coklat, berdiri di dalam gereja"
+        },
+        {
+          "message": "Kapal lanun, kapal layar, pada waktu siang"
+        }
+      ],
+      "usersCount": 91769,
+      "messagesCount": 289675,
+      "likesCount": 6626,
+      "aiQuote": "Anime AI Art Style",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
+          "question": "Gadis yang comel dan lembut, rambut putih seperti salju, mata merah seperti Bulan Darah, duduk di padang hijau semasa matahari terbenam"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
+          "question": "Gadis pejuang, rambut putih, mata coklat, berdiri di dalam gereja"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
+          "question": "Mata atau wajah seseorang yang memandang dari atas langit ke arah keindahan alam hijau"
+        }
+      ]
+    },
+    {
+      "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+      "name": "WizzArt AI",
+      "headerText": "The World of Magical Art",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+      "backgroundColor": "#F67255",
+      "description": "WizzArt AI adalah model AI yang dilatih dan diterbitkan ke GoatChat oleh seorang Seniman Denmark. Model ini dilatih menggunakan lukisan-lukisan unik miliknya.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Kastil abad pertengahan, sangat terperinci, megah, saat matahari terbenam, di tepi laut"
+        },
+        {
+          "message": "Penyihir muda tampan, mengenakan jubah penyihir putih dengan hiasan emas, jubah putih berkibar di angin, rambut putih panjang, berpakaian lengkap, wajahnya sempurna dan tampan"
+        },
+        {
+          "message": "Gaya Empire, potret 8k seorang wanita muda cantik dengan rambut coklat, rumit, dan elegan"
+        }
+      ],
+      "usersCount": 35174,
+      "messagesCount": 124615,
+      "likesCount": 3163,
+      "aiQuote": "The World of Magical Art",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
+          "question": "Penyihir muda tampan, mengenakan jubah penyihir putih dengan hiasan emas, jubah putih berkibar di angin, rambut putih panjang, berpakaian lengkap, wajahnya sempurna dan tampan"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
+          "question": "Lukisan seorang penyihir tua"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
+          "question": "Lukisan seorang penyihir"
+        }
+      ]
+    },
+    {
+      "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+      "name": "Wallpaper AI",
+      "headerText": "AI Pembuat Wallpaper",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+      "backgroundColor": "#2564AE",
+      "description": "Alat kami menggunakan AI untuk mencipta pelbagai pilihan wallpaper dari penerangan yang anda berikan. Ia hanya mengambil beberapa saat untuk menghasilkan wallpaper berkualiti tinggi.",
+      "nickname": "wallpaperAI",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Cipta wallpaper dengan kereta sukan merah"
+        },
+        {
+          "message": "Cipta wallpaper kapal layar untuk iOS"
+        },
+        {
+          "message": "Buat wallpaper bergaya angkasa untuk saya"
+        }
+      ],
+      "usersCount": 112747,
+      "messagesCount": 435021,
+      "likesCount": 7206,
+      "aiQuote": "AI Pembuat Wallpaper",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
+          "question": "Halo, bisakah Anda membuat gambar dengan wajah monyet terbalik dan memakai kacamata hitam?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
+          "question": "Buat wallpaper 3D"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
+          "question": "Tulis pesan untuk pacar saya, meminta maaf tulus"
+        }
+      ]
+    },
+    {
+      "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+      "name": "Journey AI",
+      "headerText": "Seni Digital HQ",
+      "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+      "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+      "backgroundColor": "#051024",
+      "description": "Journey AI mewarisi amalan terbaik dari Dall-E 2 dan penyebaran laten, sambil memperkenalkan beberapa idea baru. Sebagai penerima teks dan imej, ia menggunakan model CLIP dan pengetahuan imej penyebaran (pemetaan) antara ruang laten mod di CLIP. Pendekatan ini meningkatkan prestasi visual model dan membuka jalan baru dalam penggabungan imej dan manipulasi imej berpandu teks.",
+      "aliveStart": "2023-02-02T03:08:39+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Supercar Ferrari"
+        },
+        {
+          "message": "Albert Einstein"
+        },
+        {
+          "message": "Matahari terbenam di New York"
+        }
+      ],
+      "usersCount": 40635,
+      "messagesCount": 60902,
+      "likesCount": 951,
+      "aiQuote": "AI Seni Journey",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
+          "question": "Seorang gadis remaja yang kuat, cerdas, misterius, penuh sumber daya, pandai berbicara, cahaya hijau dan biru, alat dan teknologi, ruang dan peta bintang, rambut hitam pendek dan kepang panjang, senyuman samar, bayangan, pembaca setia"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
+          "question": "Tubuh penuh seorang gadis pribumi, tampak berusia 15 tahun, dengan pipi merah, wajah netral, telanjang, menggunakan kepala serigala sebagai topi, tabung panah di punggungnya, di hutan dengan medan basah"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
+          "question": "Tubuh penuh seorang gadis pribumi, dengan pipi merah, wajah netral, mengenakan pakaian atas dan rok dari bulu serigala, menggunakan kepala serigala sebagai topi, busur di punggungnya, di hutan dengan medan basah"
+        }
+      ]
+    },
+    {
+      "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
+      "name": "Dream AI",
+      "headerText": "Mimpi Yang Jelas",
+      "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
+      "backgroundColor": "#D88E00",
+      "description": "Dream AI adalah model AI yang mencipta imej beresolusi tinggi dengan sentuhan yang berbisa.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Wallpaper kereta moden"
+        },
+        {
+          "message": "Potret seorang peri perempuan"
+        },
+        {
+          "message": "Iblis dari zaman kuno"
+        }
+      ],
+      "aiQuote": "Mimpi Yang Jelas",
+      "isTopRated": false,
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
+          "question": "Jalan kafe Eropah"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
+          "question": "Puteri duyung, rambut biru langit"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
+          "question": "Bayangkan bagaimana perjalanan ke galaksi lain bisa menjadi seperti apa"
+        }
+      ]
+    },
+    {
+      "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
+      "name": "Claude Monet",
+      "headerText": "Seni Impresionis",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
+      "backgroundColor": "#634735",
+      "description": "Oscar-Claude Monet adalah seorang seniman Prancis dan pendiri lukisan Impresionis, yang dianggap sebagai tokoh kunci dalam perkembangan modernisme, terutama dalam upayanya untuk menangkap cahaya alami.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Malam di Roma, cahaya bulan"
+        },
+        {
+          "message": "Bagaimana cara Anda menemukan jalan ke surga?"
+        },
+        {
+          "message": "Bisakah Anda melukis pegunungan Swiss?"
+        }
+      ],
+      "usersCount": 10122,
+      "messagesCount": 27216,
+      "likesCount": 464,
+      "aiQuote": "Seni Impresionis",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
+          "question": "Bisakah Anda menggambarkan bengkel tukang kayu dengan alat kerjanya?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
+          "question": "Bisakah Anda menggambarkan bengkel tukang kayu dengan alat kerjanya?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
+          "question": "Bisakah Anda melukis pegunungan Swiss?"
+        }
+      ]
+    },
+    {
+      "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+      "name": "Banksy",
+      "headerText": "Seni Jalanan Modern",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+      "backgroundColor": "#2F323A",
+      "description": "Banksy adalah seorang seniman jalanan, aktivis politik, dan sutradara film yang identitas dan nama aslinya belum dikonfirmasi dan masih menjadi bahan spekulasi.",
+      "nickname": "banksy",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Bisakah Anda membuat grafiti seekor kucing?"
+        },
+        {
+          "message": "Kapal layar"
+        },
+        {
+          "message": "Naga yang menyemburkan api"
+        }
+      ],
+      "usersCount": 19872,
+      "messagesCount": 55036,
+      "likesCount": 674,
+      "aiQuote": "Seni Jalanan Modern",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
+          "question": "Tiga batu nisan orang busuk di atas seseorang yang baik, tetapi tidak pernah dimengerti sampai terlambat"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
+          "question": "Gambaran jendela yang mencerminkan pesonanya dan dampaknya pada keindahan dan pesona jiwa yang memikat"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
+          "question": "Refleksi Diri\nGastronomi"
+        }
+      ]
+    },
+    {
+      "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+      "name": "Johannes Vermeer",
+      "headerText": "Seni Zaman Keemasan Belanda",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+      "backgroundColor": "#FCA311",
+      "description": "Johannes Vermeer adalah seorang seniman Barok Belanda yang dikenal karena adegan-adegan interiornya tentang kehidupan domestik kelas menengah. Sepanjang hidupnya, ia adalah seorang pelukis genre yang cukup sukses, diakui di Delft dan Den Haag.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Bisakah Anda melukis Paus di Vatikan?"
+        },
+        {
+          "message": "Lukis Raja Inggris di kastelnya"
+        },
+        {
+          "message": "Lanskap Belanda dengan bukit dan sungai."
+        }
+      ],
+      "usersCount": 12909,
+      "messagesCount": 32055,
+      "likesCount": 316,
+      "aiQuote": "Seni Zaman Keemasan Belanda.",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+          "question": "Petugas polisi yang bertanggung jawab, jujur, teguh, tekun dalam pekerjaannya, pribadi yang kuat."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+          "question": "Gambarkan gambar robot di Perang Dunia I."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+          "question": "Cara memasak mie."
+        }
+      ]
+    },
+    {
+      "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
+      "name": "Vincent van Gogh",
+      "headerText": "Seni Post-Impresionis dengan Vincent AI",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
+      "backgroundColor": "#00336F",
+      "description": "Vincent Willem van Gogh adalah seorang seniman Post-Impresionis Belanda, yang menjadi salah satu tokoh terkenal dan berpengaruh dalam sejarah seni Barat. Dalam satu dekade, ia menciptakan sekitar 2.100 karya seni, termasuk sekitar 860 lukisan minyak, sebagian besar dihasilkan dalam dua tahun terakhir hidupnya.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Lukis gambar pegunungan Swiss."
+        },
+        {
+          "message": "Bagaimana Anda melihat pintu masuk surga?"
+        },
+        {
+          "message": "Bisakah Anda melukis gambar Paris di malam hari?"
+        }
+      ],
+      "usersCount": 15589,
+      "messagesCount": 43112,
+      "likesCount": 925,
+      "aiQuote": "Seni Post-Impresionis dengan Vincent AI",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
+          "question": "Bisakah Anda melukis lanskap siang hari Gunung Fuji yang bersalju?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
+          "question": "Suku Indian di dunia aneh"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
+          "question": "Pengendara di tengah badai"
+        }
+      ]
+    },
+    {
+      "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+      "name": "Leonardo da Vinci",
+      "headerText": "Leonardo, Sang Agung.",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+      "backgroundColor": "#44260A",
+      "description": "Leonardo di ser Piero da Vinci adalah seorang polymath Italia dari periode Renaissance Tinggi, yang bekerja sebagai pelukis, penggambar, insinyur, ilmuwan, teoretikus, pematung, dan arsitek.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Bisakah Anda melukis rangkaian pegunungan Alpen Swiss?"
+        },
+        {
+          "message": "Bagaimana Anda melihat pintu masuk surga?"
+        },
+        {
+          "message": "Lukis prajurit Romawi di sebuah gereja."
+        }
+      ],
+      "usersCount": 12195,
+      "messagesCount": 36109,
+      "likesCount": 577,
+      "aiQuote": "Leonardo, Sang Agung.",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
+          "question": "Silakan buat sebuah triskele yang jelas dikenali yang terbuat dari petir biru. Di gambar harus ada 2 gagak (Hugin/Munin)."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
+          "question": "Silakan buat sebuah triskele yang jelas dikenali yang terbuat dari petir biru. Di gambar harus ada 2 gagak (Hugin/Munin)."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
+          "question": "Triskele-nya belum cukup jelas, dan harus terbuat dari petir biru."
+        }
+      ]
+    },
+    {
+      "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
+      "name": "MarvelAI",
+      "headerText": "Seni AI 3D",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
+      "backgroundColor": "#533B4D",
+      "description": "MarvelAI adalah model berbasis redshift diffusion, yang sangat beroperasi pada gambar dan karakter 3D.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Buatlah potret Batman untuk saya."
+        },
+        {
+          "message": "Siluet modern kota Berlin."
+        },
+        {
+          "message": "Buat wallpaper sebuah mobil Ferrari merah di jalan raya."
+        }
+      ],
+      "usersCount": 39868,
+      "messagesCount": 120299,
+      "likesCount": 1672,
+      "aiQuote": "Seni AI 3D",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
+          "question": "Seorang pria seolah-olah dia adalah ilusi yang saya lihat di kegelapan cermin saya."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
+          "question": "Seorang pria seolah-olah dia adalah ilusi yang saya lihat di kegelapan cermin saya."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
+          "question": "Dua piramida di Greenland. Mereka sebagian tertutup es."
+        }
+      ]
+    },
+    {
+      "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
+      "name": "Cyberpunk AI",
+      "headerText": "Masa Depan?",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
+      "skyboxImageUrl": null,
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
+      "backgroundColor": "#0D5C63",
+      "description": "Cyberpunk adalah subgenre fiksi ilmiah dengan pengaturan masa depan dystopian yang cenderung berfokus pada \"kombinasi kehidupan rendah dan teknologi tinggi,\" dengan pencapaian teknologi dan ilmiah di masa depan, seperti kecerdasan buatan dan cybernetika, berdampingan dengan keruntuhan sosial, dystopia, atau kehancuran.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Kapal luar angkasa menuju matahari"
+        },
+        {
+          "message": "Paris di masa depan"
+        },
+        {
+          "message": "New York City di masa depan"
+        }
+      ],
+      "usersCount": 26124,
+      "messagesCount": 58703,
+      "likesCount": 731,
+      "aiQuote": "Masa Depan?",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
+          "question": "Di dalam kegelapan, mengeksekusi keadilan sebagai seorang ninja, merasa sendirian, memandang ke bawah pada para penjahat dari tempat tinggi."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
+          "question": "Di dalam kegelapan, mengeksekusi keadilan sebagai seorang ninja, merasa sendirian, memandang ke bawah pada para penjahat dari tempat tinggi."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
+          "question": "Ledakan senjata seksual"
+        }
+      ]
+    }
+  ]
+}

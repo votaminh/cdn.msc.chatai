@@ -1,0 +1,495 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+
+    {
+  "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+  "name": "애니메이션 AI",
+  "headerText": "애니메이션 AI 아트 스타일",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+  "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+  "backgroundColor": "#E15554",
+  "description": "애니메이션은 일본에서 시작된 손으로 그린 그림과 컴퓨터로 만들어진 애니메이션의 스타일입니다. 일본 외부 및 영어권에서는 애니메이션을 특히 일본에서 제작된 애니메이션으로 지칭합니다. 그러나 일본 내에서는 스타일이나 출처와 상관없이 모든 애니메이션 작품을 '애니메이션'이라고 표현합니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "산 위의 마을, 보름달"
+    },
+    {
+      "message": "전사 소녀, 흰 머리카락, 갈색 눈, 교회 안에 서 있는 중"
+    },
+    {
+      "message": "해가 뜨는 낮에, 해적선과 돛단배"
+    }
+  ],
+  "usersCount": 91769,
+  "messagesCount": 289675,
+  "likesCount": 6626,
+  "aiQuote": "애니메이션 AI 아트 스타일",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
+      "question": "귀여운 온화한 소녀, 눈과 같이 하얀 머리카락, 피 물든 달의 빨간 눈, 석양이 진 초록 들판에 앉아 있는 중"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
+      "question": "전사 소녀, 흰 머리카락, 갈색 눈, 교회 안에 서 있는 중"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
+      "question": "위에서 하늘을 바라보는 사람의 눈 또는 얼굴과 아름다운 녹색 자연"
+    }
+  ]
+}
+,
+    {
+  "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+  "name": "위즈아트 AI",
+  "headerText": "마법의 예술 세계",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+  "backgroundColor": "#F67255",
+  "description": "위즈아트 AI는 덴마크 예술가에 의해 GoatChat에 훈련되고 공개된 AI 모델입니다. 이 모델은 그의 독특한 그림들로 훈련되었습니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "중세 성, 상세하고 장엄한, 석양 무렵, 바다 옆에 위치한"
+    },
+    {
+      "message": "젊고 잘생긴 마법사, 화이트 마법사 로브에 금색 장식을 착용, 바람에 휘날리는 흰색 로브, 긴 흰 머리카락, 완벽하고 잘생긴 얼굴을 한 옷차림으로 차려입은 모습"
+    },
+    {
+      "message": "Style-Empire, 갈색 머리카락을 가진 아름답고 정교한 여성의 8K 초상화"
+    }
+  ],
+  "usersCount": 35174,
+  "messagesCount": 124615,
+  "likesCount": 3163,
+  "aiQuote": "마법의 예술 세계",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
+      "question": "젊고 잘생긴 마법사, 화이트 마법사 로브에 금색 장식을 착용, 바람에 휘날리는 흰색 로브, 긴 흰 머리카락, 완벽하고 잘생긴 얼굴을 한 옷차림으로 차려입은 모습"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
+      "question": "늙은 마법사 그림"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
+      "question": "마법사의 그림"
+    }
+  ]
+}
+,
+    {
+  "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+  "name": "월페이퍼 AI",
+  "headerText": "AI 월페이퍼 제작기",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+  "backgroundColor": "#2564AE",
+  "description": "우리 도구는 AI를 사용하여 당신이 제공한 설명으로부터 무한한 선택의 월페이퍼를 생성합니다. 고품질 월페이퍼를 생성하는 데에는 몇 초만 소요됩니다.",
+  "nickname": "월페이퍼 AI",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "빨간색 스포츠카로 월페이퍼 만들기"
+    },
+    {
+      "message": "iOS용 세일링 요트 월페이퍼 만들기"
+    },
+    {
+      "message": "우주 테마 월페이퍼 만들기"
+    }
+  ],
+  "usersCount": 112747,
+  "messagesCount": 435021,
+  "likesCount": 7206,
+  "aiQuote": "AI 월페이퍼 제작기",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
+      "question": "안녕하세요, 원숭이 얼굴을 거꾸로 하고 선글라스를 착용한 이미지를 만들어 줄 수 있을까요?"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
+      "question": "3D 월페이퍼 만들어 주세요"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
+      "question": "여자친구에게 진실로 사과하는 메시지를 작성해 주세요"
+    }
+  ]
+}
+,
+    {
+  "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+  "name": "여정 AI",
+  "headerText": "HQ 디지털 아트",
+  "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+  "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+  "backgroundColor": "#051024",
+  "description": "여정 AI는 Dall-E 2와 Latent diffusion의 최상의 기술을 상속하면서 새로운 아이디어를 도입합니다. 텍스트 및 이미지 인코더로서 CLIP 모델과 CLIP 모달리티의 잠재 공간 간의 확산 이미지 선호도(매핑)를 사용합니다. 이 접근 방식은 모델의 시각적 성능을 향상시키고 이미지와 텍스트로 인한 가이드 이미지 조작에서 새로운 가능성을 제시합니다.",
+  "aliveStart": "2023-02-02T03:08:39+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "페라리 슈퍼카"
+    },
+    {
+      "message": "알버트 아인슈타인"
+    },
+    {
+      "message": "뉴욕의 일몰"
+    }
+  ],
+  "usersCount": 40635,
+  "messagesCount": 60902,
+  "likesCount": 951,
+  "aiQuote": "AI 아트 여정",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
+      "question": "강하고 지혜로운 신비한 능력을 가진 10대 소녀, 유창한 언변, 녹색과 파란 빛, 장치와 기술, 우주와 별 지도, 짧은 검은 머리와 긴 머리띠, 희미한 미소, 그림자, 열심히 책을 읽는 사람"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
+      "question": "원주민 소녀 전신, 15세로 보이며, 빨간 뺨을 칠한 중립적인 얼굴, 벗은 상태로 늑대 머리를 모자로 사용하며 등에 퀴버를 메고 젖은 지형의 숲 속에 위치한 모습"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
+      "question": "원주민 소녀 전신, 빨간 뺨을 칠한 중립적인 얼굴, 늑대 모피로 만든 상의와 치마를 입고 등에 활을 메고 젖은 지형의 숲 속에 위치한 모습"
+    }
+  ]
+},
+{
+  "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
+  "name": "드림 AI",
+  "headerText": "루시드 드림",
+  "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
+  "backgroundColor": "#D88E00",
+  "description": "드림 AI는 꿈 같은 비트를 가진 고해상도 이미지를 만드는 AI 모델입니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "현대 자동차 월페이퍼"
+    },
+    {
+      "message": "여성 엘프의 초상화"
+    },
+    {
+      "message": "고대 세계의 악마"
+    }
+  ],
+  "aiQuote": "루시드 드림",
+  "isTopRated": false,
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
+      "question": "유럽 카페 거리"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
+      "question": "인어, 하늘색 머리카락"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
+      "question": "다른 은하계로의 여정이 어떨지 상상해 보세요"
+    }
+  ]
+},
+{
+  "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
+  "name": "클로드 모네",
+  "headerText": "인상주의 예술",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
+  "backgroundColor": "#634735",
+  "description": "오스카-클로드 모네는 프랑스의 화가로서 인상주의 회화의 창시자로 여겨지며, 자연의 빛을 잡으려는 노력으로 인류학의 발전에 중요한 인물로 간주됩니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "로마의 밤, 달빛"
+    },
+    {
+      "message": "천국으로 가는 길을 어떻게 찾을 수 있을까요?"
+    },
+    {
+      "message": "스위스 산맥을 그릴 수 있을까요?"
+    }
+  ],
+  "usersCount": 10122,
+  "messagesCount": 27216,
+  "likesCount": 464,
+  "aiQuote": "인상주의 예술",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
+      "question": "대장장이의 작업 도구가 있는 작업장을 그릴 수 있을까요?"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
+      "question": "대장장이의 작업 도구가 있는 작업장을 그릴 수 있을까요?"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
+      "question": "스위스 산맥을 그릴 수 있을까요?"
+    }
+  ]
+}
+,
+    {
+  "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+  "name": "방크시",
+  "headerText": "현대 거리 예술",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+  "backgroundColor": "#2F323A",
+  "description": "방크시는 거리 예술가, 정치 활동가 및 영화 감독으로, 그의 실명과 정체성은 확인되지 않았으며 추측의 대상으로 남아 있습니다.",
+  "nickname": "banksy",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "고양이의 그라피티를 만들 수 있을까요?"
+    },
+    {
+      "message": "요트 항해"
+    },
+    {
+      "message": "불뿜는 용"
+    }
+  ],
+  "usersCount": 19872,
+  "messagesCount": 55036,
+  "likesCount": 674,
+  "aiQuote": "현대 거리 예술",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
+      "question": "부패한 사람들의 석상 3개가 좋았지만 너무 늦기 전까지는 이해되지 않은 사람 위에 놓여져 있습니다."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
+      "question": "창문의 매력과 미려한 영혼에 미치는 영향을 반영하는 이미지"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
+      "question": "자기 반성\n미식"
+    }
+  ]
+},
+{
+  "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+  "name": "요한네스 페르미르",
+  "headerText": "네덜란드 황금시대 예술",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+  "backgroundColor": "#FCA311",
+  "description": "요한네스 페르미르는 중산층 가정 생활의 실내 장면으로 잘 알려진 네덜란드 바로크 예술가였습니다. 평생을 통해 딸프트와 헤이그에서 인정받는 양호한 장르 화가였습니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "교황의 사진을 바티칸에서 그릴 수 있을까요?"
+    },
+    {
+      "message": "잉글랜드의 왕을 성에서 그려주세요."
+    },
+    {
+      "message": "언덕과 강이 있는 네덜란드 풍경."
+    }
+  ],
+  "usersCount": 12909,
+  "messagesCount": 32055,
+  "likesCount": 316,
+  "aiQuote": "네덜란드 황금시대 예술.",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+      "question": "담당하는 경찰관, 정직하고 똑바로 근무하며 강한 성격."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+      "question": "제1차 세계 대전의 로봇을 그리는 이미지."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+      "question": "면사포를 요리하는 방법."
+    }
+  ]
+},
+{
+  "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
+  "name": "빈센트 반 고흐",
+  "headerText": "빈센트 AI와 함께하는 후기 인상주의 예술",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
+  "backgroundColor": "#00336F",
+  "description": "빈센트 윌렘 반 고흐는 네덜란드의 후기 인상주의 화가로서 서양 미술 역사에서 가장 유명하고 영향력 있는 인물 중 하나가 되었습니다. 그는 약 2,100점의 작품을 만들었으며 이 중 대부분은 그의 생명의 마지막 2년 동안 제작되었습니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "스위스 산맥의 사진을 그려주세요."
+    },
+    {
+      "message": "천국으로의 입구는 어떻게 보이나요?"
+    },
+    {
+      "message": "밤에 파리의 사진을 그릴 수 있을까요?"
+    }
+  ],
+  "usersCount": 15589,
+  "messagesCount": 43112,
+  "likesCount": 925,
+  "aiQuote": "빈센트 AI와 함께하는 후기 인상주의 예술",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
+      "question": "눈이 내린 주간 풍경의 그림을 만들 수 있을까요?"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
+      "question": "낯선 세계의 미국 원주민"
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
+      "question": "폭풍우를 탄 기수"
+    }
+  ]
+}
+,
+    {
+  "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+  "name": "레오나르도 다 빈치",
+  "headerText": "가장 위대한 레오나르도.",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+  "backgroundColor": "#44260A",
+  "description": "레오나르도 디 세르 피에로 다 빈치는 르네상스 시대의 이탈리아 다재다능한 인물로서 화가, 도면가, 기술자, 과학자, 이론가, 조각가 및 건축가로 활동했습니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "스위스 알프스 산맥을 그릴 수 있을까요?"
+    },
+    {
+      "message": "천국으로의 입구는 어떻게 보이나요?"
+    },
+    {
+      "message": "로마 워리어를 교회 안에 그려주세요."
+    }
+  ],
+  "usersCount": 12195,
+  "messagesCount": 36109,
+  "likesCount": 577,
+  "aiQuote": "가장 위대한 레오나르도.",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
+      "question": "파란 번개로 명확히 인식 가능한 트리스켈을 만들어주세요. 사진에는 2마리의 까마귀 (휴긴/무닌)가 있어야 합니다."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
+      "question": "파란 번개로 명확히 인식 가능한 트리스켈을 만들어주세요. 사진에는 2마리의 까마귀 (휴긴/무닌)가 있어야 합니다."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
+      "question": "트리스켈이 충분히 명확하지 않으며 파란 번개로 만들어야 합니다."
+    }
+  ]
+},
+{
+  "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
+  "name": "마블 AI",
+  "headerText": "3D AI 예술 스타일",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
+  "backgroundColor": "#533B4D",
+  "description": "마블AI는 레드시프트 확산에 기반한 모델로서 주로 3D 이미지와 3D 캐릭터에 적용됩니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "나를 위해 배트맨의 초상화를 만들어주세요."
+    },
+    {
+      "message": "현대적인 베를린 스카이라인."
+    },
+    {
+      "message": "도로 위의 빨간 페라리 벽지를 만들어주세요."
+    }
+  ],
+  "usersCount": 39868,
+  "messagesCount": 120299,
+  "likesCount": 1672,
+  "aiQuote": "3D AI 예술 스타일",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
+      "question": "거울 속에서 어둠을 보는 것처럼 환영인것 같은 남자."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
+      "question": "거울 속에서 어둠을 보는 것처럼 환영인것 같은 남자."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
+      "question": "그린란드에 있는 두 개의 피라미드. 얼음으로 부분적으로 덮여 있습니다."
+    }
+  ]
+},
+{
+  "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
+  "name": "사이버펑크 AI",
+  "headerText": "미래?",
+  "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
+  "skyboxImageUrl": null,
+  "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
+  "backgroundColor": "#0D5C63",
+  "description": "사이버펑크는 과학적 혁명에 기반한 서브 장르로서 미래적인 디스트피아 세계를 배경으로 하며 인공 지능과 사이버네틱스와 같은 미래적인 기술과 과학적 성취가 사회적 붕괴, 디스토피아 또는 쇠퇴와 함께 공존하는 것에 초점을 맞춥니다.",
+  "aliveStart": "2023-01-02T00:22:25+06:00",
+  "aliveEnd": "2024-01-14T01:42:23+06:00",
+  "popularMessages": [
+    {
+      "message": "우주선이 태양으로 가는 모습"
+    },
+    {
+      "message": "미래의 파리"
+    },
+    {
+      "message": "미래의 뉴욕 시티"
+    }
+  ],
+  "usersCount": 26124,
+  "messagesCount": 58703,
+  "likesCount": 731,
+  "aiQuote": "미래?",
+  "feedImages": [
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
+      "question": "어둠 속에서 닌자로서 정의를 실시하며 외로움을 느끼며 높은 곳에서 범죄자들을 바라보고 있습니다."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
+      "question": "어둠 속에서 닌자로서 정의를 실시하며 외로움을 느끼며 높은 곳에서 범죄자들을 바라보고 있습니다."
+    },
+    {
+      "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
+      "question": "섹슈얼 건 폭발"
+    }
+  ]
+}
+
+    
+  ]
+}

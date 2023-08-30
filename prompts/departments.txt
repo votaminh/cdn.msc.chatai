@@ -1,0 +1,65 @@
+[
+  {
+    "name_en": "Customer Success"
+  },
+  {
+    "name_en": "Sales"
+  },
+  {
+    "name_en": "Retail"
+  },
+  {
+    "name_en": "Engineering"
+  },
+  {
+    "name_en": "Public Relations Specialist"
+  },
+  {
+    "name_en": "Media And Communications"
+  },
+  {
+    "name_en": "Customer Service"
+  },
+  {
+    "name_en": "Marketing"
+  },
+  {
+    "name_en": "Executive Management"
+  },
+  {
+    "name_en": "Information Technology"
+  },
+  {
+    "name_en": "Finance"
+  },
+  {
+    "name_en": "Personal Development"
+  },
+  {
+    "name_en": "Administrative"
+  },
+  {
+    "name_en": "Religious Services"
+  },
+  {
+    "name_en": "Legal"
+  },
+  {
+    "name_en": "Human Resources"
+  },
+  {
+    "name_en": "Medical"
+  },
+  {
+    "name_en": "Real Estate"
+  },
+  {
+    "name_en": "Creative"
+  },
+  {
+    "name_en": "Education"
+  },
+  {
+    "name_en": "Entrepreneur"
+  }
+]

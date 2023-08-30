@@ -1,0 +1,487 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": "f6599106-d526-41d2-a55d-81c6cf132b6f",
+      "name": "Anime AI",
+      "headerText": "Estilo de Arte Anime AI",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/anime_ava.png",
+      "coverImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(50)/files/20230423_elvxpfptncxqlwjx.jpeg",
+      "backgroundColor": "#E15554",
+      "description": "Anime é um estilo de animação desenhado à mão e gerado por computador que teve origem no Japão. Fora do Japão e em inglês, anime se refere especificamente a animações produzidas no Japão. No entanto, no Japão e em japonês, anime descreve todas as obras animadas, independentemente do estilo ou origem.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Vila na montanha, lua cheia"
+        },
+        {
+          "message": "Garota guerreira, cabelo branco, olhos castanhos, de pé em uma igreja"
+        },
+        {
+          "message": "Navio pirata, barco à vela, durante o dia"
+        }
+      ],
+      "usersCount": 91769,
+      "messagesCount": 289675,
+      "likesCount": 6626,
+      "aiQuote": "Estilo de Arte Anime AI",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_nvxwtwwivpvwaxrr.jpeg",
+          "question": "Garota bonita e gentil, cabelo branco como a neve, olhos vermelhos como a Lua de Sangue, sentada em um campo verde ao pôr do sol"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_osaewunzhjqxbjjm.jpeg",
+          "question": "Garota guerreira, cabelo branco, olhos castanhos, de pé em uma igreja"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_mnyvaepvjrncmlng.jpeg",
+          "question": "Um olho ou rosto de uma pessoa olhando de cima do céu para a bela natureza verde"
+        }
+      ]
+    },
+    {
+      "id": "fd717133-1187-4eb0-b9b4-5ca5110be064",
+      "name": "WizzArt AI",
+      "headerText": "O Mundo da Arte Mágica",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wizzart_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/wizzart.png",
+      "backgroundColor": "#F67255",
+      "description": "O WizzArt AI é um modelo de IA treinado e publicado no GoatChat por um artista dinamarquês. O modelo foi treinado com base em suas pinturas exclusivas.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Castelo medieval, altamente detalhado, majestoso, ao pôr do sol, à beira do oceano"
+        },
+        {
+          "message": "Jovem feiticeiro bonito, vestindo uma túnica de feiticeiro branca com acabamento em ouro, túnica branca esvoaçante ao vento, cabelos brancos longos, vestido com trajes completos, rosto perfeito e bonito"
+        },
+        {
+          "message": "Estilo Império, retrato 8k de uma bela jovem de cabelos castanhos, intrincado e elegante"
+        }
+      ],
+      "usersCount": 35174,
+      "messagesCount": 124615,
+      "likesCount": 3163,
+      "aiQuote": "O Mundo da Arte Mágica",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_yuhnewogjvncezko.jpeg",
+          "question": "Jovem feiticeiro bonito, vestindo uma túnica de feiticeiro branca com acabamento em ouro, túnica branca esvoaçante ao vento, cabelos brancos longos, vestido com trajes completos, rosto perfeito e bonito"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_iykreaqbeezryvsv.jpeg",
+          "question": "Pintura de feiticeiro idoso"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_ybciynqgggmlnjep.jpeg",
+          "question": "Pintura de um feiticeiro"
+        }
+      ]
+    },
+    {
+      "id": "c2a3b4e0-2b7f-45d9-aaf8-7c9b734f7513",
+      "name": "Wallpaper AI",
+      "headerText": "Criador de Papéis de Parede com IA",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/wallpaperAI.jpg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/wallpaper.png",
+      "backgroundColor": "#2564AE",
+      "description": "Nossa ferramenta usa IA para criar uma escolha ilimitada de papéis de parede a partir das descrições que você fornece. Leva apenas alguns segundos para gerar papéis de parede de alta qualidade.",
+      "nickname": "wallpaperAI",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Criar um papel de parede com um carro esportivo vermelho"
+        },
+        {
+          "message": "Criar um papel de parede de iate à vela para iOS"
+        },
+        {
+          "message": "Criar um papel de parede temático espacial para mim"
+        }
+      ],
+      "usersCount": 112747,
+      "messagesCount": 435021,
+      "likesCount": 7206,
+      "aiQuote": "Criador de Papéis de Parede com IA",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dywsjxzpvoepodom.jpeg",
+          "question": "Olá, você pode criar uma imagem com o rosto de um macaco de cabeça para baixo usando óculos de sol?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_unxphcjrgnedccuh.jpeg",
+          "question": "Criar um papel de parede 3D"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gxucgywhvrzidcrg.jpeg",
+          "question": "Escreva uma mensagem para minha namorada, pedindo minhas sinceras desculpas"
+        }
+      ]
+    },
+    {
+      "id": "d31f578d-b9b3-40c9-aa17-740bbc20c272",
+      "name": "Journey AI",
+      "headerText": "Arte Digital de Alta Qualidade",
+      "avatarUrl": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png",
+      "backgroundImageUrl": "https://replicate.delivery/pbxt/oAqQpxWiSH7yJ1BaZei7rszi1KHfe4feiIwkMrejKnxFbobME/out-0.png",
+      "backgroundColor": "#051024",
+      "description": "A Journey AI herda as melhores práticas do Dall-E 2 e da difusão latente, ao mesmo tempo que introduz algumas novas ideias. Como codificador de texto e imagem, ele usa o modelo CLIP e a imagem de difusão (mapeamento) entre espaços latentes das modalidades CLIP. Essa abordagem aumenta o desempenho visual do modelo e revela novos horizontes na fusão de imagens e manipulação de imagens guiadas por texto.",
+      "aliveStart": "2023-02-02T03:08:39+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Supercarro Ferrari"
+        },
+        {
+          "message": "Albert Einstein"
+        },
+        {
+          "message": "Pôr do sol em Nova York"
+        }
+      ],
+      "usersCount": 40635,
+      "messagesCount": 60902,
+      "likesCount": 951,
+      "aiQuote": "Jornada de Arte com IA",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_jysgpndaimmqqxyk.jpeg",
+          "question": "Uma adolescente forte, inteligente, misteriosa e engenhosa, boa oradora, luzes verdes e azuis, dispositivos e tecnologia, espaço e mapa de estrelas, cabelos pretos curtos e uma longa trança, leve sorriso, sombras, ávida leitora"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_pisqgzicvwfjmrzm.jpeg",
+          "question": "Corpo inteiro de uma garota indígena, aparentando ter 15 anos, com bochechas pintadas de vermelho, rosto neutro, nua, usando a cabeça de um lobo como chapéu, aljava nas costas, em uma floresta com terreno úmido"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mowbnertwnymqohr.jpeg",
+          "question": "Corpo inteiro de uma garota indígena, com bochechas pintadas de vermelho, rosto neutro, usando um top e saia feitos de pele de lobo, usando a cabeça de um lobo como chapéu, arco nas costas, em uma floresta com terreno úmido"
+        }
+      ]
+    },
+    {
+      "id": "82e5cfcb-fdc3-4f73-88d5-d98e2e282983",
+      "name": "Dream AI",
+      "headerText": "Sonhos Lúcidos",
+      "avatarUrl": "https://replicate.delivery/pbxt/5XQKeuiuWOy4Gy8SIIAp0t4cGJcB5CdEYptGTNxY2WQzXFAIA/out-0.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fypftedhaxtojxvs.jpeg",
+      "backgroundColor": "#D88E00",
+      "description": "O Dream AI é um modelo de IA que cria imagens de alta resolução com um toque de sonho nelas.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Papel de parede de carro moderno"
+        },
+        {
+          "message": "Retrato de uma elfa feminina"
+        },
+        {
+          "message": "Demônio do mundo antigo"
+        }
+      ],
+      "aiQuote": "Sonhos Lúcidos",
+      "isTopRated": false,
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_mbcxpezmjtsrsqba.jpeg",
+          "question": "Rua de café europeu"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vnclgmfoxtqfcvdh.jpeg",
+          "question": "Sereia, cabelo azul celeste"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gzybhkjhkbawrlql.jpeg",
+          "question": "Imagine como seria uma jornada para outras galáxias"
+        }
+      ]
+    },
+    {
+      "id": "dbefbfa9-dbe1-4312-a207-9fa944a1a8ba",
+      "name": "Claude Monet",
+      "headerText": "Arte Impressionista",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/monet_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/monet.png",
+      "backgroundColor": "#634735",
+      "description": "Oscar-Claude Monet foi um artista francês e o fundador da pintura impressionista, considerado uma figura-chave no desenvolvimento do modernismo, especialmente em seus esforços para capturar a luz natural.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Noite em Roma, luz do luar"
+        },
+        {
+          "message": "Como você encontra um caminho para o paraíso?"
+        },
+        {
+          "message": "Você pode pintar as montanhas suíças?"
+        }
+      ],
+      "usersCount": 10122,
+      "messagesCount": 27216,
+      "likesCount": 464,
+      "aiQuote": "Arte Impressionista",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_bwxabuwghfiknjkz.jpeg",
+          "question": "Você pode ilustrar uma oficina de marceneiro com suas ferramentas de trabalho?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_wpkjkjbuxtfqjhdt.jpeg",
+          "question": "Você pode ilustrar uma oficina de marceneiro com suas ferramentas de trabalho?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_zlyoggxgcbqinlyo.jpeg",
+          "question": "Você pode pintar as montanhas suíças?"
+        }
+      ]
+    },
+    {
+      "id": "e17346c2-6b23-4605-81db-05eea62bc047",
+      "name": "Banksy",
+      "headerText": "Arte Moderna de Rua",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/banksy_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/banksy.png",
+      "backgroundColor": "#2F323A",
+      "description": "Banksy é um artista de rua, ativista político e diretor de cinema, cujo verdadeiro nome e identidade não foram confirmados e permanecem objeto de especulação.",
+      "nickname": "banksy",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Você pode fazer um grafite de um gato?"
+        },
+        {
+          "message": "Iate à vela"
+        },
+        {
+          "message": "Dragão cuspidor de fogo"
+        }
+      ],
+      "usersCount": 19872,
+      "messagesCount": 55036,
+      "likesCount": 674,
+      "aiQuote": "Arte Moderna de Rua",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_txulqyoomdisvwol.jpeg",
+          "question": "Três lápides de pessoas apodrecidas em cima de alguém que era bom, mas nunca foi compreendido até que fosse tarde demais"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_xxlzxcggwhafyjdj.jpeg",
+          "question": "Uma imagem de uma janela refletindo seu charme e o impacto na beleza e alma encantadora"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_fnnbkzebpzgzmafo.jpeg",
+          "question": "Autorreflexão\nGastronomia"
+        }
+      ]
+    },
+    {
+      "id": "602487a9-423d-492a-8d7e-ce87ee349cac",
+      "name": "Johannes Vermeer",
+      "headerText": "Arte da Era de Ouro Holandesa",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vermeer.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vermeer.png",
+      "backgroundColor": "#FCA311",
+      "description": "Johannes Vermeer foi um artista barroco holandês conhecido por suas cenas internas da vida doméstica da classe média. Ao longo de sua vida, ele foi um pintor de gênero moderadamente bem-sucedido, reconhecido em Delft e Haia.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Você pode pintar o Papa no Vaticano?"
+        },
+        {
+          "message": "Pintar o Rei da Inglaterra em seu castelo"
+        },
+        {
+          "message": "Paisagem holandesa com uma colina e um rio."
+        }
+      ],
+      "usersCount": 12909,
+      "messagesCount": 32055,
+      "likesCount": 316,
+      "aiQuote": "Arte da Era de Ouro Holandesa.",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_hjwkqhcfntpvioaz.jpeg",
+          "question": "Policial encarregado, honesto, íntegro, diligente em seu trabalho, personalidade forte."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230717_vqfpacvvpslwaxed.jpeg",
+          "question": "Desenhe uma imagem de um robô na Primeira Guerra Mundial."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230716_vczjvolgdawxzese.jpeg",
+          "question": "Como cozinhar macarrão."
+        }
+      ]
+    },
+    {
+      "id": "45b45c8d-7fdd-4d00-b5b1-533b1d826b2b",
+      "name": "Vincent van Gogh",
+      "headerText": "Arte Pós-Impressionista com Vincent AI",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/vangogh.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/vangogh.png",
+      "backgroundColor": "#00336F",
+      "description": "Vincent Willem van Gogh foi um artista pós-impressionista holandês, que se tornou uma das figuras mais famosas e influentes na história da arte ocidental. Em uma década, ele criou cerca de 2.100 obras de arte, incluindo cerca de 860 pinturas a óleo, a maioria das quais foram produzidas nos últimos dois anos de sua vida.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Pinte uma imagem das montanhas suíças."
+        },
+        {
+          "message": "Como você vê a entrada para o paraíso?"
+        },
+        {
+          "message": "Você pode pintar uma imagem de Paris à noite?"
+        }
+      ],
+      "usersCount": 15589,
+      "messagesCount": 43112,
+      "likesCount": 925,
+      "aiQuote": "Arte Pós-Impressionista com Vincent AI",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_vbrpmgqqfopojvwi.jpeg",
+          "question": "Você pode pintar uma paisagem diurna do Monte Fuji com neve?"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rkbdmoozomiuafic.jpeg",
+          "question": "Americano nativo no mundo estranho"
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_rivpglulsgswwije.jpeg",
+          "question": "Cavaleiro na tempestade"
+        }
+      ]
+    },
+    {
+      "id": "e8814acc-0b53-4b32-a21d-45dfc583109d",
+      "name": "Leonardo da Vinci",
+      "headerText": "Leonardo, o Maior.",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/danvinci.jpeg",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchatai/davinci.png",
+      "backgroundColor": "#44260A",
+      "description": "Leonardo di ser Piero da Vinci foi um polímata italiano do período do Renascimento, que trabalhou como pintor, desenhista, engenheiro, cientista, teórico, escultor e arquiteto.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Você pode pintar a cadeia montanhosa dos Alpes suíços?"
+        },
+        {
+          "message": "Como você vê a entrada para o paraíso?"
+        },
+        {
+          "message": "Pinte o guerreiro romano em uma igreja."
+        }
+      ],
+      "usersCount": 12195,
+      "messagesCount": 36109,
+      "likesCount": 577,
+      "aiQuote": "Leonardo, o Maior.",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_koegqhyqfooovksh.jpeg",
+          "question": "Por favor, crie uma triskele claramente reconhecível feita de relâmpagos azuis. Deve haver 2 corvos na imagem (Hugin/Munin)."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_cqvrmhiaeqwofcrt.jpeg",
+          "question": "Por favor, crie uma triskele claramente reconhecível feita de relâmpagos azuis. Deve haver 2 corvos na imagem (Hugin/Munin)."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_utcanlpuzkpkxgmq.jpeg",
+          "question": "A triskele não está clara o suficiente e deve ser feita de relâmpagos azuis."
+        }
+      ]
+    },
+    {
+      "id": "a7003e6f-6019-4e94-9fb5-c6c2563cbfdb",
+      "name": "MarvelAI",
+      "headerText": "Estilo de Arte 3D AI",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/redshift_ava.png",
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/files/20230423_fvwcsfgfjnxclsxv.jpeg",
+      "backgroundColor": "#533B4D",
+      "description": "A MarvelAI é um modelo baseado na difusão do redshift, que opera intensamente em imagens 3D e personagens 3D.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Crie um retrato do Batman para mim."
+        },
+        {
+          "message": "Skyline moderno de Berlim."
+        },
+        {
+          "message": "Faça um papel de parede de uma Ferrari vermelha na estrada."
+        }
+      ],
+      "usersCount": 39868,
+      "messagesCount": 120299,
+      "likesCount": 1672,
+      "aiQuote": "Estilo de Arte 3D AI",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_gahhlyokalnxvvvs.jpeg",
+          "question": "Um homem como se ele fosse uma ilusão que eu vejo na escuridão do meu espelho."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_vfucpmjpwgmhoyxm.jpeg",
+          "question": "Um homem como se ele fosse uma ilusão que eu vejo na escuridão do meu espelho."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230718_wlmfvvlvflkcbame.jpeg",
+          "question": "Duas pirâmides na Groenlândia. Elas estão parcialmente cobertas de gelo."
+        }
+      ]
+    },
+    {
+      "id": "87d4e93c-e426-48f5-9605-92e82fe4c1a4",
+      "name": "Cyberpunk AI",
+      "headerText": "Futuro?",
+      "avatarUrl": "https://assets.adapt.ws/goatchat/cyberpunk_ava.png",
+      "skyboxImageUrl": null,
+      "backgroundImageUrl": "https://imgstore.adapt.ws/filters:format(jpeg)/filters:quality(30)/goatchat/cyberpunk.png",
+      "backgroundColor": "#0D5C63",
+      "description": "Cyberpunk é um subgênero da ficção científica em um cenário futurista distópico que tende a focar em uma \"combinação de marginalidade e alta tecnologia,\" com realizações tecnológicas e científicas no futuro, como inteligência artificial e cibernética, juxtapostas com colapso, distopia ou decadência social.",
+      "aliveStart": "2023-01-02T00:22:25+06:00",
+      "aliveEnd": "2024-01-14T01:42:23+06:00",
+      "popularMessages": [
+        {
+          "message": "Nave espacial indo em direção ao sol"
+        },
+        {
+          "message": "Paris no futuro"
+        },
+        {
+          "message": "Cidade de Nova York no futuro"
+        }
+      ],
+      "usersCount": 26124,
+      "messagesCount": 58703,
+      "likesCount": 731,
+      "aiQuote": "Futuro?",
+      "feedImages": [
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_jvwqeveripvjgcxt.jpeg",
+          "question": "Na escuridão, executando a justiça como um ninja, se sentindo solitário, olhando para baixo para criminosos de um lugar alto."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230720_dzdqahzwwdofhzvw.jpeg",
+          "question": "Na escuridão, executando a justiça como um ninja, se sentindo solitário, olhando para baixo para criminosos de um lugar alto."
+        },
+        {
+          "imageUrl": "https://assets.adapt.ws/files/20230719_jitaitlhopzzqsut.jpeg",
+          "question": "Explosão de arma sexual"
+        }
+      ]
+    }
+  ]
+}
